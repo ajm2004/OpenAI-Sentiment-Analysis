@@ -8,3 +8,7 @@
     - Number of Posts: Specify the number of posts to fetch.
     - Sort By: Select the sorting option (e.g., "Top (All Time)", "Hot").
 5. Click Fetch Posts to start fetching data.
+
+### Look at setupGuide.ipynb for more details related to setup and fetch structure
+### Look at access.ipynb to understand basics of praw library
+### Run fetchAllDetails to retrieve all details related to a post in json format only (includes comments and replies and replies of replies)
