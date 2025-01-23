@@ -1,0 +1,195 @@
+Comment ID,Body,Upvotes,Created UTC
+gf9ytjj,Performance? Settings? Running same resolution so I was curious.,722,2020-12-10 13:47:10
+gfa7hmb,"I really wish everyone could experience RTX ultra (I assume the next-gen console update next year will have mild ray tracing, which will be much better than nothing). The rasterized graphics for this game are greatttt in 4K for me, but RTX adds so many changes (most are subtle you'd have to look at side by side comparison screenshots) and other times the changes smack you right in the face. The thing about good RTX implementation is that walking around things just look ""right"". Your brain knows a red neon sign should turn the storefront across the street a red hue and with RTX you get that, with rasterization you don't (I dunno how to post screenshots on here to show an example). You walk by a blue building then see its reflection in another building up ahead as opposed to some generic blob that definitely isn't the building you just walked by. Just far less things for your brain to go ""hey wait a sec that doesn't seem right.""
+
+The reflection resolution on medium/far objects isn't necessarily the greatest though but I obviously understand the need for that to salvage performance.",172,2020-12-10 14:50:17
+gf9yn3v,"Heeey! If you're concerned about high fps, but don't want to compromise on graphical fidelity, here are some settings to consider (compiled from popular posts on /r/cyberpunkgame):  
+  
+Chromatic Aberration: **OFF**  
+Film Grain (helps with blurriness): **OFF**  
+Cascaded Shadow Resolution (a must): **~~OFF~~** **Medium**   
+Nvidia Control Panel > Image Sharpening: **ON**  
+  
+Have fun choombas!  
+  
+#EDIT:  
+Raytracing Settings:  
+**MEDIUM**: Lighting ONLY  
+**ULTRA**: Lighting + Shadows + Reflection  
+**PSYCHO**: Ultra + Global Illumination  
+  
+Link:  
+
+- https://www.reddit.com/r/nvidia/comments/kaaktt/the_absolute_best_settings_for_4k_cyberpunk_for/gf9lmpt/  
+- https://www.reddit.com/r/nvidia/comments/kabhjt/currently_reviewing_the_rtx_3080_and_cyberpunk/gf9qade/",325,2020-12-10 13:45:16
+gf9wea5,"have the same setup, im looking forward to it, but i dont think i will reach my desired 144fps  :P",97,2020-12-10 13:27:21
+gfadc6c,My question is who at cd projekt red let the game be ported to ps4 and xbox one. They are basically selling a slide show presentation at that point haha,112,2020-12-10 15:28:33
+gfaakrh,My overclocked 3070 pumps 62 plus fps ultra rt game looks amazing.,41,2020-12-10 15:10:52
+gfaxzmc,DLSS is such a game changer that I’m actually going to upgrade from the 10 series finally...well as soon as I can get my hands on a 3080,20,2020-12-10 17:45:52
+gfaf1yi,"I'm getting about 70-90fps with some drops at 1440p with a 2080 running ultra settings (no RT because the prebaked lighting is actually really good and in some places I prefer it). 
+
+DLSS on and turned to balanced, I haven't noticed any drop in quality. Game looks absolutely stunning.",19,2020-12-10 15:38:49
+gfahrrf,"Everyone on PC: this game is a work of art
+
+Everyone on Console: this game is blurry trash
+
+$500 console can’t outperform a $1500 gaming PC hmmm never saw that coming...",188,2020-12-10 15:54:41
+gfafhq5,"Anyone running on a 2070? Curious what your settings/performance is
+
+Edit: thanks for all the replies! I’ll be sure to play around with my settings today",24,2020-12-10 15:41:22
+gfas7vo,Now if only they had only not screwed up the menus for UW.,10,2020-12-10 16:59:58
+gf9xmqp,"Wow, this is a much better way to play it than 16:9 4K/60Hz. Probably better performance this way too.",15,2020-12-10 13:37:10
+gfadwc2,"Agreed! This is the first game I have tried where raytracing actually makes a real difference.
+
+I'm lucky enough to be running on max settings at 1600p UW and it's absolutely gorgeous.",7,2020-12-10 15:31:56
+gfaseey,I feel like with everyone talking about how demanding this game is Cyberpunk is basically this generation's Crysis.,7,2020-12-10 17:01:25
+gfb10by,"The name makes sense now,  your frames fluctuate from 20-77",8,2020-12-10 18:09:49
+gfbay26,It's too bad NOBODY CAN FUCKING BUY ONE.,8,2020-12-10 19:29:01
+gfal26u,"CROWD SIZE SETTING is making huge performance GAINS. It’s not in the graphics tab, it’s in like general or something. I saw this on a stream yesterday, nobody knows it’s even there!!!",13,2020-12-10 16:14:02
+gfawfw8,"How are you guys getting 60-70 FPS with ultra-psycho settings and RTX. I have to turn of ray tracing to even hit 60.
+
+Specs: RTX 3080, ryzen 7 2700x , 48 gb ram, UW 1080p 200hz monitor.
+
+I have noticed that my gpu utilization is only ever sub 25% if that makes any difference.",11,2020-12-10 17:33:42
+gf9yc2p,"That looks beautiful, sucks I cant play because my motherboard I faulty and under RMA :(
+
+My 1060 cant handle this lol",12,2020-12-10 13:42:27
+gfb0roa,"I have a 3070 and a Ryzen 5 3600 with a B450F motherboard and can only reach 60fps average on every setting and can't find out why. I have 16GB Corsair Vengeance running at 2133 but have just ordered a new set of Corsair Vengeance RGB Pro 3200 to maybe resolve the issue.  I have a 750W EVGA PSU
+
+wondering if anyone here has any ideas on how to find out whats bottlenecking my system",10,2020-12-10 18:07:52
+gfaoz9h,"I had to turn off RT with my 2080 to make it playable (but still have DLSS on).  
+
+I was getting 40-ish FPS with mostly high settings, some medium with RT on and DLSS on performance on 1440p UW.  Honestly wasn’t that bad at first but some times it’d chug down to 20’s and then it really felt bad!
+
+Didn’t want to turn of RT, tried many settings, but it was the biggest hit I could see (I didn’t test them all).  Now with RT off and DLSS on performance I can play with almost all Ultra settings at 1440p UW on my 2080 and I get about 80fps!  Game still looks beautiful AF too!  I’ll have to save RT for if I can ever get a 3080 I guess.  Oh tried DLSS on balanced and get 65fps, didn’t notice a visual difference though.
+
+Edit: on 3900X, 32GB ram, 2080 (not super or ti) on Corsair 2TB MP600 ssd",4,2020-12-10 16:37:40
+gfb13pz,"1440p everything high with RT/Ultra and all RT on with dlss balanced I'm around 70+fps in the middle of the city at night whilst raining, looks amazing!",5,2020-12-10 18:10:35
+gfbf4j1,Can’t wait to experience cyberpunk with RTX 3080... oh wait I can’t find one in stock. Cries in 1070ti,5,2020-12-10 20:02:46
+gf9waq6,Cool can’t wait to get card next year when they finally have stock of them. Then I can get game.,20,2020-12-10 13:26:28
+gf9yxdc,"What sort of performance ! I have 3440x1440 with a ryx 3080 on pre order , hoping I can bump settings down to high and get a bigger boost for more then 60 ?",3,2020-12-10 13:48:15
+gfa03ed,"I'ma hijack a bit to ser what people prefer to play with on PC M&K or controller?
+
+I started the game with controller, camera never feels natural, it accelerates in weird unlinear ways. I used the controller until it came to shooting. Good lord is awful. Swtiched to M&K and enemies droped like flies, headshot after headshot... That is until I got into a car... Fucking terrible M&K controllers for the car.
+
+I'm torn, I want my crispy shots, but this game is too casual and long to be sitting straight with M&K. Any controller config that could be useful?",11,2020-12-10 14:00:18
+gfa4d77,i'm in 1440p UW... still on a 1080 and getting decent performance.... I only turned off the Shadow Cascading and saw decent performance gains... would be nice to actually find a 3080 in stock!,6,2020-12-10 14:30:49
+gfa0ace,"I can almost see the ray tracing cores in this picture, crazy.",3,2020-12-10 14:02:15
+gfajaul,"Anyone else getting random flatline crashes?
+
+I've had about six or seven usually when interacting with items.
+
+Very annoying and yes I have my drivers updated.",3,2020-12-10 16:03:36
+gfas2mt,Jesus that lighting is gorgeous.,3,2020-12-10 16:58:48
+gfb6brn,You can see your character’s exposed shlong in all of its ray-traced glory.,3,2020-12-10 18:51:57
+gfbdb9r,"Fun fact: it's not an image, it's a video.",3,2020-12-10 19:48:03
+gfbfuci,"*Cries in 1070, low settings*",3,2020-12-10 20:08:37
+gfbie7t,All 50 of you must be thrilled,3,2020-12-10 20:29:19
+gfcd57j,"I was fortunate enough to get a 3080 and the raytracing really is mesmerizing. It's hard to pinpoint exactly where all the differences are when you turn it on but it's like your brain knows this is what it's supposed to look like in real life subconsciously. 
+
+Now the holy grail is combining it with high refresh rates (which DLSS already helps do pretty remarkably).",3,2020-12-11 01:11:26
+gfd22de,"I have a 3090fe and a i7-9700k, I get maybe 65-70fps on average but it will dip to mid 40's when driving through the city or walking around in a heavily populated area. I do use a 38"" ultrawide monitor so maybe that is contributing to it. I won't lie though, spending $1,500 on a gpu and dipping around 45fps in certain areas feels terrible.",3,2020-12-11 04:59:10
+gfd4j40,*cries in ps4 base*,3,2020-12-11 05:26:22
+gfab7bc,So I finally found out the what the number 2077 next to its name: Cyberpunk 2077 means. That’s the year that we can finally have GPUs that can run this thing smoothly and be available.,9,2020-12-10 15:15:53
+gfa3o7r,Imagine being able to find a 3080.,4,2020-12-10 14:26:25
+gfaekfg,"3070 with an i7 7700k
+
+&#x200B;
+
+Daddy needs a new proc. Keeping it 50-60fps outside at UW though ULTRA DLSS QUALITY RT off as I barely can tell the difference.",2,2020-12-10 15:35:58
+gfalbbp,I have a 2060 and still am having a good time in 1080p,2,2020-12-10 16:16:07
+gfapo6e,"There are times it looks great. Then times it looks pretty janky, but that jank look is still beautifully rendered.
+
+Which isn’t the card’s fault.",2,2020-12-10 16:41:37
+gfaqx92,My 970 looks nothing like this lmao,2,2020-12-10 16:49:39
+gfayon1,No pedestrians:/,2,2020-12-10 17:51:21
+gfb651c,"playing in 3440x1440 as well and I'm surprised (in a good way) at just how smooth and great the game feels on my 2080Ti.
+
+The few articles that came out this week seemed to paint a doom and gloom picture of performance as it relates to GPUs
+
+RTX on ultra, DLSS on quality, everything else on high - smooth as butter.  flipping between DLSS off and on makes it clear how it's a pretty big game changer for performance in the RTX world.",2,2020-12-10 18:50:28
+gfben3o,Unicorns are also beautiful.,2,2020-12-10 19:58:49
+gfbjc0f,Cool wish it actually worked,2,2020-12-10 20:36:56
+gfbl6s4,"I cant get higher than 45fps. 3080, 2700x. No matter the res or settings. Gpu utilization stays at 65% or lower",2,2020-12-10 20:51:54
+gfblktc,"This is my setup too. It's incredible. I'm on a Ryzen 5800X with an MSI Gaming X Trio RTX 3080. Performance with everything maxed incl. ray tracing, DLSS on, 3440x1440 has me sitting around 65-70fps average.",2,2020-12-10 20:55:04
+gfbul0f,Wish I could buy an RTX 3080 for a non absurd price.,2,2020-12-10 22:51:45
+gfbvyng,I'm at the same resolution on a 1080ti...Gotta play on low to get playable frames...,2,2020-12-10 23:03:54
+gfc0xdr,"Anyone else experienced a bug where the game just seems to forget that you're running ultrawide?  I'll get large black bars either side of my screen that cuts off most of the game UI.  Opening and closing the game menu (escape) resolves it, but it's still very strange.",2,2020-12-10 23:38:32
+gfc1wwd,"I'm over here with a NZXT modded GTX 1080 hitting mid 50's at 2k maxed out settings. No DLSS to shave the work load, just good 'ol overclocking and coil whine.
+
+I've had the money set aside for a 3080. But, none are obtainable.",2,2020-12-10 23:45:21
+gfccss7,Getting a fairly steady 60FPS with my 2070 Super and Ryzen 5 3600 on high settings... I'm impressed! The game looks phenomenal!,2,2020-12-11 01:08:23
+gfcd0sj,Fuck me... I'm gonna give my xbox one x to a hospital and build a fucking pc. Looks like a whole different game! It should of never been released to xbox....,2,2020-12-11 01:10:22
+gfceg6o,"This is a gameplay video while running these settings for those that say it's just a high-quality screenshot.
+
+https://imgur.com/6v7RWKb",2,2020-12-11 01:23:01
+gfd2s9z,"Looks beautiful in still screenshot. Antialiasing is bad in this game. And performance with RT with 3080 is also not that good. Considering both CDPR and Nvidia marketing I expected Control level of implemenation of DLSS and RT but it's nowhere near. Yes, Control is corridor TPS and this is open world game, but FPS indoors also tanks a lot with RT. Game basically don't like any alt-tab or setting switch because if you do that you get like 5-20 fps lower than after exiting and starting again.  
+RTX 3080 3800x 32gb 3600 RAM",2,2020-12-11 05:06:58
+gfd65ur,"My ps4:
+Just dont try that!",2,2020-12-11 05:45:28
+gfd6qk4,Looks like a different game to the one I'm playing on my 970gtx,2,2020-12-11 05:52:27
+gfdgrlp,And I’m over here on the lowest possible graphic settings making the game look like 360 GTA5 :|,2,2020-12-11 08:12:24
+gfe40ow,I’ve been running at 5120x1440 on a 3080 with maxed out settings and it’s freaking gorgeous. Has yet to drop below 50 fps that I’ve noticed. I’m not as big on refresh rate in a game like this as sone may be; this game actually runs better than the Witcher at maxed out specs. I’m impressed! 😀,2,2020-12-11 13:59:44
+gfeqqh7,"Awesome setup! The RTX 3080 is literally a beast at 1440p.
+
+With everything at max (runs at 62-68fps)
+Turn off - Film grain, Chromatic aberration and motion blur, makes the game look more sharp imo.
+DLSS set to ''Quality'' does wonder for me.
+Ray-Traced Lighting set to ''Psycho'' instead of ''Ultra'' has no impact on performance in my experience.
+There's also the ''Screen Space Reflections Quality'' which can be set to ''Psycho'' with no visible hit in performance. All in all the game runs perfectly fine with the RTX 3080.
+
+My system:
+
+Intel i7 9700K (4.9GHz)
+32GB DDR4 (3200) - G.Skill TridentZ
+Gigabyte RTX 3080 Vision (The best-looking version IMO)",2,2020-12-11 17:10:52
+gj0t4hz,Considering robbing a scalper for a 3090.,2,2021-01-12 17:58:53
+gkdz45p,Meanwhile on the PS4:,2,2021-01-23 15:29:24
+gfaiurf,"I am so sad I found a stuck pixel on my Samsung G7 monitor right before release. I can't. Stop. Looking. At it.
+
+Its most pronounced on dark/black colors too. I've looked up and tried everything to fix it but if anyone has options that have worked for them I'd appreciate  suggestions.",3,2020-12-10 16:01:01
+gfbh7yg,...running at 14 fps,4,2020-12-10 20:19:48
+gfahfoz,What kinda fps are you running? I'm playing on everything maxed with my 2080 Super/3700x and i'm averaging 50ish @ 1440p. Completely playable,2,2020-12-10 15:52:49
+gfajlug,"Ill tell you whats not amazing, trying to play it on my 970 because i cant get a 3080!",2,2020-12-10 16:05:24
+gfa7ysw,Looks good but plays like shit. the menu isn't optimized for wqhd+ too. It gets cut off,1,2020-12-10 14:53:19
+gfajohs,"I've been playing it at the same resolution.
+
+Is it just me or is the game very blurry? I've set everything on max, no motion blur, no film grain.",1,2020-12-10 16:05:53
+gf9wueo,"I haven't got into the city and i'm only running a 1080Ti but when i put the settings on Ultra in the desert at 1440p i was actually a little underwhelmed, a mixture of blur and poor AA made the game looked worse than i was expecting. 
+
+Your screenshot looks nice though.",1,2020-12-10 13:30:49
+gfa61hy,Anything would look beautiful if you spend enough money.,1,2020-12-10 14:41:22
+gf9yvis,it doesnt using the same config but at 1080p?,1,2020-12-10 13:47:44
+gfadwh0,"I have this setup with a 2080ti. I max everything, turn off ray tracing, set dlss to auto and it looks and runs like a dream. It hasn’t gone below 60 FPS yet. Average about 75.",1,2020-12-10 15:31:58
+gfajrns,You’re so lucky. My GTX 1080 is barely getting 40fps at Medium settings. Game looks pretty bad that low.,1,2020-12-10 16:06:24
+gfanliz,"Yo wtf, mine looks nothing like this.",1,2020-12-10 16:29:42
+gfap9rx,I have a 3070 and a ryzen 9 5900 on the way. I'm hoping I'll be able to get at least 30 fps at 1440p,1,2020-12-10 16:39:22
+gfaypmh,"Samsung G9 owner here. It looks even wider on my G9 than this. But I have to say, my B9 OLED blows my ultrawide out of the water for this game.
+
+I'll take the much better low APL performance of my OLED over the extra width any day of the week for this game.",1,2020-12-10 17:51:35
+gfb81tg,[deleted],1,2020-12-10 19:05:36
+gfbf8g0,PS4 players: https://youtu.be/ft8QFFxXGdY,1,2020-12-10 20:03:40
+gfbk234,Yeah looks great in a static screenshot.... running is a different story,1,2020-12-10 20:42:50
+gfblrw1,Its good in stills. Im extremely disappointed by the graphics while playing.,1,2020-12-10 20:56:41
+gfa6y7h,"Me with no 3000 card, no cyberpunk, and a 1080p monitor: 😑",0,2020-12-10 14:46:59
+gfac0e1,"you have these garbage effetcs depth of field, chromatic abberation and film grain enabled it doesnt look beautiful",-4,2020-12-10 15:20:40
+gfb4tt1,Not a 3090 lmaooooo trash,0,2020-12-10 18:40:07
+gfc8s8q,These are the posts that make me come face to face with the realization that Reddit is a bunch of fucking loser nerds with no friends.,-1,2020-12-11 00:33:19
+gfadhc0,"While I agree the game overall looks amazing(even without rtx), I just watched a 3090 video, the Obeckt and npc pop in is horrible, looks like some kind of texture glitch, also object gain LOD way close to the camera during movement.
+
+This it he best looking game imo(RDR2 is also quite amazing), but this must have been be way more polished, the pop in is really immersion breaking.
+
+Video ref : [https://www.youtube.com/watch?v=SvtAl8\_pi2E](https://www.youtube.com/watch?v=SvtAl8_pi2E)",0,2020-12-10 15:29:24
+gfafi5j,"I love Ultrawide but there's some screens where it defaults back to 16:9 and you can't touch the things you need, for example the inventory screen. You getting that bug too?",0,2020-12-10 15:41:26
+gfarltf,"2080ti kills the performance too. I’ve been pleasantly surprised at how capable this old girl is.
+
+9900kf 5Ghz all core, 16GB*2 3200 MHz CL14, 2080ti EVGA FTW3 Ultra.",0,2020-12-10 16:55:05
+gfbdsoj,"With an ultrawide, 5900x, and ftw3 3080, I now feel obligated to buy this game and play it for those who cannot haha",0,2020-12-10 19:51:57
+gfc1jcr,I am also 3440x1440 @144Hz. My 980 can do 23FPS on low settings hahahaha.,0,2020-12-10 23:42:42
+gfdheqj,"I just sold my rtx 3080 today, but before I sold it I made sure to play atleast 3 hours of it",0,2020-12-11 08:22:35
+gfdhkmb,Almost looks as good as PS4,0,2020-12-11 08:25:16
+gfdmf8t,"Take a vid instead of a pic, chief.
+Lmao, worried youll get shat on ur shitty 40 fps? 😂",0,2020-12-11 09:45:46
+gfaili9,What 3080? Do they even exist?,-1,2020-12-10 15:59:32
+gfal8na,I managed to get 15FPS on a 2080Ti on low settings,-1,2020-12-10 16:15:30
+gfauvzo,"my gtx 1080ti i got 80 fps on low , beter than nothing,they make the game very hungry, so they want sure RTX 3080 x2 SLI , hm that's business Devs has sure some profit from GPUs manufacturers",-1,2020-12-10 17:21:21

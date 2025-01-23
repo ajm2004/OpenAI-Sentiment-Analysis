@@ -1,0 +1,592 @@
+{
+    "Post ID": "kaf636",
+    "Title": "Cyberpunk 2077 looks absolutely beautiful in 1440p UW with an RTX 3080",
+    "Body": "",
+    "Upvotes": 17123,
+    "URL": "https://i.redd.it/xef23t522d461.jpg",
+    "Created UTC": "2020-12-10 13:22:08",
+    "Comments": [
+        {
+            "Comment ID": "gf9ytjj",
+            "Body": "Performance? Settings? Running same resolution so I was curious.",
+            "Upvotes": 722,
+            "Created UTC": "2020-12-10 13:47:10"
+        },
+        {
+            "Comment ID": "gfa7hmb",
+            "Body": "I really wish everyone could experience RTX ultra (I assume the next-gen console update next year will have mild ray tracing, which will be much better than nothing). The rasterized graphics for this game are greatttt in 4K for me, but RTX adds so many changes (most are subtle you'd have to look at side by side comparison screenshots) and other times the changes smack you right in the face. The thing about good RTX implementation is that walking around things just look \"right\". Your brain knows a red neon sign should turn the storefront across the street a red hue and with RTX you get that, with rasterization you don't (I dunno how to post screenshots on here to show an example). You walk by a blue building then see its reflection in another building up ahead as opposed to some generic blob that definitely isn't the building you just walked by. Just far less things for your brain to go \"hey wait a sec that doesn't seem right.\"\n\nThe reflection resolution on medium/far objects isn't necessarily the greatest though but I obviously understand the need for that to salvage performance.",
+            "Upvotes": 172,
+            "Created UTC": "2020-12-10 14:50:17"
+        },
+        {
+            "Comment ID": "gf9yn3v",
+            "Body": "Heeey! If you're concerned about high fps, but don't want to compromise on graphical fidelity, here are some settings to consider (compiled from popular posts on /r/cyberpunkgame):  \n  \nChromatic Aberration: **OFF**  \nFilm Grain (helps with blurriness): **OFF**  \nCascaded Shadow Resolution (a must): **~~OFF~~** **Medium**   \nNvidia Control Panel > Image Sharpening: **ON**  \n  \nHave fun choombas!  \n  \n#EDIT:  \nRaytracing Settings:  \n**MEDIUM**: Lighting ONLY  \n**ULTRA**: Lighting + Shadows + Reflection  \n**PSYCHO**: Ultra + Global Illumination  \n  \nLink:  \n\n- https://www.reddit.com/r/nvidia/comments/kaaktt/the_absolute_best_settings_for_4k_cyberpunk_for/gf9lmpt/  \n- https://www.reddit.com/r/nvidia/comments/kabhjt/currently_reviewing_the_rtx_3080_and_cyberpunk/gf9qade/",
+            "Upvotes": 325,
+            "Created UTC": "2020-12-10 13:45:16"
+        },
+        {
+            "Comment ID": "gf9wea5",
+            "Body": "have the same setup, im looking forward to it, but i dont think i will reach my desired 144fps  :P",
+            "Upvotes": 97,
+            "Created UTC": "2020-12-10 13:27:21"
+        },
+        {
+            "Comment ID": "gfadc6c",
+            "Body": "My question is who at cd projekt red let the game be ported to ps4 and xbox one. They are basically selling a slide show presentation at that point haha",
+            "Upvotes": 112,
+            "Created UTC": "2020-12-10 15:28:33"
+        },
+        {
+            "Comment ID": "gfaakrh",
+            "Body": "My overclocked 3070 pumps 62 plus fps ultra rt game looks amazing.",
+            "Upvotes": 41,
+            "Created UTC": "2020-12-10 15:10:52"
+        },
+        {
+            "Comment ID": "gfaxzmc",
+            "Body": "DLSS is such a game changer that I\u2019m actually going to upgrade from the 10 series finally...well as soon as I can get my hands on a 3080",
+            "Upvotes": 20,
+            "Created UTC": "2020-12-10 17:45:52"
+        },
+        {
+            "Comment ID": "gfaf1yi",
+            "Body": "I'm getting about 70-90fps with some drops at 1440p with a 2080 running ultra settings (no RT because the prebaked lighting is actually really good and in some places I prefer it). \n\nDLSS on and turned to balanced, I haven't noticed any drop in quality. Game looks absolutely stunning.",
+            "Upvotes": 19,
+            "Created UTC": "2020-12-10 15:38:49"
+        },
+        {
+            "Comment ID": "gfahrrf",
+            "Body": "Everyone on PC: this game is a work of art\n\nEveryone on Console: this game is blurry trash\n\n$500 console can\u2019t outperform a $1500 gaming PC hmmm never saw that coming...",
+            "Upvotes": 188,
+            "Created UTC": "2020-12-10 15:54:41"
+        },
+        {
+            "Comment ID": "gfafhq5",
+            "Body": "Anyone running on a 2070? Curious what your settings/performance is\n\nEdit: thanks for all the replies! I\u2019ll be sure to play around with my settings today",
+            "Upvotes": 24,
+            "Created UTC": "2020-12-10 15:41:22"
+        },
+        {
+            "Comment ID": "gfas7vo",
+            "Body": "Now if only they had only not screwed up the menus for UW.",
+            "Upvotes": 10,
+            "Created UTC": "2020-12-10 16:59:58"
+        },
+        {
+            "Comment ID": "gf9xmqp",
+            "Body": "Wow, this is a much better way to play it than 16:9 4K/60Hz. Probably better performance this way too.",
+            "Upvotes": 15,
+            "Created UTC": "2020-12-10 13:37:10"
+        },
+        {
+            "Comment ID": "gfadwc2",
+            "Body": "Agreed! This is the first game I have tried where raytracing actually makes a real difference.\n\nI'm lucky enough to be running on max settings at 1600p UW and it's absolutely gorgeous.",
+            "Upvotes": 7,
+            "Created UTC": "2020-12-10 15:31:56"
+        },
+        {
+            "Comment ID": "gfaseey",
+            "Body": "I feel like with everyone talking about how demanding this game is Cyberpunk is basically this generation's Crysis.",
+            "Upvotes": 7,
+            "Created UTC": "2020-12-10 17:01:25"
+        },
+        {
+            "Comment ID": "gfb10by",
+            "Body": "The name makes sense now,  your frames fluctuate from 20-77",
+            "Upvotes": 8,
+            "Created UTC": "2020-12-10 18:09:49"
+        },
+        {
+            "Comment ID": "gfbay26",
+            "Body": "It's too bad NOBODY CAN FUCKING BUY ONE.",
+            "Upvotes": 8,
+            "Created UTC": "2020-12-10 19:29:01"
+        },
+        {
+            "Comment ID": "gfal26u",
+            "Body": "CROWD SIZE SETTING is making huge performance GAINS. It\u2019s not in the graphics tab, it\u2019s in like general or something. I saw this on a stream yesterday, nobody knows it\u2019s even there!!!",
+            "Upvotes": 13,
+            "Created UTC": "2020-12-10 16:14:02"
+        },
+        {
+            "Comment ID": "gfawfw8",
+            "Body": "How are you guys getting 60-70 FPS with ultra-psycho settings and RTX. I have to turn of ray tracing to even hit 60.\n\nSpecs: RTX 3080, ryzen 7 2700x , 48 gb ram, UW 1080p 200hz monitor.\n\nI have noticed that my gpu utilization is only ever sub 25% if that makes any difference.",
+            "Upvotes": 11,
+            "Created UTC": "2020-12-10 17:33:42"
+        },
+        {
+            "Comment ID": "gf9yc2p",
+            "Body": "That looks beautiful, sucks I cant play because my motherboard I faulty and under RMA :(\n\nMy 1060 cant handle this lol",
+            "Upvotes": 12,
+            "Created UTC": "2020-12-10 13:42:27"
+        },
+        {
+            "Comment ID": "gfb0roa",
+            "Body": "I have a 3070 and a Ryzen 5 3600 with a B450F motherboard and can only reach 60fps average on every setting and can't find out why. I have 16GB Corsair Vengeance running at 2133 but have just ordered a new set of Corsair Vengeance RGB Pro 3200 to maybe resolve the issue.  I have a 750W EVGA PSU\n\nwondering if anyone here has any ideas on how to find out whats bottlenecking my system",
+            "Upvotes": 10,
+            "Created UTC": "2020-12-10 18:07:52"
+        },
+        {
+            "Comment ID": "gfaoz9h",
+            "Body": "I had to turn off RT with my 2080 to make it playable (but still have DLSS on).  \n\nI was getting 40-ish FPS with mostly high settings, some medium with RT on and DLSS on performance on 1440p UW.  Honestly wasn\u2019t that bad at first but some times it\u2019d chug down to 20\u2019s and then it really felt bad!\n\nDidn\u2019t want to turn of RT, tried many settings, but it was the biggest hit I could see (I didn\u2019t test them all).  Now with RT off and DLSS on performance I can play with almost all Ultra settings at 1440p UW on my 2080 and I get about 80fps!  Game still looks beautiful AF too!  I\u2019ll have to save RT for if I can ever get a 3080 I guess.  Oh tried DLSS on balanced and get 65fps, didn\u2019t notice a visual difference though.\n\nEdit: on 3900X, 32GB ram, 2080 (not super or ti) on Corsair 2TB MP600 ssd",
+            "Upvotes": 4,
+            "Created UTC": "2020-12-10 16:37:40"
+        },
+        {
+            "Comment ID": "gfb13pz",
+            "Body": "1440p everything high with RT/Ultra and all RT on with dlss balanced I'm around 70+fps in the middle of the city at night whilst raining, looks amazing!",
+            "Upvotes": 5,
+            "Created UTC": "2020-12-10 18:10:35"
+        },
+        {
+            "Comment ID": "gfbf4j1",
+            "Body": "Can\u2019t wait to experience cyberpunk with RTX 3080... oh wait I can\u2019t find one in stock. Cries in 1070ti",
+            "Upvotes": 5,
+            "Created UTC": "2020-12-10 20:02:46"
+        },
+        {
+            "Comment ID": "gf9waq6",
+            "Body": "Cool can\u2019t wait to get card next year when they finally have stock of them. Then I can get game.",
+            "Upvotes": 20,
+            "Created UTC": "2020-12-10 13:26:28"
+        },
+        {
+            "Comment ID": "gf9yxdc",
+            "Body": "What sort of performance ! I have 3440x1440 with a ryx 3080 on pre order , hoping I can bump settings down to high and get a bigger boost for more then 60 ?",
+            "Upvotes": 3,
+            "Created UTC": "2020-12-10 13:48:15"
+        },
+        {
+            "Comment ID": "gfa03ed",
+            "Body": "I'ma hijack a bit to ser what people prefer to play with on PC M&K or controller?\n\nI started the game with controller, camera never feels natural, it accelerates in weird unlinear ways. I used the controller until it came to shooting. Good lord is awful. Swtiched to M&K and enemies droped like flies, headshot after headshot... That is until I got into a car... Fucking terrible M&K controllers for the car.\n\nI'm torn, I want my crispy shots, but this game is too casual and long to be sitting straight with M&K. Any controller config that could be useful?",
+            "Upvotes": 11,
+            "Created UTC": "2020-12-10 14:00:18"
+        },
+        {
+            "Comment ID": "gfa4d77",
+            "Body": "i'm in 1440p UW... still on a 1080 and getting decent performance.... I only turned off the Shadow Cascading and saw decent performance gains... would be nice to actually find a 3080 in stock!",
+            "Upvotes": 6,
+            "Created UTC": "2020-12-10 14:30:49"
+        },
+        {
+            "Comment ID": "gfa0ace",
+            "Body": "I can almost see the ray tracing cores in this picture, crazy.",
+            "Upvotes": 3,
+            "Created UTC": "2020-12-10 14:02:15"
+        },
+        {
+            "Comment ID": "gfajaul",
+            "Body": "Anyone else getting random flatline crashes?\n\nI've had about six or seven usually when interacting with items.\n\nVery annoying and yes I have my drivers updated.",
+            "Upvotes": 3,
+            "Created UTC": "2020-12-10 16:03:36"
+        },
+        {
+            "Comment ID": "gfas2mt",
+            "Body": "Jesus that lighting is gorgeous.",
+            "Upvotes": 3,
+            "Created UTC": "2020-12-10 16:58:48"
+        },
+        {
+            "Comment ID": "gfb6brn",
+            "Body": "You can see your character\u2019s exposed shlong in all of its ray-traced glory.",
+            "Upvotes": 3,
+            "Created UTC": "2020-12-10 18:51:57"
+        },
+        {
+            "Comment ID": "gfbdb9r",
+            "Body": "Fun fact: it's not an image, it's a video.",
+            "Upvotes": 3,
+            "Created UTC": "2020-12-10 19:48:03"
+        },
+        {
+            "Comment ID": "gfbfuci",
+            "Body": "*Cries in 1070, low settings*",
+            "Upvotes": 3,
+            "Created UTC": "2020-12-10 20:08:37"
+        },
+        {
+            "Comment ID": "gfbie7t",
+            "Body": "All 50 of you must be thrilled",
+            "Upvotes": 3,
+            "Created UTC": "2020-12-10 20:29:19"
+        },
+        {
+            "Comment ID": "gfcd57j",
+            "Body": "I was fortunate enough to get a 3080 and the raytracing really is mesmerizing. It's hard to pinpoint exactly where all the differences are when you turn it on but it's like your brain knows this is what it's supposed to look like in real life subconsciously. \n\nNow the holy grail is combining it with high refresh rates (which DLSS already helps do pretty remarkably).",
+            "Upvotes": 3,
+            "Created UTC": "2020-12-11 01:11:26"
+        },
+        {
+            "Comment ID": "gfd22de",
+            "Body": "I have a 3090fe and a i7-9700k, I get maybe 65-70fps on average but it will dip to mid 40's when driving through the city or walking around in a heavily populated area. I do use a 38\" ultrawide monitor so maybe that is contributing to it. I won't lie though, spending $1,500 on a gpu and dipping around 45fps in certain areas feels terrible.",
+            "Upvotes": 3,
+            "Created UTC": "2020-12-11 04:59:10"
+        },
+        {
+            "Comment ID": "gfd4j40",
+            "Body": "*cries in ps4 base*",
+            "Upvotes": 3,
+            "Created UTC": "2020-12-11 05:26:22"
+        },
+        {
+            "Comment ID": "gfab7bc",
+            "Body": "So I finally found out the what the number 2077 next to its name: Cyberpunk 2077 means. That\u2019s the year that we can finally have GPUs that can run this thing smoothly and be available.",
+            "Upvotes": 9,
+            "Created UTC": "2020-12-10 15:15:53"
+        },
+        {
+            "Comment ID": "gfa3o7r",
+            "Body": "Imagine being able to find a 3080.",
+            "Upvotes": 4,
+            "Created UTC": "2020-12-10 14:26:25"
+        },
+        {
+            "Comment ID": "gfaekfg",
+            "Body": "3070 with an i7 7700k\n\n&#x200B;\n\nDaddy needs a new proc. Keeping it 50-60fps outside at UW though ULTRA DLSS QUALITY RT off as I barely can tell the difference.",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-10 15:35:58"
+        },
+        {
+            "Comment ID": "gfalbbp",
+            "Body": "I have a 2060 and still am having a good time in 1080p",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-10 16:16:07"
+        },
+        {
+            "Comment ID": "gfapo6e",
+            "Body": "There are times it looks great. Then times it looks pretty janky, but that jank look is still beautifully rendered.\n\nWhich isn\u2019t the card\u2019s fault.",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-10 16:41:37"
+        },
+        {
+            "Comment ID": "gfaqx92",
+            "Body": "My 970 looks nothing like this lmao",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-10 16:49:39"
+        },
+        {
+            "Comment ID": "gfayon1",
+            "Body": "No pedestrians:/",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-10 17:51:21"
+        },
+        {
+            "Comment ID": "gfb651c",
+            "Body": "playing in 3440x1440 as well and I'm surprised (in a good way) at just how smooth and great the game feels on my 2080Ti.\n\nThe few articles that came out this week seemed to paint a doom and gloom picture of performance as it relates to GPUs\n\nRTX on ultra, DLSS on quality, everything else on high - smooth as butter.  flipping between DLSS off and on makes it clear how it's a pretty big game changer for performance in the RTX world.",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-10 18:50:28"
+        },
+        {
+            "Comment ID": "gfben3o",
+            "Body": "Unicorns are also beautiful.",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-10 19:58:49"
+        },
+        {
+            "Comment ID": "gfbjc0f",
+            "Body": "Cool wish it actually worked",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-10 20:36:56"
+        },
+        {
+            "Comment ID": "gfbl6s4",
+            "Body": "I cant get higher than 45fps. 3080, 2700x. No matter the res or settings. Gpu utilization stays at 65% or lower",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-10 20:51:54"
+        },
+        {
+            "Comment ID": "gfblktc",
+            "Body": "This is my setup too. It's incredible. I'm on a Ryzen 5800X with an MSI Gaming X Trio RTX 3080. Performance with everything maxed incl. ray tracing, DLSS on, 3440x1440 has me sitting around 65-70fps average.",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-10 20:55:04"
+        },
+        {
+            "Comment ID": "gfbul0f",
+            "Body": "Wish I could buy an RTX 3080 for a non absurd price.",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-10 22:51:45"
+        },
+        {
+            "Comment ID": "gfbvyng",
+            "Body": "I'm at the same resolution on a 1080ti...Gotta play on low to get playable frames...",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-10 23:03:54"
+        },
+        {
+            "Comment ID": "gfc0xdr",
+            "Body": "Anyone else experienced a bug where the game just seems to forget that you're running ultrawide?  I'll get large black bars either side of my screen that cuts off most of the game UI.  Opening and closing the game menu (escape) resolves it, but it's still very strange.",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-10 23:38:32"
+        },
+        {
+            "Comment ID": "gfc1wwd",
+            "Body": "I'm over here with a NZXT modded GTX 1080 hitting mid 50's at 2k maxed out settings. No DLSS to shave the work load, just good 'ol overclocking and coil whine.\n\nI've had the money set aside for a 3080. But, none are obtainable.",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-10 23:45:21"
+        },
+        {
+            "Comment ID": "gfccss7",
+            "Body": "Getting a fairly steady 60FPS with my 2070 Super and Ryzen 5 3600 on high settings... I'm impressed! The game looks phenomenal!",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-11 01:08:23"
+        },
+        {
+            "Comment ID": "gfcd0sj",
+            "Body": "Fuck me... I'm gonna give my xbox one x to a hospital and build a fucking pc. Looks like a whole different game! It should of never been released to xbox....",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-11 01:10:22"
+        },
+        {
+            "Comment ID": "gfceg6o",
+            "Body": "This is a gameplay video while running these settings for those that say it's just a high-quality screenshot.\n\nhttps://imgur.com/6v7RWKb",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-11 01:23:01"
+        },
+        {
+            "Comment ID": "gfd2s9z",
+            "Body": "Looks beautiful in still screenshot. Antialiasing is bad in this game. And performance with RT with 3080 is also not that good. Considering both CDPR and Nvidia marketing I expected Control level of implemenation of DLSS and RT but it's nowhere near. Yes, Control is corridor TPS and this is open world game, but FPS indoors also tanks a lot with RT. Game basically don't like any alt-tab or setting switch because if you do that you get like 5-20 fps lower than after exiting and starting again.  \nRTX 3080 3800x 32gb 3600 RAM",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-11 05:06:58"
+        },
+        {
+            "Comment ID": "gfd65ur",
+            "Body": "My ps4:\nJust dont try that!",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-11 05:45:28"
+        },
+        {
+            "Comment ID": "gfd6qk4",
+            "Body": "Looks like a different game to the one I'm playing on my 970gtx",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-11 05:52:27"
+        },
+        {
+            "Comment ID": "gfdgrlp",
+            "Body": "And I\u2019m over here on the lowest possible graphic settings making the game look like 360 GTA5 :|",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-11 08:12:24"
+        },
+        {
+            "Comment ID": "gfe40ow",
+            "Body": "I\u2019ve been running at 5120x1440 on a 3080 with maxed out settings and it\u2019s freaking gorgeous. Has yet to drop below 50 fps that I\u2019ve noticed. I\u2019m not as big on refresh rate in a game like this as sone may be; this game actually runs better than the Witcher at maxed out specs. I\u2019m impressed! \ud83d\ude00",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-11 13:59:44"
+        },
+        {
+            "Comment ID": "gfeqqh7",
+            "Body": "Awesome setup! The RTX 3080 is literally a beast at 1440p.\n\nWith everything at max (runs at 62-68fps)\nTurn off - Film grain, Chromatic aberration and motion blur, makes the game look more sharp imo.\nDLSS set to ''Quality'' does wonder for me.\nRay-Traced Lighting set to ''Psycho'' instead of ''Ultra'' has no impact on performance in my experience.\nThere's also the ''Screen Space Reflections Quality'' which can be set to ''Psycho'' with no visible hit in performance. All in all the game runs perfectly fine with the RTX 3080.\n\nMy system:\n\nIntel i7 9700K (4.9GHz)\n32GB DDR4 (3200) - G.Skill TridentZ\nGigabyte RTX 3080 Vision (The best-looking version IMO)",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-11 17:10:52"
+        },
+        {
+            "Comment ID": "gj0t4hz",
+            "Body": "Considering robbing a scalper for a 3090.",
+            "Upvotes": 2,
+            "Created UTC": "2021-01-12 17:58:53"
+        },
+        {
+            "Comment ID": "gkdz45p",
+            "Body": "Meanwhile on the PS4:",
+            "Upvotes": 2,
+            "Created UTC": "2021-01-23 15:29:24"
+        },
+        {
+            "Comment ID": "gfaiurf",
+            "Body": "I am so sad I found a stuck pixel on my Samsung G7 monitor right before release. I can't. Stop. Looking. At it.\n\nIts most pronounced on dark/black colors too. I've looked up and tried everything to fix it but if anyone has options that have worked for them I'd appreciate  suggestions.",
+            "Upvotes": 3,
+            "Created UTC": "2020-12-10 16:01:01"
+        },
+        {
+            "Comment ID": "gfbh7yg",
+            "Body": "...running at 14 fps",
+            "Upvotes": 4,
+            "Created UTC": "2020-12-10 20:19:48"
+        },
+        {
+            "Comment ID": "gfahfoz",
+            "Body": "What kinda fps are you running? I'm playing on everything maxed with my 2080 Super/3700x and i'm averaging 50ish @ 1440p. Completely playable",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-10 15:52:49"
+        },
+        {
+            "Comment ID": "gfajlug",
+            "Body": "Ill tell you whats not amazing, trying to play it on my 970 because i cant get a 3080!",
+            "Upvotes": 2,
+            "Created UTC": "2020-12-10 16:05:24"
+        },
+        {
+            "Comment ID": "gfa7ysw",
+            "Body": "Looks good but plays like shit. the menu isn't optimized for wqhd+ too. It gets cut off",
+            "Upvotes": 1,
+            "Created UTC": "2020-12-10 14:53:19"
+        },
+        {
+            "Comment ID": "gfajohs",
+            "Body": "I've been playing it at the same resolution.\n\nIs it just me or is the game very blurry? I've set everything on max, no motion blur, no film grain.",
+            "Upvotes": 1,
+            "Created UTC": "2020-12-10 16:05:53"
+        },
+        {
+            "Comment ID": "gf9wueo",
+            "Body": "I haven't got into the city and i'm only running a 1080Ti but when i put the settings on Ultra in the desert at 1440p i was actually a little underwhelmed, a mixture of blur and poor AA made the game looked worse than i was expecting. \n\nYour screenshot looks nice though.",
+            "Upvotes": 1,
+            "Created UTC": "2020-12-10 13:30:49"
+        },
+        {
+            "Comment ID": "gfa61hy",
+            "Body": "Anything would look beautiful if you spend enough money.",
+            "Upvotes": 1,
+            "Created UTC": "2020-12-10 14:41:22"
+        },
+        {
+            "Comment ID": "gf9yvis",
+            "Body": "it doesnt using the same config but at 1080p?",
+            "Upvotes": 1,
+            "Created UTC": "2020-12-10 13:47:44"
+        },
+        {
+            "Comment ID": "gfadwh0",
+            "Body": "I have this setup with a 2080ti. I max everything, turn off ray tracing, set dlss to auto and it looks and runs like a dream. It hasn\u2019t gone below 60 FPS yet. Average about 75.",
+            "Upvotes": 1,
+            "Created UTC": "2020-12-10 15:31:58"
+        },
+        {
+            "Comment ID": "gfajrns",
+            "Body": "You\u2019re so lucky. My GTX 1080 is barely getting 40fps at Medium settings. Game looks pretty bad that low.",
+            "Upvotes": 1,
+            "Created UTC": "2020-12-10 16:06:24"
+        },
+        {
+            "Comment ID": "gfanliz",
+            "Body": "Yo wtf, mine looks nothing like this.",
+            "Upvotes": 1,
+            "Created UTC": "2020-12-10 16:29:42"
+        },
+        {
+            "Comment ID": "gfap9rx",
+            "Body": "I have a 3070 and a ryzen 9 5900 on the way. I'm hoping I'll be able to get at least 30 fps at 1440p",
+            "Upvotes": 1,
+            "Created UTC": "2020-12-10 16:39:22"
+        },
+        {
+            "Comment ID": "gfaypmh",
+            "Body": "Samsung G9 owner here. It looks even wider on my G9 than this. But I have to say, my B9 OLED blows my ultrawide out of the water for this game.\n\nI'll take the much better low APL performance of my OLED over the extra width any day of the week for this game.",
+            "Upvotes": 1,
+            "Created UTC": "2020-12-10 17:51:35"
+        },
+        {
+            "Comment ID": "gfb81tg",
+            "Body": "[deleted]",
+            "Upvotes": 1,
+            "Created UTC": "2020-12-10 19:05:36"
+        },
+        {
+            "Comment ID": "gfbf8g0",
+            "Body": "PS4 players: https://youtu.be/ft8QFFxXGdY",
+            "Upvotes": 1,
+            "Created UTC": "2020-12-10 20:03:40"
+        },
+        {
+            "Comment ID": "gfbk234",
+            "Body": "Yeah looks great in a static screenshot.... running is a different story",
+            "Upvotes": 1,
+            "Created UTC": "2020-12-10 20:42:50"
+        },
+        {
+            "Comment ID": "gfblrw1",
+            "Body": "Its good in stills. Im extremely disappointed by the graphics while playing.",
+            "Upvotes": 1,
+            "Created UTC": "2020-12-10 20:56:41"
+        },
+        {
+            "Comment ID": "gfa6y7h",
+            "Body": "Me with no 3000 card, no cyberpunk, and a 1080p monitor: \ud83d\ude11",
+            "Upvotes": 0,
+            "Created UTC": "2020-12-10 14:46:59"
+        },
+        {
+            "Comment ID": "gfac0e1",
+            "Body": "you have these garbage effetcs depth of field, chromatic abberation and film grain enabled it doesnt look beautiful",
+            "Upvotes": -4,
+            "Created UTC": "2020-12-10 15:20:40"
+        },
+        {
+            "Comment ID": "gfb4tt1",
+            "Body": "Not a 3090 lmaooooo trash",
+            "Upvotes": 0,
+            "Created UTC": "2020-12-10 18:40:07"
+        },
+        {
+            "Comment ID": "gfc8s8q",
+            "Body": "These are the posts that make me come face to face with the realization that Reddit is a bunch of fucking loser nerds with no friends.",
+            "Upvotes": -1,
+            "Created UTC": "2020-12-11 00:33:19"
+        },
+        {
+            "Comment ID": "gfadhc0",
+            "Body": "While I agree the game overall looks amazing(even without rtx), I just watched a 3090 video, the Obeckt and npc pop in is horrible, looks like some kind of texture glitch, also object gain LOD way close to the camera during movement.\n\nThis it he best looking game imo(RDR2 is also quite amazing), but this must have been be way more polished, the pop in is really immersion breaking.\n\nVideo ref : [https://www.youtube.com/watch?v=SvtAl8\\_pi2E](https://www.youtube.com/watch?v=SvtAl8_pi2E)",
+            "Upvotes": 0,
+            "Created UTC": "2020-12-10 15:29:24"
+        },
+        {
+            "Comment ID": "gfafi5j",
+            "Body": "I love Ultrawide but there's some screens where it defaults back to 16:9 and you can't touch the things you need, for example the inventory screen. You getting that bug too?",
+            "Upvotes": 0,
+            "Created UTC": "2020-12-10 15:41:26"
+        },
+        {
+            "Comment ID": "gfarltf",
+            "Body": "2080ti kills the performance too. I\u2019ve been pleasantly surprised at how capable this old girl is.\n\n9900kf 5Ghz all core, 16GB*2 3200 MHz CL14, 2080ti EVGA FTW3 Ultra.",
+            "Upvotes": 0,
+            "Created UTC": "2020-12-10 16:55:05"
+        },
+        {
+            "Comment ID": "gfbdsoj",
+            "Body": "With an ultrawide, 5900x, and ftw3 3080, I now feel obligated to buy this game and play it for those who cannot haha",
+            "Upvotes": 0,
+            "Created UTC": "2020-12-10 19:51:57"
+        },
+        {
+            "Comment ID": "gfc1jcr",
+            "Body": "I am also 3440x1440 @144Hz. My 980 can do 23FPS on low settings hahahaha.",
+            "Upvotes": 0,
+            "Created UTC": "2020-12-10 23:42:42"
+        },
+        {
+            "Comment ID": "gfdheqj",
+            "Body": "I just sold my rtx 3080 today, but before I sold it I made sure to play atleast 3 hours of it",
+            "Upvotes": 0,
+            "Created UTC": "2020-12-11 08:22:35"
+        },
+        {
+            "Comment ID": "gfdhkmb",
+            "Body": "Almost looks as good as PS4",
+            "Upvotes": 0,
+            "Created UTC": "2020-12-11 08:25:16"
+        },
+        {
+            "Comment ID": "gfdmf8t",
+            "Body": "Take a vid instead of a pic, chief.\nLmao, worried youll get shat on ur shitty 40 fps? \ud83d\ude02",
+            "Upvotes": 0,
+            "Created UTC": "2020-12-11 09:45:46"
+        },
+        {
+            "Comment ID": "gfaili9",
+            "Body": "What 3080? Do they even exist?",
+            "Upvotes": -1,
+            "Created UTC": "2020-12-10 15:59:32"
+        },
+        {
+            "Comment ID": "gfal8na",
+            "Body": "I managed to get 15FPS on a 2080Ti on low settings",
+            "Upvotes": -1,
+            "Created UTC": "2020-12-10 16:15:30"
+        },
+        {
+            "Comment ID": "gfauvzo",
+            "Body": "my gtx 1080ti i got 80 fps on low , beter than nothing,they make the game very hungry, so they want sure RTX 3080 x2 SLI , hm that's business Devs has sure some profit from GPUs manufacturers",
+            "Upvotes": -1,
+            "Created UTC": "2020-12-10 17:21:21"
+        }
+    ]
+}

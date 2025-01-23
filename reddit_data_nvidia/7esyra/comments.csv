@@ -1,0 +1,212 @@
+Comment ID,Body,Upvotes,Created UTC
+dq7aczx,Inb4 EA is actually the FCC,144,2017-11-22 19:09:01
+dq7twn2,"The intent is to provide customers with a sense of pride and accomplishment for unlocking different websites.
+
+As for cost, we allow ISP's to select initial values based upon data from their customers and websites after repealing net neutrality. Among other things, we're looking at average per-payer usage rates on a daily basis, and we'll be making constant adjustments to ensure that players have websites that are compelling, rewarding, and of course attainable via payment.
+
+We appreciate the candid feedback, and the passion the community has put forth around the current topics here on Reddit, our forums and across numerous social media outlets.
+
+Our team will continue to make changes and monitor community feedback and update everyone as soon and as often as we can.",44,2017-11-23 01:34:17
+dq7jfgq,"I posted this 10 or more hours ago and got it removed for spam, rigged sub.
+
+Mods are literally the FCC.",51,2017-11-22 21:53:46
+dq7quob,"Props to you guys, you make nice mouse pads. ",12,2017-11-23 00:27:49
+dq7j9hu,"These are the emails of the 5 people on the FCC roster.  **These are the five people deciding the future of the internet.**
+
+The two women have come out as *No* votes.  We need only to convince **ONE** of the other members to flip to a *No* vote to save Net Neutrality.
+
+Blow up their inboxes!
+
+* Ajit Pai - Ajit.Pai@fcc.gov
+* Mignon Clyburn - Mignon.Clyburn@fcc.gov
+* Michael O'Reilly - Mike.O'Reilly@fcc.gov
+* Brendan Carr - Brendan.Carr@fcc.gov
+* Jessica Rosenworcel - Jessica.Rosenworcel@fcc.gov
+
+Spread this comment around!  We need to go straight to the source.  Be **civil**, be **concise**, and make sure they understand that what they're about to do is UNAMERICAN.
+
+Godspeed!",38,2017-11-22 21:50:41
+dq77mxn,"The fate of Net Neutrality could be sealed on December 14th, the FCC have unveiled their plans to scrap Net Neutrality and allow monopolistic ISPs to exert even more power on their Subscribers, to learn why Net Neutrality is important, and/or want tools to help you fight for Net Neutrality, please visit BattleForTheNet -
+https://www.battleforthenet.com/
+
+If you know what Net Neutrality is, want to defend it and are a US citizen, consider writing to your House Representative and Senators
+
+House Representative here -
+http://www.house.gov/representatives/find/
+
+Senators here -
+https://www.senate.gov/general/contact_information/senators_cfm.cfm?OrderBy=state
+
+Write to the FCC here - https://www.fcc.gov/about/contact
+
+Add a comment to the repeal here -
+https://www.fcc.gov/ecfs/search/filings?proceedings_name=17-108&amp;sort=date_disseminated,DESC
+
+You can also use this to help you contact your house and congressional reps - https://resistbot.io/ (It's easy to use and cuts down on the transaction costs with writing a letter to your reps)
+
+Also check this out - https://democracy.io/#!/, which was made by the EFF and is a low transaction cost tool for writing all your reps in one fell swoop.
+
+White house petition:
+https://petitions.whitehouse.gov/petition/do-not-repeal-net-neutrality
+
+---
+
+While this isn't directly related to NVIDIA, we have previously supported Net Neutrality days of action, and will continue to do so.",1,2017-11-22 18:20:44
+dq7jo5q,Tried calling but they won’t answer and the voice mailbox is full. I think my side of town did their job. ,3,2017-11-22 21:58:14
+dq88583,Can't vote because I'm not from the US...,2,2017-11-23 07:45:16
+dq8onq8,"If anyone is interested, I setup a PowerShell script for myself to email these people every day:
+
+    # Sends an email to FCC, Reps/Senators, Administration
+
+    function sendMail{
+
+        Write-Host ""Sending email...""
+
+        #Creating SMTP server object, setting secure connection and specifying credentials
+        $SMTPClient = new-object system.net.mail.smtpClient 
+        $SMTPClient.Host = 'smtp.gmail.com'
+        $SMTPClient.Port = 587
+        $SMTPClient.EnableSsl = $true
+        $SMTPClient.Credentials = New-Object System.Net.NetworkCredential(""<insert GMail username here>"", ""<insert GMail app password here"");
+
+        #Creating Email structure
+        $EmailFrom = ""<insert your email here>""
+        $Email1 = ""Ajit.Pai@fcc.gov""
+        $Email2 = ""Mignon.Clyburn@fcc.gov""
+        $Email3 = ""Mike.O'Rielly@fcc.gov""
+        $Email4 = ""Brendan.Carr@fcc.gov""
+        $Email5 = ""Jessica.Rosenworcel@fcc.gov""
+        $Email6 = ""john.faso@mail.house.gov"" # replace with your rep
+        $Email7 = ""paul.tonko@mail.house.gov"" # replace with your rep
+        $Email8 = ""senator@gillibrand.senate.gov"" # replace with your senator
+        $Email9 = ""senator@schumer.senate.gov"" # replace with your senator
+        $Email10 = ""president@whitehouse.gov""
+        $Email11 = ""vice.president@whitehouse.gov""
+        $Subject = ""<enter subject here>""
+        $Body = ""<enter body here>""
+
+        $emailMessage = New-Object System.Net.Mail.MailMessage
+        $emailMessage.From = $EmailFrom
+        $emailMessage.To.Add($Email1)
+        $emailMessage.To.Add($Email2)
+        $emailMessage.To.Add($Email3)
+        $emailMessage.To.Add($Email4)
+        $emailMessage.To.Add($Email5)
+        $emailMessage.To.Add($Email6)
+        $emailMessage.To.Add($Email7)
+        $emailMessage.To.Add($Email8)
+        $emailMessage.To.Add($Email9)
+        $emailMessage.To.Add($Email10)
+        $emailMessage.To.Add($Email11)
+        $emailMessage.Subject = $Subject
+        $emailMessage.Body = $Body
+
+        #Sending email 
+        $SMTPClient.Send($emailMessage)
+    }
+
+    sendMail",2,2017-11-23 16:55:51
+dq7o434,To prevent other games making $4000 worth of DLC in a $60 in order to play the content you expected with the game at launch ,4,2017-11-22 23:28:58
+dq89chz,"Where's the $60-$100, and 40 hours of grinding?",1,2017-11-23 08:32:48
+dq8btxm,You do understand that under title 2 currently nothing explicitly states that ISPS can’t do all that crap you are afraid of them doing?,1,2017-11-23 10:27:02
+dq9w5k0,"It's too late to stop it from happening. We sat on our asses until the last minute because it worked before, not taking into account that we're dealing with the most corrupt administration in US history. All we can do is turn this battle into a war and make sure that it becomes a huge national issue by 2020; enough to get the stale Cheeto out of office and put the FCC in the hands of people who want to do their job instead of just getting an assured future 7-figure salary.",1,2017-11-24 13:05:12
+dq7ry6q,"[To learn about Net Neutrality, why it's important, and/or want tools to help you fight for Net Neutrality, visit BattleForTheNet](https://www.battleforthenet.com)
+
+**Write the FCC members directly here (Fill their inbox)**
+
+Name|Email|Twitter|Title|Party
+:--|:--|:--|:--|:--
+Ajit Pai|Ajit.Pai@fcc.gov|[@AjitPaiFCC](https://twitter.com/ajitpaifcc)|Chairman|R
+Michael O'Rielly|Mike.O'Rielly@fcc.gov|[@MikeOFCC](https://twitter.com/mikeofcc)|Commissioner|R
+Brendan Carr|Brendan.Carr@fcc.gov|[@BrendanCarrFCC](https://twitter.com/brendancarrfcc)|Commissioner|R
+Mignon Clyburn|Mignon.Clyburn@fcc.gov|[@MClyburnFCC](https://twitter.com/mclyburnfcc)|Commissioner|D
+Jessica Rosenworcel|Jessica.Rosenworcel@fcc.gov|[@JRosenworcel](https://twitter.com/JRosenworcel)|Commissioner|D
+
+
+[Write to the FCC here](https://www.fcc.gov/about/contact)
+
+Write to your [House Representative here](http://www.house.gov/representatives/find/) and [Senators here](https://www.senate.gov/general/contact_information/senators_cfm.cfm?OrderBy=state)
+
+Add a comment to the repeal [here](https://www.fcc.gov/ecfs/search/filings?proceedings_name=17-108&amp;sort=date_disseminated,DESC) (and [here's](http://www.gofccyourself.com) an easier URL you can use thanks to John Oliver)
+
+[You can also use this to help you contact your house and congressional reps.](https://resistbot.io/) It's easy to use and cuts down on the transaction costs with writing a letter to your reps
+
+[Whitehouse.gov petition here](https://petitions.whitehouse.gov/petition/do-not-repeal-net-neutrality)
+
+You can support groups like the Electronic Frontier Foundation and the ACLU and Free Press who are fighting to keep Net Neutrality:
+
+* https://www.eff.org/
+* https://www.aclu.org/
+* https://www.freepress.net/
+* https://www.fightforthefuture.org/
+* https://www.publicknowledge.org/
+* https://www.demandprogress.org/
+
+[Set them as your charity on Amazon Smile here](https://smile.amazon.com/)
+
+[Also check this out](https://democracy.io/#!/), which was made by the EFF and is a low transaction cost tool for writing all your reps in one fell swoop.
+
+[International Petition here](https://www.savetheinternet.com/sti-home)
+
+Most importantly, ***VOTE***. This should not be something that is so clearly split between the political parties as it affects all Americans, but unfortunately it is.
+
+	 
+	 
+-/u/NetNeutralityBot
+	 
+	 
+",1,2017-11-23 00:51:32
+dq7x884,"We have to be nice. 😣
+
+This is such a painfully simple concept, the people in power are idiots. 
+
+
+I’m still going to try. (Notice how it’s for the greater good and not self serving....WHY IS THAT SO HARD?!?!)",1,2017-11-23 02:45:07
+dq7ydwd,"Hijacking top comment, don't mind me.
+These are the emails of the 5 people on the FCC roster. These are the five people deciding the future of the internet.
+The two women have come out as No votes. We need only to convince ONE of the other members to flip to a No vote to save Net Neutrality.
+Blow up their inboxes!
+Ajit Pai - Ajit.Pai@fcc.gov
+Mignon Clyburn - Mignon.Clyburn@fcc.gov
+Michael O'Reilly - Mike.O'Reilly@fcc.gov
+Brendan Carr - Brendan.Carr@fcc.gov
+Jessica Rosenworcel - Jessica.Rosenworcel@fcc.gov
+Spread this comment around! We need to go straight to the source. Be civil, be concise, and make sure they understand that what they're about to do is UNAMERICAN.
+Godspeed!",1,2017-11-23 03:09:32
+dq81wx9,Strapping pai to a missile and launching him at north Korea would give me a sense of pride and accomplishment ,1,2017-11-23 04:33:20
+dq85adq,"Hijacking top comment, don't mind me.
+These are the emails of the 5 people on the FCC roster. These are the five people deciding the future of the internet.
+The two women have come out as No votes. We need only to convince ONE of the other members to flip to a No vote to save Net Neutrality.
+Blow up their inboxes!
+
+Ajit Pai - Ajit.Pai@fcc.gov
+
+Mignon Clyburn - Mignon.Clyburn@fcc.gov
+
+Michael O'Reilly - Mike.O'Reilly@fcc.gov
+
+Brendan Carr - Brendan.Carr@fcc.gov
+
+Jessica Rosenworcel - Jessica.Rosenworcel@fcc.gov
+
+Spread this comment around! We need to go straight to the source. Be civil, be concise, and make sure they understand that what they're about to do is UNAMERICAN.
+Godspeed!",1,2017-11-23 06:07:18
+dq8ccjx,"I've never seen a single post on /r/Nvidia reach 1000 upvotes, let alone 14,000. This is some next level bot action right here.",1,2017-11-23 10:51:41
+dq830en,[removed],-1,2017-11-23 05:02:03
+dq7ay4v,"https://mises.org/blog/ditch-net-neutrality-now
+
+https://mises.org/library/net-neutrality-scam
+
+https://mises.org/blog/net-neutrality-strengthens-monopolies-invites-corruption",-7,2017-11-22 19:19:31
+dq78pun,deleted  ^^^^^^^^^^^^^^^^0.8119  [^^^What ^^^is ^^^this?](https://pastebin.com/FcrFs94k/57675),-46,2017-11-22 18:39:48
+dq82fwo,"Damn, another sub to unsubscribe from due to a liberal agenda
+
+(P.S. I am not a trump supporter I just support the free market)",-8,2017-11-23 04:46:50
+dq7my13,"202-224-3121
+
+Will connect you to offices in D.C
+From there you can select your state and representatives",-1,2017-11-22 23:04:03
+dq828q3,https://i.imgur.com/OeQXVls.png,-2,2017-11-23 04:41:38
+dq8q8e2,[Fuck “net neutrality”](https://mises.org/library/net-neutrality-scam),-2,2017-11-23 17:28:04
+dq7sp5i,[removed],-12,2017-11-23 01:07:58
+dq7tbgb,I legitimately do not care. All the data I need is stored offline on my NAS anyway,-10,2017-11-23 01:21:41

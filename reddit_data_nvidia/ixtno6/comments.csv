@@ -1,0 +1,258 @@
+Comment ID,Body,Upvotes,Created UTC
+g68r01i,Will this really make a difference in thwarting the bot purchases?,1123,2020-09-22 19:08:58
+g68vt71,They need to one Rockstar has. You know the one that makes you don't want to play video-game anymore,311,2020-09-22 19:48:34
+g68owuc,What took them so long to implement that? Lol,1197,2020-09-22 18:51:42
+g68ppse,doesnt mean anything when there is still no supply to purchase...,262,2020-09-22 18:58:18
+g68rp8s,Now allow people to put in a back order and they’ll be all set.,122,2020-09-22 19:14:47
+g68zjge,[deleted],35,2020-09-22 20:19:08
+g68sumh,"Why today? To give scalpers enough time to update their bots, of course!
+
+They should have added it at the moment they release stock. That would have given real people a chance to buy before bot owners catch up.",177,2020-09-22 19:24:20
+g68pybg,Could they pass that on to Best Buy?,66,2020-09-22 19:00:15
+g68oxor,Now if only people could actually get there.,40,2020-09-22 18:51:53
+g68p9dw,"Lore has it, the bots are still churning to this day",33,2020-09-22 18:54:32
+g68wn7l,but what button do I press if i *am* a robot?,14,2020-09-22 19:55:21
+g68rc0a,If the bots are using the API and not the front-end how does this help?  Does the API now require a captcha result passed to it?,29,2020-09-22 19:11:45
+g68z462,Guess now I need to work on my captcha skills. I only have like a 50% success rate and  that’s when I’m taking my time...,11,2020-09-22 20:15:36
+g691nct,[deleted],33,2020-09-22 20:36:31
+g68xjsz,Wait they didn't do this from the start!??,9,2020-09-22 20:02:38
+g68rkph,"Bit late, but better than nothing. Now all they need is stock.",14,2020-09-22 19:13:45
+g68wrbu,"Sadly, captachas can be solved by bots, it will definitely slow them down, but it will not stop them. This can done by using a 3rd party service that actually has people sitting there and solving captchas all day long. One such service is DeathByCaptcha. What Nvidia should do, is use one of the bot detection services like Distill Networks or Akamai Technologies.",16,2020-09-22 19:56:16
+g6908qw,"i wonder how many orders nvidia actually reviewed and canceled.. hopefully it was most of them.  
+
+
+(and please dont reply with a pissed message if you dont have proof they didnt review orders)",7,2020-09-22 20:25:00
+g6988m1,I’m just going to assume now that anyone who actually gets a 3090 at launch is a superior to me at recognizing stop signs and crosswalks.,6,2020-09-22 21:31:40
+g6a3bwp,"Bots: Oh No!
+
+Also Bots: Anyways",7,2020-09-23 02:27:28
+g68ukdo,"Nobody is ever happy here, lol. Last week sucked. Nvidia acknowledged it was a shitty situation, apologized and are trying to do something about it.",40,2020-09-22 19:38:34
+g698l2s,"I highly doubt this will stop it, the digital river API is completely exposed.... I  can add to cart, attach my billing and shipping info in about 3 lines of code lol....
+
+[https://documenter.getpostman.com/view/11093059/Szzn6cBJ#09c5b4d8-93b1-4b41-89f0-9a6a0020215d](https://documenter.getpostman.com/view/11093059/Szzn6cBJ#09c5b4d8-93b1-4b41-89f0-9a6a0020215d)",13,2020-09-22 21:34:40
+g68ymzi,[deleted],5,2020-09-22 20:11:36
+g68zhoc,Wait till people realize there is actually a black market for reCAPTCHA solvers LOL.,5,2020-09-22 20:18:43
+g695r5y,"Everybody: I hate CAPTCHA
+
+Also everybody: Why you didn’t have CAPTCHA on the launch day???",5,2020-09-22 21:10:28
+g69m58k,"I liked the idea JayzTwoCents had in [this video](https://youtu.be/x5mvFqnfBCg?t=951) where you enter a phone number, receive a code and have to enter it on checkout like 2fa.",9,2020-09-22 23:39:48
+g68qwnk,Cue the human bots called ten toes and fingers!,3,2020-09-22 19:08:11
+g6a09hl,"Yeah this isn't going to do anything. Welcome to SNKRS hell friends. Captcha farming is definitely a thing. 
+
+Nvidia really wasn't ready for the cookgroups.",3,2020-09-23 01:57:20
+g6aq70p,Doesn't this take longer for humans than for bots?,5,2020-09-23 07:15:38
+g68vphp,You know bots can bypass that right?,12,2020-09-22 19:47:44
+g68ubcn,"Kill the bots, the supply with come.",3,2020-09-22 19:36:30
+g68w171,A little too late.,3,2020-09-22 19:50:23
+g68xfib,Failed captcha. Guess not human,3,2020-09-22 20:01:40
+g6abi67,"It was never the ability to actually stop the bots.  two fold here, 1. slow them down and prevent amature attempts.  2. Make people happy, this is what the community in large asked for and complained about.  They are giving people what they wanted.",3,2020-09-23 03:51:36
+g6as2o9,Should’ve used hCaptcha. It uses task like put the puzzle piece at the correct place rather than just clicking the box.,3,2020-09-23 07:48:55
+g6ba3xu,Scalpers: Laugh in Selenium,3,2020-09-23 12:54:34
+g6ban6j,"As someone that works with blackhat blah blah, captchas only hurt humans. They are super frustrating and bots have API plugins (lookup Deathbycaptcha) that solve these.
+It's basically people in poor countries solving these for a penny for you.
+
+Captchas only harm real human customers.",3,2020-09-23 13:00:24
+gehpccw,"That's such a fucking lackadaisical response. Fuck NVidia, they handed out the 3060 Ti to scalpers as soon as it was ""released"". A CAPTCHA will not fucking do anything.",3,2020-12-03 15:09:40
+g68p8u8,shit. now I need to modify my bot.,29,2020-09-22 18:54:25
+g68ut4f,[deleted],10,2020-09-22 19:40:32
+g68tkza,Is it just a simple click “I’m not a robot” or does it open up one of those identify all the pictures with trains kind of things.,5,2020-09-22 19:30:24
+g68vmxi,[deleted],6,2020-09-22 19:47:10
+g690p9f,01010111 01100101 01101100 01101100 00101100 00100000 01110100 01101000 01100101 01110010 01100101 00100000 01100111 01101111 01100101 01110011 00100000 01101101 01111001 00100000 01100011 01101000 01100001 01101110 01100011 01100101 00100000 01100110 01101111 01110010 00100000 00110011 00110000 00111000 00110000 00101110 00100000 00111010 00100111 01011011,4,2020-09-22 20:28:46
+g6914o9,Captcha not enough. You just send it to a service to be filled out by humans. Super cheap too,4,2020-09-22 20:32:17
+g68q9yy,[removed],6,2020-09-22 19:02:57
+g68tdrk,About time!,2,2020-09-22 19:28:44
+g68v564,Which checkout page the first one or the one that actually matters.,2,2020-09-22 19:43:12
+g68v701,"Helpful, but the scalpers will still be faster than you, because it'll do everything up to the point of the captcha and then let a human finish the order.",2,2020-09-22 19:43:38
+g68wuwe,Now all we need is for them to actually add stock.,2,2020-09-22 19:57:05
+g68zui1,"Too little too late.  Why wasn't this implemented before?  Also, what is the purpose of captcha when the website goes down completely?",2,2020-09-22 20:21:41
+g690ned,"""sad robot noise""",2,2020-09-22 20:28:20
+g694sph,"I hope heir APIs dont allow scripts to go around it otherwise, this will further slowdown an honest buyer :)",2,2020-09-22 21:02:27
+g695ep9,"*Its quite simple, but unbreakable spell*",2,2020-09-22 21:07:34
+g6971r5,You rock more than NVIDiA.... have a reward ;0) two golden hands having a grip....,2,2020-09-22 21:21:34
+g697wa2,"they should setup something where they go by how long people have had an nvidia account, just shoot out the option to buy one via email to all the accounts oldest first, and as people turn them down, shoot them out to next in line.  Could still have some to buy the regular way, but save a large chunk to offer to people with confirmed accounts.  All the manufacturers could do this, give the option to anyone that has an active registered account oldest first, then work down the list.",2,2020-09-22 21:28:45
+g698lbx,They are bots that can beat this now lol,2,2020-09-22 21:34:44
+g6990yn,All they need now is actual inventory.,2,2020-09-22 21:38:31
+g6999wp,Better late than never eh Nvidia! Well done \*applause\*,2,2020-09-22 21:40:41
+g69brla,"So i've done some experimenting, the captcha can instantly be avoided by  submitting the cart through the api. It's literally useless, any restock  will be instantly botted. This captcha will probably make it worse  since it will take real users longer to buy with it enabled. Thanks  NVIDIA.",2,2020-09-22 22:02:35
+g69hx9q,WHY DID THEY NOT HAVE A CAPTCHA IN THE FIRST PLACE?,2,2020-09-22 22:58:59
+g69mcox,Now how about allowing backorder? Like literally every onlinr retailer.,2,2020-09-22 23:41:53
+g69pdri,If this break you little bot --> [https://2captcha.com/2captcha-api#solving\_captchas](https://2captcha.com/2captcha-api#solving_captchas) this is thhe medicine,2,2020-09-23 00:11:47
+g69qu0e,This is a bigger step-up than the 3080 compared to the 2080.,2,2020-09-23 00:26:03
+g69wbx2,Well of course I'm not a robot! I'm a scalper,2,2020-09-23 01:19:34
+g69z88v,Omg wow nvidia let me kneel down and unzip your pants.,2,2020-09-23 01:47:23
+g6a8e3p,"I’m afraid you’re a few days too late, NVIDIA",2,2020-09-23 03:19:38
+g6aadlk,"Good. Now if only the other AIBs (Looking at you, EVGA) could put a captcha on their checkout page, such a difficult concept.",2,2020-09-23 03:39:37
+g6abchi,"A simple spell but quite unbreakable (here come the aKshuAllies, I’m just quoting doc strange guys come on!)",2,2020-09-23 03:49:55
+g6abom7,They should have random YouTube clips and say like what is this characters name or something like that so have the characters image then ask,2,2020-09-23 03:53:35
+g6ad53u,"Gone, half way through checkout.",2,2020-09-23 04:09:59
+g6ade3c,"‘I’m not a robot’
+
+More advanced bots: is this a fucking joke?",2,2020-09-23 04:12:53
+g6agqds,Should have made the text “I am a robot”,2,2020-09-23 04:54:26
+g6aqpi4,"NVIDIA has an amazing AI research department, they could do more",2,2020-09-23 07:24:28
+g6awd1t,Bit fucking late now.,2,2020-09-23 09:15:18
+g6ax6nm,"Bold move, true example of digital leadership. What is next, investing in some sort of...gasp...AI.
+
+We are talking about Nvidia here, any low budget website would handle this fiasco better.",2,2020-09-23 09:32:19
+g6axiu9,Now they just need some stock (UK),2,2020-09-23 09:39:15
+g6ayuox,"A bit too late. They should of done this with the 3080 launch. In general mixing up the checkout, adding new mandatory fields and so would of confused most of the bots and given a lot of people a chance to buy a card. Now it's just a minor inconvenience for the guys who set up the bots to reconfigure them to pass a recaptcha test.",2,2020-09-23 10:06:05
+g6b4ls5,Captcha is so standard now that I’m surprised it wasn’t there before...,2,2020-09-23 11:45:18
+g6b50ma,"I don’t know, I’m not a robot, but half the time can’t decipher those tiny out of focus images.",2,2020-09-23 11:51:13
+g6b8s0m,"As someone who uses stockx and grails, these captchas don't do anything against the bots lmao. It will be the same thing",2,2020-09-23 12:39:29
+g6baul8,"if only this technology was available back at launch, fookin incompetent idiotas.",2,2020-09-23 13:02:37
+g6bhczm,If only they had included it in the launch of their supposed Flagship....But I guess they were too busy to write the 4 lines of code it takes to CAPTCHA a form...,2,2020-09-23 14:07:16
+g6bimxg,"Great, but all the shit is already sold out",2,2020-09-23 14:18:57
+g6bt14q,Heyyyy guys. Don't mean to be a party poopers but it doesn't work lol. You can ask the website for the access token and skip captcha. Bots don't even have to do this captcha while you do lol. This is making it easier for bots,2,2020-09-23 15:47:23
+g6d5jtt,wow this new captcha really helped me not check out right now! can't wait to pay the scalper price when all the bots really take all available stock tomorrow!,2,2020-09-23 22:37:42
+g6denv6,this aged poorly,2,2020-09-24 00:39:44
+g6dos9j,"Captcha doesn't work, sat for thirty minutes after completing it on two separate browsers on two separate PCs with two separate internet connections, never got through to checkout.
+
+Had to complete it several times on one PC and left the other on the green check mark to make sure that if it was a queue, I'd get through. By the time CAPTCHA successfully completed, $0.00 cart and out of stock.
+
+EVGA site crashed as soon as I added to cart and didn't come up again for another thirty minutes.
+
+Fuck this launch.",2,2020-09-24 02:15:55
+g7lkstu,Sweet I started wearing condoms after I had 4 kids,2,2020-10-04 02:14:01
+gbik1b7,"I’ve tried to get one of these cards for the past month without luck... yet a friend of
+mine posted on his Instagram his 10 3070 he bought to resell... i fucking hate scalpers and Nvidia hasn’t done shit to help us normal people just trying to buy a card.",2,2020-11-07 23:34:26
+g68q5e7,Too little too late,7,2020-09-22 19:01:54
+g68qenc,Link?,3,2020-09-22 19:04:02
+g68x10w,Too little too late tho. I hope this is not the only counter measures they are implementing,2,2020-09-22 19:58:26
+g68ybam,*Doesn’t look like anything to me.*,3,2020-09-22 20:08:55
+g68y0rb,incoming stock???,2,2020-09-22 20:06:31
+g696d7y,CAPTCHA isn't going to stop bots/scripts from getting cards either completely.  CAPTCHA will only trigger IF there's some odd/weird behavior when requesting the page.  It's effective maybe 50% of the time.,2,2020-09-22 21:15:41
+g6awsyw,It's too late the damage has been done,2,2020-09-23 09:24:29
+g6azr5a,"Should have a picture captcha of the 3080 that takes up the entire picture and says:
+
+""Select all the squares of what Nvidia failed to launch properly""
+
+100% bot proof. Ill take my pay check in the mail Jensen ...",2,2020-09-23 10:23:28
+g691grq,and? Bots beat this ez. Waste of time.,1,2020-09-22 20:35:01
+g68vgbw,"i FUCKING god damn HATE those FUCKING  things.
+
+but maybe i can understand in this situation
+
+but i hate them anyways they are everywhere now lol",1,2020-09-22 19:45:40
+g68wgjn,That won't make any difference. It doesn't even have any trains!,1,2020-09-22 19:53:50
+g68wllh,FINALLY,1,2020-09-22 19:54:59
+g68wozu,So... I involuntarily tried to click the captcha box. I think Zotac gave me gaptcha ptsd.,1,2020-09-22 19:55:45
+g68zcjx,Can someone please explain if that thing even is effective in 2020?,1,2020-09-22 20:17:33
+g68zpbb,"Captcha doesn’t help, bots can solve a captcha in under 1 second so imagine 1000 tasks solving all those captchas in 2-5 seconds max while you and I are getting those click on each part of a fire hydrant task~ whoops try again on these cross walks, I’m not tryna spread fud but honestly nvdia needs to implement photo Id verification after purchase it’s the only way and I’ve emailed them about and they haven’t responded pls help I want a 3080 so bad",1,2020-09-22 20:20:29
+g6908w2,So they didnt had it at launch? Is it a joke?,1,2020-09-22 20:25:02
+g690g6m,Hopefully it's like the Zotac one because it was a bitch to get through that captcha.,1,2020-09-22 20:26:42
+g690kwa,We have the technology!,1,2020-09-22 20:27:46
+g692j4w,Only if we could go back in time to the 17th....,1,2020-09-22 20:43:43
+g692lg3,"If the bots can bypass this with an api, this will make literally no difference.",1,2020-09-22 20:44:15
+g692pvh,[Relevant calebcity video.](https://www.youtube.com/watch?v=nX0NDmm1K1g),1,2020-09-22 20:45:16
+g692rsn,Sweet!  Now all they need to do is add more cards... ;),1,2020-09-22 20:45:42
+g692rzk,Everyone has to start somewhere.,1,2020-09-22 20:45:45
+g692xmg,Expensive bots can bypass captcha in some cases,1,2020-09-22 20:47:04
+g693716,"Praise the Leather Jacket!  
+Praise the Leather Jacket!",1,2020-09-22 20:49:13
+g6938hs,"Oh well isn't that nice.
+
+// Unimpressed",1,2020-09-22 20:49:33
+g693cql,They also have a captcha to their Geforce log in...,1,2020-09-22 20:50:31
+g693e4j,"now if only they would add 3080 founders back onto the page >.> (i need a founders , its the only card that fits in my case sadly)",1,2020-09-22 20:50:51
+g693ed2,"that actually pisses me off that it wasn't there to begin with, its a $500+ item for fucks sake",1,2020-09-22 20:50:54
+g693oc5,5 days late but it's nice to see that they added it,1,2020-09-22 20:53:12
+g693pfy,YES!,1,2020-09-22 20:53:26
+g693tw4,Even scam sites have captcha,1,2020-09-22 20:54:28
+g693xic,They had Captcha for login. Is this now present while purchasing?,1,2020-09-22 20:55:18
+g694dgv,Now what about BestBuy so I can get the MSI Ventus 3X,1,2020-09-22 20:58:59
+g694e8d,"There's a chrome plug-in to defeat captchas, I don't think they are that difficult. :/",1,2020-09-22 20:59:09
+g694hnm,"It doesn’t matter, this doesn’t stop a bot at all. They are not clicking through, I actually think this will do more harm than good sorry guys",1,2020-09-22 20:59:57
+g6950mc,Where is the captcha? I just tried to order a tshirt and don’t see it in the checkout flow.,1,2020-09-22 21:04:18
+g6958zp,Still doesn't stop from botting.,1,2020-09-22 21:06:15
+g695d97,"Ummm...there are easy auto captcha solving scripts available. For example deathbycaptch, 2captcha etc
+Why everyone is so hyped about it?",1,2020-09-22 21:07:15
+g695lrb,INNOVATION,1,2020-09-22 21:09:13
+g695pvd,"Nvidia should just host a HACKATON build a better store front and just pay the prize winner good money rather than getting their pampered  overpaid incompetent IT/E-commerce team to do it...you think a billion dollar company would make their own e-commerce solution they use a third party..
+
+Why dont they just use Squarespace or just get a DAMN WORDPRESS template with some PLUGINS.. guarantee you will be much better than what they have now...",1,2020-09-22 21:10:10
+g695wq0,Watch scalpers implement amazon’s mechanical Turk to get around this.,1,2020-09-22 21:11:46
+g695xw4,"Can't believe they didn't have it in the first place, what the hell?",1,2020-09-22 21:12:04
+g69609c,"I was face palming so hard watching all the hardware YouTube channels describing the AI techniques and millions of dollars it would need to stop these bots when I was screaming at my screen that this problem has already been solved, it's called reCAPTCHA.",1,2020-09-22 21:12:37
+g6964a7,Can someone tell me if this is worth trying on the nvidia website or try somewhere else?,1,2020-09-22 21:13:34
+g69655e,Would have been nice to have had captcha on the release date of thier..... DAMN FUCKING FLAGSHIP CARD XD,1,2020-09-22 21:13:47
+g69684a,Only took them a few years and numerous product launches to finally realise.,1,2020-09-22 21:14:29
+g696ugb,Did they restock their 3080 FE's today? I still see out of stock on the Nvidia site :(,1,2020-09-22 21:19:50
+g6976g4,Still gonna be damn near impossible to get one,1,2020-09-22 21:22:40
+g697kd7,They should have done a sliding puzzle where you have to make a circle shape or something. I feel like that shit is way overused now.,1,2020-09-22 21:25:56
+g6982jb,WAIT I MISSED THEM TOO WHAT THE FUCK,1,2020-09-22 21:30:13
+g698bi4,Lmfao captchas don’t mean anything for bots,1,2020-09-22 21:32:21
+g698okk,"How many of you clicked on ""I'm not a robot"" even though you knew it would do nothing?",1,2020-09-22 21:35:31
+g699eue,Is there a “1 per customer” limit at least?,1,2020-09-22 21:41:52
+g699gr7,"When does the captcha pop up? I tried adding a 2060 to cart and clicked Checkout but nothing popped up for me.
+
+&#x200B;
+
+Glad to see they're taking steps. Time will tell how effective they'll be but kudos to them for trying to roll this out quickly. Let's hope that they make progress with each attempt.",1,2020-09-22 21:42:20
+g69a4hz,I can't imagine this will be tough for the bots to get around. Feels like a stopgap measure until they come up with a better solution or demand drops off.,1,2020-09-22 21:48:07
+g69an74,"Gee!  Just in time for the launch last week!  /s
+
+A better step would probably be to disable the inventory API.  Or to cancel all orders originating from computers with the same IP address.  Otherwise this is just going to happen again and again.  A captcha isn't going to stop the majority of bot orders.",1,2020-09-22 21:52:38
+g69axib,"I’d have much preferred them to use v3 personally, even if it meant 1% of us non-bots got marked as being a bot.",1,2020-09-22 21:55:09
+g69buwm,India Capcha farms already on this LOL,1,2020-09-22 22:03:26
+g69byud,Can’t bots easily defeat this though?,1,2020-09-22 22:04:24
+g69c41u,Too bad you can still farm one click captchas and add the items to your cart and get to the captcha 95% faster than manual users!,1,2020-09-22 22:05:41
+g69c5qs,How tf did you get to the checkout page to see it.,1,2020-09-22 22:06:06
+g69ca4u,It's fake. Just try clicking on it and see what happens!,1,2020-09-22 22:07:13
+g69coou,They should start using Denuvo,1,2020-09-22 22:10:52
+g69ctf8,I'm going to start filling out captchas in my spare time to improve my captcha game for my big moment. Let's get this bread boys,1,2020-09-22 22:12:02
+g69dj2o,this is a good sign for tomorrow or Thursday,1,2020-09-22 22:18:31
+g69duk8,"A little to late now Nvidia, they did this to force everyone to buy a 3090. Smart Marketing!",1,2020-09-22 22:21:25
+g69e3s1,Day late and a dollar short but baby step I guess.,1,2020-09-22 22:23:44
+g69e9f1,the bot service that took almost all the stock gas captcha bypass so it won’t really make a difference,1,2020-09-22 22:25:09
+g69eh5t,"I. May get down voted to hell but why the fuck is it necessary to buy this card launch day? U been playing in a 3 to 5 years old Card already, so why the fucking rush like if is covid19 cure, jeeezzzzz.",1,2020-09-22 22:27:05
+g69ekm0,why wasn't it a thing to start with.. .😐,1,2020-09-22 22:27:56
+g69eou3,"That'll stop em!!!  
+
+
+/s",1,2020-09-22 22:28:59
+g69ezte,How do you know? Any card back in stock?,1,2020-09-22 22:31:46
+g69fbj6,[haha n00bs](https://media.giphy.com/media/l3q2Uzjt0QB4oL7l6/giphy.gif)!,1,2020-09-22 22:34:47
+g69fc5r,"Why is it jus now getting added? And they need to add the more complex one thsts asks for letter number combos or picture selection.
+
+Do they allow people to buy as guests? If so they should turn that off temporarily.",1,2020-09-22 22:34:57
+g69fcqp,This isn’t good enough. Won’t stop them by much.,1,2020-09-22 22:35:06
+g69fief,"Ayy, better late than never!",1,2020-09-22 22:36:33
+g69fp04,"Well I just hope they will extend the Watch Dog: Legions bundle, because I really would like to get both at the same time.",1,2020-09-22 22:38:14
+g69g6a9,"I think people are severely overestimating the effect bots have on the supply. There are simply millions of people who want to get those cards right now. Like not millions this year, but millions on launchday. 
+
+Really just make a backorder nvidia",1,2020-09-22 22:42:40
+g69g6nj,How did you get to the checkout page?,1,2020-09-22 22:42:46
+g69gngr,[Not really.](https://anti-captcha.com/mainpage),1,2020-09-22 22:47:01
+g69gx7p,Ohhhhhh we’re missing is page 12,1,2020-09-22 22:49:33
+g69gzag,"This is going to infuriate people just as much as not having a CAPTCHA did. The people running bots won't care, but someone is going to be delayed because of the CAPTCHA and blame that for them missing out.
+
+It reminds me of when people were freaking out at Blizzard for not having case sensitive passwords, when all the security experts were saying it really didn't make a difference because cases really only mitigate brute force attempts, for which they already have protection + they make up only a tiny minority of stolen passwords. But god forbid anyone listens to experts.
+
+Security theater wins the day.",1,2020-09-22 22:50:05
+g69h7jw,"Unfortunately there are services that can solve captcha. They charge a few cents per solve. They can even solve the v2 with pictures you have to click.  
+
+Sure this will deter amateurs but it won't stop the bots.",1,2020-09-22 22:52:13
+g69hdvu,New to PCs. If I miss getting it from NVIDIA will I have to get it from scalpers or do they restock fairly often or randomly ?,1,2020-09-22 22:53:52
+g69hg5p,Yep! Good luck checking out before it’s sold out👎🏽!,1,2020-09-22 22:54:27
+g69hj6u,AIO Bots can easily bypass this,1,2020-09-22 22:55:14
+g69hnhx,"Now make it so that once you've got a card in the basket, it's yours. Tons of people got to that point only to have their 3080 yanked right out of the basket before checkout.",1,2020-09-22 22:56:24
+g69j3jc,"NVIDIA are kidding themselves. This will annoy 95% of real customers, and stop 1% of bots.
+
+They need to invest in F5 Shape, Kasada or at worst Akamai Bot Manager.",1,2020-09-22 23:10:19
+g69jcke,"It will only make human buyers slowers, so bots can be even more effective. Good move Nvidia! /s #UnprecedentedDemand",1,2020-09-22 23:12:44
+g69jjki,That's rich. It wont stop them.,1,2020-09-22 23:14:35
+g69jt1y,"I mean if you’re dealing with a rookie, I guess",1,2020-09-22 23:17:08
+g69jvds,Holy fuck.  Better late than never but man they planned this.  Your telling me some big wig execr over there never thought “lets keep options open for anyone to buy cards” -“but what if people try to scam the site and buy 40?”  “Well we still make all the money and if people complain let them and well take all our profits and then to answer the people we will add a captcha after the fact”,1,2020-09-22 23:17:44
+g69k39r,"Doesn't matter, the shits are still good out and there will still be scalpers looking to corrupt the system for those who genuinely wanna game and not mine currency.",1,2020-09-22 23:19:49
+g69k8tn,This doesn’t change anything tbh,1,2020-09-22 23:21:16
+g69karr,"Honestly, how hard do you think a publicly traded company is going to work to block sales of their cards ?",1,2020-09-22 23:21:46
+g69ke8h,Anyone else try to click the box?,1,2020-09-22 23:22:42
+g69kggw,Bots are basically using 3080’s to buy 3080’s !,1,2020-09-22 23:23:18
+g69ktx8,"How long till bots get around that?
+
+Hopefully some more legitimate consumers will get it instead of scalpers",1,2020-09-22 23:26:51
+g69l2p8,Hate to burst your bubble but captcha is definitely by passable.  Especially the older version they are using.,1,2020-09-22 23:29:13
+g69la4l,didnt they already have invisible captchas? this is just a placebo so people stop flaming them.,1,2020-09-22 23:31:15
+g69lizs,"Awesome. That at least acknowledges the issue and heads down the road. Throw in address verification for deliveries and that's another step.
+
+You won't stop it all, but you can chip away at the issues until you get a reasonable number of real purchasers.",1,2020-09-22 23:33:41
