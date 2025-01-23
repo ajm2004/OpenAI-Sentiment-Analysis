@@ -1,9 +1,10 @@
 ## Process to fetch posts and comments:
 
-1. Run fetchPostComments.py
-2. Enter the subreddit name (try to verify spelling before submitting)
-3. Enter number of posts to save
-4. Select the sorting method
-5. Press enter-"Fetch Posts"
-6. Navigate to your repo and find the folder "reddit_data_<subreddit>"
-7. The folder will contain a posts data and each sub-folder contains the comments based on folder name hich is post ID
+1. Open a terminal or command prompt.
+2. Navigate to the directory containing "fetchPostComments.py"
+3. python3 fetchPostComments.py
+4. A GUI will appear asking for:
+    - Subreddit Name: Enter the subreddit you want to fetch posts from.
+    - Number of Posts: Specify the number of posts to fetch.
+    - Sort By: Select the sorting option (e.g., "Top (All Time)", "Hot").
+5. Click Fetch Posts to start fetching data.
