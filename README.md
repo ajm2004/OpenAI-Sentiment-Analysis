@@ -1,13 +1,9 @@
-### Steps to generate API key and Perform actions
+## Process to fetch posts and comments:
 
-1. Create reddit account
-2. Access "www.reddit.com/prefs/apps"
-3. Click developer option
-4. Enter relevant name
-5. Select Script
-6. Add relevant Redirect URL
-7. Create APP
-8. Note the ID and Secret Key
-9. Remember Reddit Accounts Username and Password
-10. Fill in the client ID fields below
-11. Run script to get an idea
+1. Run fetchPostComments.py
+2. Enter the subreddit name (try to verify spelling before submitting)
+3. Enter number of posts to save
+4. Select the sorting method
+5. Press enter-"Fetch Posts"
+6. Navigate to your repo and find the folder "reddit_data_<subreddit>"
+7. The folder will contain a posts data and each sub-folder contains the comments based on folder name hich is post ID
