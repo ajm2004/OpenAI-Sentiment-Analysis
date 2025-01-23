@@ -11,4 +11,4 @@
 
 ### Look at setupGuide.ipynb for more details related to setup and fetch structure
 ### Look at access.ipynb to understand basics of praw library
-### Run fetchAllDetails to retrieve all details related to a post in json format only (includes comments and replies and replies of replies)
+### Run fetchAllDetails.py to retrieve all details related to a post in json format only (includes comments and replies and replies of replies)
