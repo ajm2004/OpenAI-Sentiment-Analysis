@@ -220,11 +220,15 @@ class StatusCallback:
         if progress >= 0:
             if self.app.progress["mode"] != "determinate":
                 self.app.progress["mode"] = "determinate"
+
+            if progress == 100:
+                self.app.progress.stop()
             self.app.progress["value"] = progress
         else:
             if self.app.progress["mode"] != "indeterminate":
                 self.app.progress["mode"] = "indeterminate"
                 self.app.progress.start(10)
+                
 
 async def analyse_comments_sentiment(submission, status_callback):
     """Analyze comments to determine if there's significant discussion or positive emotion"""
@@ -295,15 +299,9 @@ async def fetch_posts_and_comments(reddit, subreddit_name, post_limit, post_sort
         else:
             submissions = subreddit.new(limit=post_limit)
 
-<<<<<<< HEAD
         filtered_posts = []
         total_processed = 0
         filtered_out = 0
-=======
-        status_callback(f"Creating output directory for r/{subreddit_name}...")
-        output_dir = f"data_reddit_{subreddit_name}"
-        os.makedirs(output_dir, exist_ok=True)
->>>>>>> a4e140b576876fdca0315ed1b3bf45675e1700e8
 
         with open(f"{output_dir}/{subreddit_name}_posts.csv", "w", encoding="utf-8") as post_file:
             post_writer = csv.writer(post_file)
@@ -482,6 +480,7 @@ async def fetch_posts_and_comments(reddit, subreddit_name, post_limit, post_sort
             f"- Comments collected: {sum(len(p['comments']) for p in filtered_posts)}",
             100
         )
+        
 
         return True
 
@@ -631,6 +630,7 @@ class RedditFetcherApp:
 
             if success:
                 # self.finish_fetch(f"Successfully fetched data for r/{subreddit_name}")
+                # Set progress to 100% after completion
                 pass
             else:
                 self.finish_fetch("Failed to fetch data. Check the status messages above.")
