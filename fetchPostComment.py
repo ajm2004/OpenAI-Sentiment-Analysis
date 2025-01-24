@@ -56,7 +56,7 @@ async def fetch_posts_and_comments(reddit, subreddit_name, post_limit, post_sort
             submissions = subreddit.new(limit=post_limit)
 
         status_callback(f"Creating output directory for r/{subreddit_name}...")
-        output_dir = f"reddit_data_{subreddit_name}"
+        output_dir = f"data_reddit_{subreddit_name}"
         os.makedirs(output_dir, exist_ok=True)
 
         posts_json = []
