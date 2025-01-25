@@ -509,7 +509,7 @@ class RedditFetcherApp:
     def __init__(self, root):
         self.root = root
         self.root.title("Reddit Content Analyzer")
-        self.root.geometry("1400x800")  # Increased size to accommodate more fields
+        self.root.geometry("1000x800")  # Increased size to accommodate more fields
         self.root.minsize(900, 600)
 
         # Configure grid
