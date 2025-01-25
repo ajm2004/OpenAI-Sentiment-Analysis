@@ -397,8 +397,8 @@ async def fetch_posts_and_comments(reddit, subreddit_name, post_limit, post_sort
                         comment_reasons = []
                         if comment.score < MIN_COMMENT_UPVOTES:
                             comment_reasons.append(f"low votes ({comment.score})")
-                        if not is_opinion_driven(comment.body):
-                            comment_reasons.append("neutral sentiment")
+                        # if not is_opinion_driven(comment.body):
+                        #     comment_reasons.append("neutral sentiment")
                             
                         if not comment_reasons:
                             filtered_comments.append({
@@ -458,6 +458,22 @@ async def fetch_posts_and_comments(reddit, subreddit_name, post_limit, post_sort
                     with open(f"{post_dir}/post.json", "w") as f:
                         json.dump(post_data, f, indent=4)
                         status_callback(f"🔵 Saved JSON for post {submission.id}")
+
+                    # Save comments as CSV
+                    with open(f"{post_dir}/comments.csv", "w", encoding="utf-8") as comment_file:
+                        comment_writer = csv.writer(comment_file)
+                        comment_writer.writerow([
+                            "Post  Id","Comment ID", "Body", "Upvotes", "Created UTC", "Sentiment"
+                        ])
+                        for comment in filtered_comments:
+                            comment_writer.writerow([
+                                submission.id,
+                                comment["comment_id"],
+                                comment["body"],
+                                comment["upvotes"],
+                                datetime.fromtimestamp(comment["created_utc"], tz=timezone.utc).strftime('%Y-%m-%d %H:%M:%S'),
+                                comment["sentiment"]["compound"]
+                            ])
 
                     # For accepted posts, add this before storing:
                     status_callback(
