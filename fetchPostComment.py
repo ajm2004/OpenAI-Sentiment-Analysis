@@ -591,8 +591,9 @@ class RedditFetcherApp:
         # Buttons
         button_frame = ttk.Frame(root)
         button_frame.grid(row=4, column=0, columnspan=2, pady=10, sticky="ew")
+        button_frame.grid_columnconfigure(0, weight=1)  # Make column expandable
         self.fetch_button = ttk.Button(button_frame, text="Fetch Posts", command=self.start_fetch)
-        self.fetch_button.grid(row=0, column=0)
+        self.fetch_button.grid(row=0, column=0, sticky="n", padx=10)  # Center horizontally with sticky="n"
 
     def get_user_keywords(self):
         """Fetch and process user-provided keywords."""
