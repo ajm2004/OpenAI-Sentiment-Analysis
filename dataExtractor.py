@@ -243,7 +243,6 @@ class RedditFetcherGUI:
 
 
     def progress_callback(self, progress, status):
-        print(f"Progress: {progress}, Status: {status}")
         assert 0 <= progress <= 100, "Progress must be between 0 and 100."
         assert isinstance(status, str), "Status must be a string."
 
