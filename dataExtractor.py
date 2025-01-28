@@ -82,16 +82,16 @@ class RedditFetcher:
                     "author": post.author.name if post.author else "[Deleted]",
                 }
                 posts.append(post_data)
-                self.gui_update_callback(i + 1, f"Fetching post {i + 1}/{limit}...")
+                self.gui_update_callback(int((i/limit) * 100), f"Fetching posts {i}/{limit}...")
 
-            self.remove_previous_data(subreddit)
-
+            # self.remove_previous_data(subreddit)
+        
             self.save_data(subreddit, query, posts, JSON_DUMP)
 
             completed_requests = 0
             total_requests = len(posts)
             with ThreadPoolExecutor(max_workers=2) as executor:
-                futures = [executor.submit(self.fetch_comments, post["subreddit"], post["post_id"], post["title"], JSON_DUMP) for post in posts]
+                futures = [executor.submit(self.fetch_comments, post["subreddit"],query ,post["post_id"], post["title"], JSON_DUMP) for post in posts]
                 for future in as_completed(futures):
                     future.result()
                     completed_requests += 1
@@ -103,7 +103,7 @@ class RedditFetcher:
             self.gui_update_callback(0, f"Error: {str(e)}")
             raise Exception(f"Error fetching Reddit data: {str(e)}")
 
-    def fetch_comments(self, subreddit, post_id, post_title=None, JSON_DUMP=False):
+    def fetch_comments(self, subreddit, query, post_id, post_title=None, JSON_DUMP=False):
         try:
             submission = self.reddit_instance.submission(post_id)
             comments = []
@@ -126,7 +126,7 @@ class RedditFetcher:
                 })
 
             if comments:
-                self.save_data(subreddit, post_id, comments, JSON_DUMP)
+                self.save_data(subreddit, query, comments, JSON_DUMP)
             return comments
         except Exception as e:
             raise Exception(f"Error fetching comments: {str(e)}")
@@ -145,7 +145,11 @@ class RedditFetcher:
             return
 
         folder_name = f"data_{subreddit}"
+        if query:
+            folder_name = f"data_{subreddit}/{query.replace(' ', '_').encode('ascii', 'ignore').decode()}"
         os.makedirs(folder_name, exist_ok=True)
+
+        RedditFetcher.save_query(folder_name, query)
 
         csv_file = os.path.join(folder_name, f"{query if not subreddit else subreddit}_posts.csv")
         file_exists = os.path.isfile(csv_file)
@@ -161,11 +165,13 @@ class RedditFetcher:
                 json.dump(posts, f, indent=4)
 
     @staticmethod
-    def save_query(subreddit, query):
-        folder_name = f"data_{subreddit}"
-        os.makedirs(folder_name, exist_ok=True)
+    def save_query(folder, query):
+        os.makedirs(folder, exist_ok=True)
 
-        with open(os.path.join(folder_name, "query.txt"), "w") as f:
+        if not query:
+            query = "None"
+
+        with open(os.path.join(folder, "query.txt"), "w") as f:
             f.write(query)
         
 class RedditFetcherGUI:
@@ -243,7 +249,6 @@ class RedditFetcherGUI:
 
 
     def progress_callback(self, progress, status):
-
         assert 0 <= progress <= 100, "Progress must be between 0 and 100."
         assert isinstance(status, str), "Status must be a string."
 
