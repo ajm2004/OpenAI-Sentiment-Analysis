@@ -88,7 +88,7 @@ def save_data(subreddit, query, posts):
         return
 
     # Create folder for subreddit
-    folder_name = f"queried_data_{subreddit}"
+    folder_name = f"data_{subreddit}"
     os.makedirs(folder_name, exist_ok=True)
 
     # Save CSV
@@ -108,7 +108,7 @@ def save_comments(subreddit, post_id, comments):
         return
 
     # Create folder for comments
-    folder_name = os.path.join(f"queried_data_{subreddit}", "comments", f"{post_id}")
+    folder_name = os.path.join(f"data_{subreddit}", "comments", f"{post_id}")
     os.makedirs(folder_name, exist_ok=True)
 
     # Save CSV
