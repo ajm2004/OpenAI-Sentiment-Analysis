@@ -168,6 +168,9 @@ class RedditFetcher:
     def save_query(folder, query):
         os.makedirs(folder, exist_ok=True)
 
+        if not query:
+            query = "None"
+
         with open(os.path.join(folder, "query.txt"), "w") as f:
             f.write(query)
         
