@@ -82,7 +82,7 @@ class RedditFetcher:
                     "author": post.author.name if post.author else "[Deleted]",
                 }
                 posts.append(post_data)
-                self.gui_update_callback(i + 1, f"Fetching post {i + 1}/{limit}...")
+                self.gui_update_callback(int((i/limit) * 100), f"Fetching posts {i}/{limit}...")
 
             self.remove_previous_data(subreddit)
 
@@ -243,7 +243,7 @@ class RedditFetcherGUI:
 
 
     def progress_callback(self, progress, status):
-
+        print(f"Progress: {progress}, Status: {status}")
         assert 0 <= progress <= 100, "Progress must be between 0 and 100."
         assert isinstance(status, str), "Status must be a string."
 
