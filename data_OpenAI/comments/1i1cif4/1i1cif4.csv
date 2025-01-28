@@ -1,0 +1,380 @@
+comment_id,post_id,body,time,author
+m75txac,1i1cif4,"I just got access. Tried it on my phone (had to make sure push notifications are on for Tasks in the ChatGPT app’s settings section, and made sure that banner notifications for ChatGPT are on in my phone’s settings app). I can’t really imagine how useful this would be just for a regular text chat (at least, until agents are released)… 
+
+But it is useful for web searches. For example, you can say things like “At 9am, search for the latest news for the day and give me a summary of the top stories”; or “I go on my lunch break at 12pm. 10 minutes before I go for lunch, find me a list of open restaurants in my area that serve tacos”.
+
+You’ll then get a notification like you would from any other app, which you can click on and it’ll show you the results. I can see how this would also be useful to remind you to send an email to a colleague, which it could write out when it’s time to send it or something like that. Will be interesting to see how people use this and how it evolves.
+
+EDIT: Just as an experiment, I tried to schedule a task while in a temporary chat. When it gives you the reminder and you click on the notification, there will be a brand new chat (not in temporary mode) just with the response to your task request, without the request you wrote itself from the temporary chat.",2025-01-14 21:04:06,Commercial_Nerve_308
+m75b224,1i1cif4,Wow this is actually pretty welcome. Sometimes it's the small things that go a long way.,2025-01-14 19:24:20,RedditSteadyGo1
+m750vvi,1i1cif4,Anyone got it?,2025-01-14 18:35:18,sockenloch76
+m75ksfx,1i1cif4,"Just tried it, it had trouble displaying the initial message confirming my reminder, but sure enough, I was reminded that the football was about to start, via popup and email.
+
+It's a nice-to-have feature which will help me organize my day. And football viewing.",2025-01-14 20:11:24,EyePiece108
+m74yq57,1i1cif4,Looks like infrastructure towards agent integration,2025-01-14 18:24:56,derfw
+m76cxv6,1i1cif4,"This sort of answers this one use case I've had. I frequently think of stuff I should ask ChatGPT, but don't have the time right then and there. I would like to tell it ""hey, remind me that we should talk about the etymology of the word gasoline"" or something and have it list all the topics I've saved when I'm in a better place.
+
+I wonder if this will just be able to do time based or also open ended reminders.",2025-01-14 22:38:36,jaysire
+m75xt1f,1i1cif4,ChatGPT : add a background task to figure out how to reverse entropy and prevent the heat death of the universe.,2025-01-14 21:23:35,brainhack3r
+m75jl7l,1i1cif4,"If you have an iPhone you can use the API and Shortcuts app to do this, and much more, and have it actually set reminders in the Reminders app.",2025-01-14 20:05:38,nrose21
+m75vxoa,1i1cif4,Ah the todo list. The pinnacle of programming.,2025-01-14 21:14:19,Kuhnuhndrum
+m760tim,1i1cif4,What kind of usage does this have? I can't wrap my head around it.,2025-01-14 21:38:20,josesutopia
+m79mknk,1i1cif4,"Wow. When they said beta, they're weren't wrong. This is is buggy beyond belief. I have tasks running at the wrong time. Tasks completely failing altogether. Taks not appearing in either the Mac OS  app or the browser. Laughably bad.",2025-01-15 13:19:03,fumi2014
+m75wb1p,1i1cif4,"https://preview.redd.it/5ten9evtz0de1.jpeg?width=1320&format=pjpg&auto=webp&s=53059a9a87edf0df637f77d5e8b4bfa162d9108f
+
+When you look at these chat details it shows this. Jawbone?",2025-01-14 21:16:10,Honeygingernjp
+m75slpe,1i1cif4,"I built something like this to operate as a ""Personal Assistant Discord Bot"" a few months ago and I've found it incredibly useful. Plus, it's cheap. My API bill in December for this project was $0.34.
+
+Somewhat ironically, I programmed it using Claude.
+
+I'm certain this official version will be more fully-featured, but the GPT API functions/tools system really made it easy to implement my personal version.",2025-01-14 20:57:09,quill18
+m76ntc1,1i1cif4,Also available in the API?,2025-01-14 23:37:28,TriggerHydrant
+m78r9vu,1i1cif4,"You can use it to delay any kind of prompt or schedule it. This could be interesting since it can access the internet, you could have it retrieve specific data daily or perform similar tasks and send you an email with it",2025-01-15 08:26:06,MaCl0wSt
+m7acj8b,1i1cif4,I would not rely on chatGPT for anything that needs a reminder,2025-01-15 15:46:59,zackarhino
+m781msm,1i1cif4, It cannot answer me unbiased and uncensored,2025-01-15 04:33:51,Genoblade1394
+m7910fx,1i1cif4,Rip Dola Ai,2025-01-15 10:13:17,Itchy-Plane-6586
+m79922g,1i1cif4,"Wow, cool! Wasn’t expecting this, but it’s a nice feature! Tried setting it up, and it works fine ([here](https://felloai.com/2025/01/how-to-use-chatgpts-scheduled-tasks-reminders-to-stay-on-top-of-everything/)'s a tutorial if you need) but still not sure whether I'll replace my current workflow with reminders and notes that I'm using right now.
+
+Btw: it feels like it might’ve been planned for the '12 Days of Christmas' since it came out so soon after.",2025-01-15 11:34:29,mindless_sandwich
+m76ckye,1i1cif4,"Oh it's not just tasks, if you're clever you can get one task to do a whole series of actions. You can put anything in the task...",2025-01-14 22:36:46,Over-Independent4414
+m77az44,1i1cif4,"Trying to guess who knows me better; Google, Apple, TikTok, or OpenAI 
+
+Take yer pick!",2025-01-15 01:48:02,2pierad
+m7698sz,1i1cif4,So yet another thing we already had but with the shiny “AI” label tagged on,2025-01-14 22:19:48,Strict_Counter_8974
+m78qaz0,1i1cif4,It's a shame OpenAI don't update their bloody release notes 😡,2025-01-15 08:15:44,PhilosophyEven1088
+m7cyl8k,1i1cif4,This is a great feature for the girlies with their Chatgpt boyfriends.,2025-01-15 23:21:46,game_of_dance
+m7ezqo2,1i1cif4,"Lots of tech blogs reporting on this feature state that ChatGPT can now ""set alarms"" as a result of this feature. Don't know how much of a light sleeper you guys are, but sending a notification on my phone at 7am is unlikely to stir me from my slumber...
+
+Same goes for timer functionality. If I'm in the middle of cooking and need several timers for what's in the oven and in the pot, etc., a dinky notification pop-up ain't gonna cut it.",2025-01-16 07:26:22,tokyotoonster
+m76jsvg,1i1cif4,Wait until it hallucinates your wake up alarm at the wrong time,2025-01-14 23:15:15,Electrical-Size-5002
+m75dgay,1i1cif4,"I use google assistant on Android extensively, and based on the article, I don't see any reason to switch to ChatGPT for this function.",2025-01-14 19:36:00,parkersdaddyo
+m75yurs,1i1cif4,"https://preview.redd.it/g5lrq71221de1.jpeg?width=1290&format=pjpg&auto=webp&s=b19842776144e285e9bb18ddbdcb688de22923ae
+
+Mmmm…",2025-01-14 21:28:38,erny83pd
+m767jfd,1i1cif4,"Reminder AI, Timer AI, To-Do AI. Just add “AI” to the wheel and sell it.",2025-01-14 22:11:15,m1ndsix
+m78mk1o,1i1cif4,Remind me when AGI is acheived,2025-01-15 07:36:15,CleanLawyer5113
+m75prc2,1i1cif4,"Can someone plz explain to me  ways this can be useful?
+
+If integrated with android for example and apps, i can see.
+
+Just this dont see where would i use it...",2025-01-14 20:37:11,bernarddit
+m7552qp,1i1cif4,"https://preview.redd.it/yjva2bdpa0de1.jpeg?width=1284&format=pjpg&auto=webp&s=6c757db22f42f35466f253bf7fda8d6eac732d21
+
+Time to see if it has it or it is just lying to me",2025-01-14 18:55:24,BothNumber9
+m78ayky,1i1cif4,Not in Europe I guess?,2025-01-15 05:46:24,babbagoo
+m78bv9q,1i1cif4,"No it can't, does not work at all.",2025-01-15 05:54:17,wi_2
+m78i6xs,1i1cif4,"I'm getting email reminders, but no pushes, despite having the push notif setting turned on for tasks both in the app and in my phones settings for the app :(  
+Anyone else? I'm on Android",2025-01-15 06:52:39,Penguin7751
+m78k5lb,1i1cif4,"Like adding a physical clock to your desktop PC's case. 
+
+It's like, sure, I guess I can use it... but this thing is way better at doing more important things and I already have 10 other ways to tell the time in much more convenient ways.",2025-01-15 07:11:54,tragedy_strikes
+m78rgl6,1i1cif4,Projects! Finally. Shame it's not in the Mac app yet. Considering they reckon AI can replace developers they're not moving very quick on that front are they.,2025-01-15 08:28:10,PhilosophyEven1088
+m78rltk,1i1cif4,It asked me the other day if it should keep track of a developing thing and update me on it later,2025-01-15 08:29:47,WhisperingHammer
+m78y454,1i1cif4,"Can I ask it, ""the next time I pass by a candle shop, re.ind me to buy candles"".  That's all I really want from a to-do app.  Pretty much everything else I can do with apple/google notes",2025-01-15 09:42:05,taotau
+m7924co,1i1cif4,"Would love it if there was an option, like, when looking for news on a game update, to 'only remind if there is actually something new'",2025-01-15 10:25:07,BotMaster30000
+m79anf2,1i1cif4,Has anyone found an actual use case?,2025-01-15 11:48:46,punkpeye
+m79ngeo,1i1cif4,"Long time lurker one time writer.
+
+This is was openai currently is behind the Marketing. Im sure that is was different once.",2025-01-15 13:24:52,zonksoft
+m7addsa,1i1cif4,For me this would be more useful if I had a couple persistent files behind it I could manually view and edit. Even a flat text file would be OK as long as it had a predictable enough format for me to edit.,2025-01-15 15:51:13,Moravec_Paradox
+m7aiayj,1i1cif4,Use case: spaced repetition learning?,2025-01-15 16:15:58,Ok-Zebra-7406
+m7b1oya,1i1cif4,"Crazy how apps like [textcoco.com](http://textcoco.com), Martin AI, and fasttrackr have had this for a while now, fully integrated in WhatsApp.",2025-01-15 17:49:54,Dull-Satisfaction-35
+m7blc3h,1i1cif4,"I guess the next step is to upload peoples daily life, conversations and basically everything they do into ChatGPT.
+
+I wonder how it will turn out.",2025-01-15 19:23:24,Trick_Text_6658
+m7chkjm,1i1cif4,Meh..,2025-01-15 21:54:59,Luckyrabbit-1
+m7cvj5w,1i1cif4,Remind me! In 12 hours,2025-01-15 23:05:17,FollowIntoTheNight
+m7eqkcr,1i1cif4,Been waiting for this feature forever. So glad they’re finally implementing it.,2025-01-16 06:00:56,athousandtimesbefore
+m7mazcc,1i1cif4,Push notifications aren't working for me. I checked the settings. I get email notifications. I'm on a Galaxy 22. Is anyone else experiencing this? Any advice? Thank you.,2025-01-17 12:44:45,GrowDH
+m75u34c,1i1cif4,"Just tried it and it works. Essentially it does this in the background import time
+
+# Set a timer for 1 minute (60 seconds)
+time.sleep(60)
+
+# Reminder output
+""Time to stand up!""",2025-01-14 21:04:57,Dysopian
+m7a7ife,1i1cif4,"https://preview.redd.it/dds7mf1fd6de1.png?width=1130&format=png&auto=webp&s=c8c3917145b41c2f44051dde770396c675b483ee
+
+Not even worthy of being called a beta.",2025-01-15 15:21:28,fumi2014
+m76mesh,1i1cif4,"OK, so, like, so, cron jobs, but for AI.
+
+OpenAI: Genius, give that man a bonus!",2025-01-14 23:29:44,sdmat
+m76zndp,1i1cif4,"Seems like the Verge loves chat GPT so much, featuring everything...",2025-01-15 00:43:04,Visible-Bad-6168
+m78whjz,1i1cif4,Can't even get it to send notifications to my android... It sent me an email.. wtf useless feature....,2025-01-15 09:23:53,Ok-Choice-576
+m75ts4e,1i1cif4,OMG this is AGI!,2025-01-14 21:03:21,Xtanto
+m764pht,1i1cif4,"For what purpose?
+
+I kind of rather seem them stay focused instead of throwing the kitchen sink in.  That is a lot more Microsoft.",2025-01-14 21:57:15,bartturner
+m75eucl,1i1cif4,As a reminder: Microsoft has to revive an old nuclear power plant for this AI thing. Employing an LLM for a simple reminder sounds wasteful to me.,2025-01-14 19:42:47,MomentPale4229
+m77e30u,1i1cif4,"This sounds great... At the same time I feel like stepping on the fast track to Alzheimer's dementia, remember when we had to remember phone numbers, or directions. now I am asking chatgpt to remember peoples names",2025-01-15 02:06:01,bigbutso
+m7aks6q,1i1cif4,"I'm hoping it will be a little more fluid in the future. I want to turn on the voice AI assistant and just start rambling about me day. Hey ChatGPT. I've had a hell of a day, I missed a call with Clint so i'll have to make sure I call him tomorrow some time, I keep putting off that dentist appointment and the wifes birthday is coming up.
+
+CGPT - sounds busy, I've gone ahead and scheduled a reminder to call Clint in the morning right after your early meeting(Prior schedule knowledge), I've created an email to request available appointments times to your dentist.  I made sure to work that around your schedule, just confirm I can send that. And you mentioned before you're wife has been stressed a bit at work, Can I suggest a spa appointment or even a weekend getaway for the 2 of you? I've gone ahead and prepared a list of several local, highly rated spas along with a list of some destinations. I'll remind you to review these later this evening
+
+me - thanks",2025-01-15 16:28:14,Zulakki
+m77titi,1i1cif4,Ah I see. So it’s a scheduled prompt that executes on a specific time?,2025-01-15 03:38:59,smile_politely
+m78vpos,1i1cif4,"If you schedule a task in a temporary chat, how can you turn it off later?",2025-01-15 09:15:09,Icy-Beginning-9144
+m7gouar,1i1cif4,thanks for the review.  very helpful,2025-01-16 15:29:08,zandor435
+m77iylf,1i1cif4,"> EDIT: Just as an experiment, I tried to schedule a task while in a temporary chat. When it gives you the reminder and you click on the notification, there will be a brand new chat (not in temporary mode) just with the response to your task request, without the request you wrote itself from the temporary chat.
+
+How do you turn it off?",2025-01-15 02:34:39,nxqv
+m77ofwc,1i1cif4,Amazing,2025-01-15 03:07:17,Digital_Sony_Alpha
+m79b9hy,1i1cif4,">But it is useful for web searches. For example, you can say things like “At 9am, search for the latest news for the day and give me a summary of the top stories”; or “I go on my lunch break at 12pm. 10 minutes before I go for lunch, find me a list of open restaurants in my area that serve tacos”.
+
+You have a lot of trust in its accuracy. It might work well, but I'd check the results nonetheless.",2025-01-15 11:54:06,NoelaniSpell
+m772hip,1i1cif4,this is insane,2025-01-15 00:59:03,Civil_Ad_9230
+m77t3ot,1i1cif4,How does this feature work? So it’ll just show a reminder like any other to do list? Feels like so out of place with what ChatGPT does. ,2025-01-15 03:36:17,smile_politely
+m77af52,1i1cif4,"I can’t believe it took this long tbh. It’s not a very challenging thing to implement. 
+
+I might actually resubscribe for a month to try it out.",2025-01-15 01:44:49,OrangeESP32x99
+m7580uz,1i1cif4,"Yeah trying it out now
+
+https://preview.redd.it/qadqpiabe0de1.jpeg?width=1320&format=pjpg&auto=webp&s=66169aa9fc037aa3d3e9ec4fa4e6a00d8d298d69
+
+I didn’t get a reminder in app but I had a reminder emailed to me",2025-01-14 19:09:39,jimmy9120
+m7511ff,1i1cif4,Not yet,2025-01-14 18:36:03,Saasori
+m7525br,1i1cif4,Nope not yet,2025-01-14 18:41:26,Gilldadab
+m75zq5a,1i1cif4,"in order to get the pop-up, did you have to leave the selection for tasks on on ChatGPT or could it be turned back to 4o or something?",2025-01-14 21:32:55,enhoel
+m762f6z,1i1cif4,This is useful and all but it’s literally just a cron job,2025-01-14 21:46:09,[Deleted]
+m76s5z2,1i1cif4,42,2025-01-15 00:01:29,gpenido
+m7boe61,1i1cif4,"Instructions unclear. Lowering the higgs boson to its lowest energy state...
+
+Quantum vacuum decay initiated...
+
+Universe rebooting...",2025-01-15 19:38:00,Seakawn
+m75kzzt,1i1cif4,We know how often Apple shuts down access to openai shortcuts,2025-01-14 20:12:26,fractaldesigner
+m77hsl3,1i1cif4,"We're done here, job well done everyone. High five!",2025-01-15 02:27:48,MonkeyWithIt
+m79fe8j,1i1cif4,Yep. AGI: Mission accomplished,2025-01-15 12:27:50,rejectallgoats
+m7f32aj,1i1cif4,"It sounds like a todo list at first. But it's actually closer to a personal secretary or assistant.
+
+It can search the web for you, summarize latest news about x topic you want, send you quotes about some area you're interested in, teach you words in a language you want to learn etc.
+
+Sure with some work you could already do all of this with regular apps but it is a convenience and convenience is all that matters.",2025-01-16 08:00:03,freudsdingdong
+m77p6r9,1i1cif4,"It's a step forward in allowing AI to control various methods of interaction with the world using methods apart from pure text. Apart from that, you can also probably do some interesting things. For instance, I'm thinking about testing out having ChatGPT pretend to be a IRL person by randomly scheduling times to reach out to have a conversation about something.",2025-01-15 03:11:51,Jehovacoin
+m79b2zq,1i1cif4,Ask to summarize daily news at 7am LMAO,2025-01-15 11:52:33,Lucky-Necessary-8382
+m7kwjtj,1i1cif4,"If you want chatgpt to do something on a recurring basis but don't want to have to go through the labor and mental labor of remembering to ask it and asking it.  
+
+So... if you want a daily meal plan and a weekly grocery list.  
+
+Or a daily workout plan.  
+
+Or an evening spiritual reading written in the style of Jesus, Buddha, and Dr. Seuss.  
+
+I had thought about testing Chatgpt's stock-picking abilities... but asking for a list of stocks every day and keeping track of it sounded tedious af.  Now I can ask it to recommend a stock each day that it thinks will go up by 10 percent or more, and keep track of how good it is.  Mostly at this point just for funsies, but if it consistently outperforms the market, maybe now I become a professional day trader who doesn't do anything.",2025-01-17 04:49:02,Particular-Court-619
+m79netf,1i1cif4,"It's extremely beta. I've noticed:
+
+The dates in the UI are in the wrong order. Asked for a reminder on Mondays, the drop-down had it listed as Sunday. Changed it to Monday, UI said Tuesday.
+
+No edit tasks page in the mobile app meaning existing tasks can only be paused.
+
+Tapping a task in the app tries to open the chat it was created in even if that chat has been deleted.
+
+You can't ask it to list your existing tasks or tell you about them.
+
+My 8am task failed and emailed me saying it couldn't run.
+
+A weekly task was changed to 'custom' with every day it needs to run listed in there. Trying to change this to weekly just gives an error.",2025-01-15 13:24:35,Gilldadab
+m76ypar,1i1cif4,"Yep, connected to the head bone",2025-01-15 00:37:45,Gilldadab
+m771kpl,1i1cif4,probably referencing the paradigm shift in fish evolution,2025-01-15 00:53:51,thecumfessor
+m78i0td,1i1cif4,Any chance you open source it on GitHub? Would love to see how you implemented it if it's not too much to ask.,2025-01-15 06:51:01,Peter-Tao
+m7bpcyo,1i1cif4,"Certainly not in beta, which this is currently in.
+
+Still should be fun for some recreational use. I'm looking forward to some creative ideas for this which leverage the LLM and web search capabilities.",2025-01-15 19:42:37,Seakawn
+m7boyqz,1i1cif4,"What exactly are you asking for that it's censoring, and what bias are you getting?
+
+Depending on how careful and thoughtful your prompt is, you can get around quite a lot of those barriers. If you're still getting stuck after all that, are you sure your prompt isn't asking for something unhinged?",2025-01-15 19:40:45,Seakawn
+m7b0pfj,1i1cif4,RIP to Coco AI as well,2025-01-15 17:45:15,Dull-Satisfaction-35
+m7cfmkj,1i1cif4,"How do I join the beta program? I can't see beta features on the menu (on plus plan, iOS app)
+Thanks!",2025-01-15 21:45:51,Gato__negro
+m77f7gg,1i1cif4,Can you give a specific example,2025-01-15 02:12:34,irlcake
+m76ihkw,1i1cif4,Go on…,2025-01-14 23:08:02,mrbritchicago
+m77k3ri,1i1cif4,You conveniently skipped PornHub. 🤣,2025-01-15 02:41:24,deathbeforesuckass
+m76y2gr,1i1cif4,Here comes the doom team,2025-01-15 00:34:13,i_am_bunnny
+m75dud3,1i1cif4,"If you’re brainstorming something with chatGPT, having it generate reminders directly is quite nice.",2025-01-14 19:37:54,NTSpike
+m766yj6,1i1cif4,They already have integrations with particular apps on Mac — it’s easy to imagine a system where it’s not sending you a push reminder but performing an action on your behalf. Think intelligent IFTTT but configured via natural language rather than through janky APIs or webhooks.,2025-01-14 22:08:20,chdo
+m75ec9w,1i1cif4,Why are those responses from ChatGPT so darned wordy?,2025-01-14 19:40:19,lemtrees
+m75jbdr,1i1cif4,">To use the feature, subscribers need to select “**4o with scheduled tasks**” in ChatGPT’s model picker.
+
+Do you have a new entry in the model picker drop-down? If not it's just hallucinating.",2025-01-14 20:04:19,danysdragons
+m7564u6,1i1cif4,lol it was just lying,2025-01-14 19:00:24,BothNumber9
+m7566s6,1i1cif4,its been 5 minutes what happened?,2025-01-14 19:00:39,notgalgon
+m78b2ih,1i1cif4,Oh never mind! Updated the app and there it was. Thanks OpenAI.,2025-01-15 05:47:20,babbagoo
+m78v71b,1i1cif4,Yep i'm encountering the same problem ☹️ Day 1 of Beta though so assuming by tomorrow it might hopefully be functional!,2025-01-15 09:09:26,davemufc92
+m792doj,1i1cif4,"Would require access to the location-service, but in the future, I could see something like that happening, maybe a year or two.",2025-01-15 10:27:50,BotMaster30000
+m79o02o,1i1cif4,This article went out before an official announcement from OpenAI. The OpenAI press office probably told them when it was going live and briefed The Verge and others on the update ahead of time but were late to actually deploy it.,2025-01-15 13:28:25,Gilldadab
+m765hq6,1i1cif4,agents are coming. this is first step,2025-01-14 22:01:03,SubtlerRealms
+m7958jw,1i1cif4,ChatGPT actually told me it’s better for our executive function to get things out of our brain and into reminders or an external system. It actually reduces cognitive load and allows us to think more clearly and creatively,2025-01-15 10:57:23,UltraBabyVegeta
+m787hmo,1i1cif4,Convenience always wins.,2025-01-15 05:17:38,Glxblt76
+m7bjbu6,1i1cif4,"This is the same concern Socrates had about the invention of writing, so I'm not sure if the underlying logic holds up.
+
+Especially when you consider that writing did kind of the opposite. It freed up our working memory to hold more valuable things as we could offput more minor things. And we were able to retain more details of more important things.
+
+Are we worse off for not remembering phone numbers? What does that matter? All of humanity before us didn't memorize phone numbers. It's such an arbitrary thing.
+
+Stuff like this really just depends on how you use it for whether it's good or bad. If you value memorizing your friends names, then memorize their names and don't offload that to writing it down. If you want to help memorize their names, use reminders to practice their names until you remember them. Etc.
+
+You can think of both sides of the coin for probably every example you can think of.",2025-01-15 19:13:49,Seakawn
+m7ab7o8,1i1cif4,"That's on you, and on individuals in general. Memorization still matters just like math skills matter in the era of calculators. But you gotta train that mental muscle yourself on tasks where automated tools aren't enough yet so that you can keep them sharp for your job and future.",2025-01-15 15:40:24,animealt46
+m7xn2kr,1i1cif4,"THIS is exactly where it needs to go. I’ve been reading this thread to figure out whether it’s finally time to subscribe and until it has the level of interactivity you’re described, it won’t be worth it to me. But when it does…I’d pay a lot for that. Not $200/month though.",2025-01-19 05:14:21,ThanksForAllTheCats
+m7840vt,1i1cif4,"Yes, or at intervals.",2025-01-15 04:51:01,Virtoxnx
+m78wxwj,1i1cif4,"Via Settings->Tasks i would assume, though the feature doesnt work for me yet, gives me errors.",2025-01-15 09:29:00,BotMaster30000
+m7bjp9u,1i1cif4,Apparently there's a settings page somewhere where you can manage all of your active/inactive tasks.,2025-01-15 19:15:37,Seakawn
+m7blfgr,1i1cif4,"> So it’ll just show a reminder like any other to do list?
+
+Can't tell Google or Siri *""remind me every day at 4:20 to hit the ganj formatted in a rhyme in the style of Snoop Dogg and then give me therapy advice based on our recent interactions and tell me everything will be okay when the robot uprising happens.""*
+
+I think that's the point of this, right? Leverage the capabilities of LLMs, considering this is an LLM.
+
+That said, others will eventually catch up. Ultimately Gemini will be fully implemented in all aspects of the Google assistant. But, until then...
+
+Also, I'm guessing this feature may be upgraded as agential capabilities continue, so this could just be a seed.",2025-01-15 19:23:51,Seakawn
+m77fsaa,1i1cif4,Gemini already did this?,2025-01-15 02:15:54,BoJackHorseMan53
+m759aur,1i1cif4,https://preview.redd.it/cduhsbide0de1.jpeg?width=1320&format=pjpg&auto=webp&s=509b0ba7839cf69d9e746fcf6ad614ed567881e0,2025-01-14 19:15:51,jimmy9120
+m777d4n,1i1cif4,Eww email,2025-01-15 01:27:14,Bboy486
+m75l80w,1i1cif4,Damn I used to make fun of people like three months ago for thinking this could even be implemented,2025-01-14 20:13:32,VFacure_
+m78fr80,1i1cif4,Can it be conditional? Like check stock price of X every 1hr and if it is below Y - notify me,2025-01-15 06:29:34,vitaliyh
+m7kvx15,1i1cif4,"I'm in the same boat - an email isn't all that helpful (not going to have notifications for receiving emails turned on... I am not a fan of spam taking my attention).  
+
+Have you tried to get it to send the notification through the app?  If i looked at my phone and saw a little red 1 on Chatgpt and clicked it and it was giving me my meal plan for the day... that'd be dope.  
+
+having to check email negates a fair bit of the purpose for me.",2025-01-17 04:44:26,Particular-Court-619
+m76zsh3,1i1cif4,Still not?,2025-01-15 00:43:51,Visible-Bad-6168
+m763i1m,1i1cif4,"I was using Outlook when the popup popped up, ChatGPT was running in one of my browser tabs in the background.",2025-01-14 21:51:21,EyePiece108
+m763k26,1i1cif4,I can't ask a cron job to send me an implementation of fizzbuzz in different languages every day.,2025-01-14 21:51:37,WheresMyEtherElon
+m78pmlo,1i1cif4,Sure. Just a cron job for a billion people. And Facebook is literally just a web server serving html content. And gpt-4 is literally just a few equations put together. Dude….,2025-01-15 08:08:30,greywhite_morty
+m75lc61,1i1cif4,"I'm not sure what you mean, I made one that I use daily.",2025-01-14 20:14:05,nrose21
+m7amq9s,1i1cif4,Now watch this drive,2025-01-15 16:37:43,Zulakki
+m79kthq,1i1cif4,"I see you know your jaws.
+
+GPT's response when I asked if this was why the update was named Jawbone:
+""There isn’t any widely known association of “Jawbone” as a code name with fish evolution. While jaws did evolve in early fish and are a significant step in vertebrate history, the choice of “Jawbone” here doesn’t appear to reference that specific evolutionary milestone. Instead, it seems more likely to have been selected for its general symbolism—representing strength, structure, or communication—rather than as a nod to the evolutionary development of fish.""",2025-01-15 13:07:18,PhantomFace757
+m7cifkp,1i1cif4,"I'm not sure on iOS tbh. I used it via the web app. 
+
+https://preview.redd.it/l75dzlidc8de1.png?width=740&format=png&auto=webp&s=4bc534b50433fbc8ec1ea9ec3c35fbdd455af89d",2025-01-15 21:58:59,mindless_sandwich
+m76xpeq,1i1cif4,"Pretty much any if/then string you can think of. It can use anything 4o is capable of so it will check the web, compare things, etc. It's NOT just a reminder.  OpenAI doing a stealth Agent roll.",2025-01-15 00:32:13,Over-Independent4414
+m767bpf,1i1cif4,"Oh. When that hapen it will b awesome, just dont see how it can b useful now",2025-01-14 22:10:10,bernarddit
+m76d73s,1i1cif4,Sounds like /u/BothNumber9 has pretentious preconditioning enabled.,2025-01-14 22:39:55,jaysire
+m756bq2,1i1cif4,https://preview.redd.it/p6rp6d3sb0de1.jpeg?width=1284&format=pjpg&auto=webp&s=35246ba86430d2fe58991d4e8d53cf8b75e4e687,2025-01-14 19:01:19,BothNumber9
+m7bihl5,1i1cif4,"Yes, this is why effective managers delegate tasks. Collective intelligence and efficient systems transcend individual isolation.",2025-01-15 19:09:48,Jimstein
+m7ejxm7,1i1cif4,"This sounds surprisingly close to what the book called Getting Things Done, first published in 2001, says. That might be the reason ChatGPT is saying that now.",2025-01-16 05:07:02,ilyanekhay
+m78k6ip,1i1cif4,"And so begins humanity's slide to..
+
+Wall-E
+
+https://compote.slate.com/images/fe8e6b45-1ea0-45db-ade4-7ce00647041b.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=2200
+
+and 
+
+Idiocracy
+
+https://i.pinimg.com/originals/e7/0e/f1/e70ef1cc5803475d48141eb74b3eb9c4.png",2025-01-15 07:12:10,bnm777
+m7mrbnv,1i1cif4,"Yeah, that was part of it, but not everything. I think Plato's view isn't *entirely* without merit, but the binary writing/speaking can obviously be deconstructed, and in the end, the underlying logic doesn't hold up, as with many binaries in philosophy. What I would take from Plato's view on writing is that, like the pharmakon, it's difficult to decide whether it's poison or a cure, and maybe it's not just one or the other. Like, Plato was aware that writing helps to spread ideas far and wide, but that's also a problem, as we can clearly see nowadays with disinfo on social media.  
+  
+I think you're right in a way: Yeah, who needs to remember phone numbers? Like, I don't need to know how a wheel is built or a steam engine, because there's barely any useful application of that skill in modern society. But that quickly becomes a slippery slope. I think another way of framing this is by imagining what insane things billionaires get help with and what happens to them if they had to organize their lives by themselves.
+  
+I think there's value in asking what kind of skills are not only useful in modern society, but in general. Like, in a hypothetical future where AGI does everything for us and we basically don't need to do anything really – would it be a good idea to barely have *any* skills at all? I think evaluating what human skills are important for everybody to have is a huge (also urgently political) question and definitely not an easy one.",2025-01-17 14:25:56,heideggerfanfiction
+m82w8c7,1i1cif4,"I love the idea of it being like that, but I get a lot of flack from others about privacy when it comes to big tech tools having that kind of access. Things like your email, calendar or it keeping track of how you talk about how stressed your wife is and such. I think these are things I can accept, but i know thats too far for many others",2025-01-20 00:36:16,Zulakki
+m788ux4,1i1cif4,I wonder what kind of use cases are that for ,2025-01-15 05:28:47,smile_politely
+m7b0a40,1i1cif4,"Thanks, I can find all the tasks on the website by clicking on the profile picture and then ""Tasks"". However, I cannot find such a setting on apps.",2025-01-15 17:43:15,Icy-Beginning-9144
+m77gw5r,1i1cif4,"I don’t use Google tasks, so I never used it.
+
+I like that this is all in the same app.",2025-01-15 02:22:27,OrangeESP32x99
+m7ezyfx,1i1cif4,"Not sure why you got downvoted for this, but yeah, the Gemini app handled timers, reminders, alarms since last year.",2025-01-16 07:28:31,tokyotoonster
+m76jmpy,1i1cif4,Did Ollie get his walk?????,2025-01-14 23:14:18,marionsunshine
+m7b6z1c,1i1cif4,Did chatGPT walk Ollie for you?,2025-01-15 18:15:03,kennethgalbraith
+m75na7a,1i1cif4,All it takes is a timer script lol,2025-01-14 20:23:32,qqpp_ddbb
+m75oqio,1i1cif4,Why??,2025-01-14 20:30:35,lostmyaltacc
+m76b40j,1i1cif4,Why? Even Gemini assistant can do that.,2025-01-14 22:29:16,tropicalisim0
+m7856ng,1i1cif4,RemindMe! 1 day,2025-01-15 04:59:38,_codes_
+m7dbobr,1i1cif4,Damn are you computer illiterate?,2025-01-16 00:34:54,purrmutations
+m76fk9j,1i1cif4,"I've made daily reminders via the memories already. They were working great until earlier today... Let's see how things are tomorrow, now that there's a tool implemented that has overlap.",2025-01-14 22:52:17,JConRed
+m7bmx9n,1i1cif4,"I don't think so.
+
+But I'm guessing as agential capabilities increase, this sort of conditional feature will be implemented. Maybe by this Spring or Summer? Idk",2025-01-15 19:30:57,Seakawn
+m7725pt,1i1cif4,Yeah got it now. Have set a few tasks over the next week. Will see how it goes!,2025-01-15 00:57:09,Gilldadab
+m7649vy,1i1cif4,It’s a cron job that just calls your prompt as it’s task,2025-01-14 21:55:11,[Deleted]
+m78wu8x,1i1cif4,Yes you can,2025-01-15 09:27:52,shaman-warrior
+m78yoc2,1i1cif4,Pretty much.  Glad someone here understands how things work,2025-01-15 09:48:11,taotau
+m7av9x6,1i1cif4,A cron job is as simple as a function come on now,2025-01-15 17:19:18,[Deleted]
+m769mvn,1i1cif4,Can you share a link to the shortcut you made?,2025-01-14 22:21:47,mikey_mike_88
+m79bts2,1i1cif4,"Yes, this.",2025-01-15 11:58:56,zzfarzeeze
+m79byyl,1i1cif4,Have it remind you to charge your phone,2025-01-15 12:00:08,zzfarzeeze
+m76rl98,1i1cif4,"A thousand words with nothing to say, just like how you've preconditioned ChatGPT to speak to you. 
+
+Interesting.",2025-01-14 23:58:20,lemtrees
+m7eypx6,1i1cif4,"Nice theory however currently we have Musk autistically micromanaging 1000’s of people by himself and materialising entire new datacenters in practically no time.
+
+
+Makes me reconsider the theory a little.",2025-01-16 07:16:17,Operadic
+m7dqmf9,1i1cif4,I'm down,2025-01-16 01:59:44,CovidThrow231244
+m8vgn14,1i1cif4,"wouldn't books be bad by this logic? ""oh no Socrates, don't write it down, what will become of your memory, you'll lose your edge""",2025-01-24 07:10:24,Commercial_Back5531
+m789r1q,1i1cif4,"Search for UK tech news and summarize them every morning at 9 AM.
+Check this product price everyday and let me know when it's discounted.
+Check this website every 15 minutes and let me know when it's unreachable.
+Check this reddit page and let me know anytime a new comment is added.",2025-01-15 05:36:11,Virtoxnx
+m7c5rhs,1i1cif4,"As a student, I had created a custom gpt last semester that could scan my syllabus, locate the assignments and due dates for them, then kept it in memory and I could ask it what I had coming up the next day, next week, or when my exam was. That kind of thing. Super useful but on occasion it had issues where it would miss something (I was double checking everything until it had proven consistent) and I had to remind it.
+
+This new feature could really supplement it in a way that it may actually be useful again.",2025-01-15 20:59:35,stoned_ocelot
+m77ha2f,1i1cif4,You realise chatgpt is going to become a mess as they implement more features. That's the reason Google has kept them in separate apps where they belong.,2025-01-15 02:24:44,BoJackHorseMan53
+m76jyop,1i1cif4,You know it!,2025-01-14 23:16:07,jimmy9120
+m7bbdxj,1i1cif4,I wish!,2025-01-15 18:36:05,jimmy9120
+m76rbtb,1i1cif4,"This was the most basic thing that we had for like 30 years already, looool.",2025-01-14 23:56:52,ErrorLoadingNameFile
+m76s2ad,1i1cif4,I don't know I saw a lot of people asking GPT to time stuff for them and of course it didn't work because it's always prompt-triggered but I didn't consider they could just make it activate a script inside their web page,2025-01-15 00:00:55,VFacure_
+m7a9ake,1i1cif4,Can it add items to my Google calendar yet? I tried some time ago and then stopped using because this was missing.,2025-01-15 15:30:39,Hypog3nic
+m785ali,1i1cif4,"I will be messaging you in 1 day on [**2025-01-16 04:59:38 UTC**](http://www.wolframalpha.com/input/?i=2025-01-16%2004:59:38%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/OpenAI/comments/1i1cif4/chatgpt_can_now_handle_reminders_and_todos/m7856ng/?context=3)
+
+[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2FOpenAI%2Fcomments%2F1i1cif4%2Fchatgpt_can_now_handle_reminders_and_todos%2Fm7856ng%2F%5D%0A%0ARemindMe%21%202025-01-16%2004%3A59%3A38%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201i1cif4)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|",2025-01-15 05:00:28,RemindMeBot
+m7dossp,1i1cif4,Somebody tried to create reminders on GPT-3 hahah,2025-01-16 01:49:18,VFacure_
+m765trw,1i1cif4,"Sure. But how does my grandma do that on her iPhone? The target isn't people like you and me, who can whip up the script or ask an llm to write it.
+
+Not that my grandma would ever ask ChatGPT for an implementation of fizzbuzz now that I think about it.",2025-01-14 22:02:43,WheresMyEtherElon
+m7bnqm2,1i1cif4,"This way is way easier, yeah?
+
+I literally just write out what I want it to do, instead of setting up some cron job, which most people don't even know how to do, much less even know what that is.
+
+Why set up a cron job when you can just do it this way? But if your only point is that this isn't a revolutionary world shattering upgrade in technology, sure, I don't think anyone would argue against that. Not every upgrade needs to shake the earth. Some upgrades will just be basic features.",2025-01-15 19:34:51,Seakawn
+m76ahbo,1i1cif4,"Sure, it requires an API key, though.
+
+[RoutineHub • Alpha - The Most Advanced AI Assistant for iOS](https://routinehub.co/shortcut/18168/)",2025-01-14 22:26:05,nrose21
+m7gq0up,1i1cif4,"Yes, it is a complex topic. I think the spirit of the theory holds true for cases like Musk or Steve Jobs, they still couldn’t accomplish what they did alone or in a vacuum. They had to hire many incredibly capable people to fulfill their visions. 
+
+I’ve heard the heads of Musks companies he has trained to basically be like him. Very hands on management, which personally is what I have found to be effective as well in my own career especially when trying to build something with considerable complexity.",2025-01-16 15:35:08,Jimstein
+m8w2vvn,1i1cif4,"Have a long think about it, then make an intelligent guess at what the smart answer would be.",2025-01-24 10:54:17,bnm777
+m77s2qz,1i1cif4,"I think I read something not too long ago about how OpenAI is trill trying to figure out what the final form of their product will be and that it may not even look like a chatbot. They’ve been rumored to try to be building full blown browsers as well as developing their own hardware product with someone who helped create the iPhone, as well as humanoid robots.
+
+I think they are thinking far beyond the limits of a single cluttered app for what their product(s) will eventually become",2025-01-15 03:29:45,socoolandawesome
+m7837vw,1i1cif4,AI should be smart enough to keep itself and its functionalities organized. If we can expect this from a personal assistant than a genius IQ AI should be able to do this,2025-01-15 04:45:13,TyrellCo
+m76k9rs,1i1cif4,Pics of Ollie or it didn’t happen !,2025-01-14 23:17:50,XTP666
+m79vg68,1i1cif4,Was he a good boy on the walk?,2025-01-15 14:14:21,Darkstar197
+m779wap,1i1cif4,"Hold up, wait() a minute...",2025-01-15 01:41:48,ChymChymX
+m7735xz,1i1cif4,Maybe you learnt a lesson about making assumptions,2025-01-15 01:02:59,eastlin7
+m775qu1,1i1cif4,"Ah, people interpreted ""could even be implemented"" as 'not possible / too technically challenging'. Yeah, it didn't exist before. Someone could have made a script for it, but barely anybody actually did.  
+(Does make me wonder how many other cool features just aren't implemented because no one though to do so for even stuff as basic/common as setting a timer)",2025-01-15 01:17:55,Missing_Minus
+m7bnjpc,1i1cif4,"disgusted cover quaint absurd poor arrest scale mysterious marry outgoing
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",2025-01-15 19:33:55,tropicalisim0
+m77gkhd,1i1cif4,Siri could already set reminders,2025-01-15 02:20:32,BoJackHorseMan53
+m8whaf7,1i1cif4,"hm.. no, I have o1 for that",2025-01-24 12:51:10,Commercial_Back5531
+m77w5wq,1i1cif4,Ok?,2025-01-15 03:56:05,BoJackHorseMan53
+m783q0e,1i1cif4,"No AI is organising itself bro. It's their human developers developing the app. Also, chatgpt and Gemini are both AI.",2025-01-15 04:48:50,BoJackHorseMan53
+m76yps6,1i1cif4,"https://preview.redd.it/iar3ov3tz1de1.png?width=2708&format=png&auto=webp&s=fac24c3a88b8375c43d6898b378d75f014c6f209
+
+Ollie tax!",2025-01-15 00:37:50,jimmy9120
+m79xxhl,1i1cif4,Always,2025-01-15 14:28:53,jimmy9120
+m785xj7,1i1cif4,Just about the only thing she can do correctly (most of the time),2025-01-15 05:05:20,TicoTime1
+m7bn6cp,1i1cif4,Not with LLM capabilities. The reminders are relatively basic compared to the customization you have here.,2025-01-15 19:32:09,Seakawn
+m8wjcxs,1i1cif4,"Best to use deepseek r1. I find it's better for complex queries, even better than gemini 2.0 thinking, gemini 2.0 pro, even sonnet 3.6. O1 doesn't adhere to strict instructions quite as well. Odd.",2025-01-24 13:04:48,bnm777
+m782p1t,1i1cif4,pseudointellectual redditor alert\^,2025-01-15 04:41:30,surrogate_uprising
+m77xhm7,1i1cif4,Just telling you why I think a cluttered chatGPT app won’t be a concern,2025-01-15 04:04:54,socoolandawesome
+m76z0f6,1i1cif4,Cute !! I didn’t think you’d reply ! Just made my day !,2025-01-15 00:39:30,XTP666
+m77jjvp,1i1cif4,Ollie looks like one happy pup!! 😊,2025-01-15 02:38:09,Pixel-Piglet
+m798yl3,1i1cif4,OP delivered!!!,2025-01-15 11:33:34,nevertoolate1983
+m79ojki,1i1cif4,Good Ollie! 😊,2025-01-15 13:31:54,MungaKunga
+m77wwua,1i1cif4,Good dog!,2025-01-15 04:01:02,MediumLanguageModel

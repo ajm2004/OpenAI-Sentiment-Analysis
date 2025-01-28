@@ -1,0 +1,919 @@
+[
+    {
+        "comment_id": "lgkm9j6",
+        "post_id": "1ekh1uv",
+        "body": "Good, I don\u2019t want Texas Instruments tattling on me either",
+        "time": "2024-08-05 07:00:57",
+        "author": "redAppleCore"
+    },
+    {
+        "comment_id": "lgkwk1a",
+        "post_id": "1ekh1uv",
+        "body": "[deleted]",
+        "time": "2024-08-05 08:56:58",
+        "author": "[Deleted]"
+    },
+    {
+        "comment_id": "lgksn83",
+        "post_id": "1ekh1uv",
+        "body": "I would also be against it, if it reduces the response quality. I can't imagine a way of having \"predictable\" patterns without negatively affecting the output quality",
+        "time": "2024-08-05 08:12:22",
+        "author": "magkruppe"
+    },
+    {
+        "comment_id": "lgktc7e",
+        "post_id": "1ekh1uv",
+        "body": "How would you encode a watermark into text without severely damaging quality - what?",
+        "time": "2024-08-05 08:20:21",
+        "author": "prozapari"
+    },
+    {
+        "comment_id": "lgm4vkh",
+        "post_id": "1ekh1uv",
+        "body": "That's not the only reason the aren't doing it. In their own words:\n\n> While it has been highly accurate and even effective against localized tampering, such as paraphrasing, **it is less robust against globalized tampering; like using translation systems, rewording with another generative model, or asking the model to insert a special character in between every word and then deleting that character - making it trivial to circumvention by bad actors.**\n\nSource: https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online/",
+        "time": "2024-08-05 14:44:13",
+        "author": "BoBab"
+    },
+    {
+        "comment_id": "lgkotpk",
+        "post_id": "1ekh1uv",
+        "body": "OpenAI should be more worried about staying in the lead in face of competition.",
+        "time": "2024-08-05 07:29:03",
+        "author": "[Deleted]"
+    },
+    {
+        "comment_id": "lgkovve",
+        "post_id": "1ekh1uv",
+        "body": "Too late. Someone in the EU is already busy writing the law to enforce watermarking now.",
+        "time": "2024-08-05 07:29:44",
+        "author": "RealFunBobby"
+    },
+    {
+        "comment_id": "lgl2uj2",
+        "post_id": "1ekh1uv",
+        "body": "The inevitable simple solution as far as grade school goes is to have kids write their essays in class.",
+        "time": "2024-08-05 10:08:02",
+        "author": "EGarrett"
+    },
+    {
+        "comment_id": "lgklyts",
+        "post_id": "1ekh1uv",
+        "body": "When you ask him to write a report or essay, he will not mention anything about being artificial intelligence. He will just provide you with the report.",
+        "time": "2024-08-05 06:57:47",
+        "author": "Aymanfhad"
+    },
+    {
+        "comment_id": "lgkyvd2",
+        "post_id": "1ekh1uv",
+        "body": "Pure nonsense.\u00a0It's text. There's not enough entropy to encode a watermark.",
+        "time": "2024-08-05 09:23:45",
+        "author": "WalkThePlankPirate"
+    },
+    {
+        "comment_id": "lgkr7ie",
+        "post_id": "1ekh1uv",
+        "body": "Makes sense to me. OpenAI doesn't want to hurt its user base. 30% less usage is a big deal.\n\nWatermarking could help prevent academic dishonesty and detect AI-generated content. But, it could stigmatize AI tools and hurt their adoption, especially among non-native speakers who rely on them for language assistance.",
+        "time": "2024-08-05 07:55:57",
+        "author": "benkei_sudo"
+    },
+    {
+        "comment_id": "lgl8pkx",
+        "post_id": "1ekh1uv",
+        "body": "Good",
+        "time": "2024-08-05 11:05:50",
+        "author": "Mr_Tommy777"
+    },
+    {
+        "comment_id": "lgm91j9",
+        "post_id": "1ekh1uv",
+        "body": "from the article \u201cOffering any way to detect AI-written material is a potential boon for teachers trying to deter students from turning over writing assignments to AI.\u201d\n\nand so will your boss.  copy pasters will be punished.",
+        "time": "2024-08-05 15:07:10",
+        "author": "Effective_Vanilla_32"
+    },
+    {
+        "comment_id": "lgo9jjl",
+        "post_id": "1ekh1uv",
+        "body": "Business suicide by outting its users",
+        "time": "2024-08-05 21:32:18",
+        "author": "m3kw"
+    },
+    {
+        "comment_id": "lgkn4cz",
+        "post_id": "1ekh1uv",
+        "body": "This is the right decision.",
+        "time": "2024-08-05 07:10:12",
+        "author": "MindDiveRetriever"
+    },
+    {
+        "comment_id": "lgkxiqh",
+        "post_id": "1ekh1uv",
+        "body": "Snitches gets stitches",
+        "time": "2024-08-05 09:08:12",
+        "author": "nickmaran"
+    },
+    {
+        "comment_id": "lgl2q5p",
+        "post_id": "1ekh1uv",
+        "body": "Maybe denying its existence is part of the plan to keep it effective.",
+        "time": "2024-08-05 10:06:44",
+        "author": "EGarrett"
+    },
+    {
+        "comment_id": "lgm7nsw",
+        "post_id": "1ekh1uv",
+        "body": "It would be less effective at generating code. The simplest way to bypass such a watermark is to have a smaller model slightly rewrite the output.\n\nThe real reason is probably that it only catches non-technical users, who likely make up a large portion of their text-generation user base.",
+        "time": "2024-08-05 14:59:29",
+        "author": "pseudonerv"
+    },
+    {
+        "comment_id": "lglo219",
+        "post_id": "1ekh1uv",
+        "body": "Reddit is a brainless herd of sheep. The watermarking they\u2019re talking about is encoding a pattern in the tokens which doesn\u2019t matter if you just then run that output through a different model. Boom, no token pattern, no watermark.",
+        "time": "2024-08-05 13:03:03",
+        "author": "Trozll"
+    },
+    {
+        "comment_id": "lgmspnt",
+        "post_id": "1ekh1uv",
+        "body": "Many non native speakers are going to use AI to ensure that their grammar is correct. So all their work and thoughts will be flagged as AI output while native speakers won\u2018t get flagged. Nice future. @OpenAI: please resist this nonsense.",
+        "time": "2024-08-05 16:52:51",
+        "author": "Eastern-Buffalo7416"
+    },
+    {
+        "comment_id": "lgko4yk",
+        "post_id": "1ekh1uv",
+        "body": "They aren't going to publicly watermark it, but if they are giving a \"best\" answer, with a singular definition, they will have a watermark whether they like it or not. I am sure they are aware of this and just not publicizing it. They have too much to gain from watermarking, like not training on its own outputs or identifying public misinformation campaigns.",
+        "time": "2024-08-05 07:21:20",
+        "author": "Mescallan"
+    },
+    {
+        "comment_id": "lgmhqrg",
+        "post_id": "1ekh1uv",
+        "body": "\u201c\nBut it says techniques like rewording with another model make it \u201ctrivial to circumvention by bad actors.\u201d \n\u201c\n\nThey didn\u2019t release it because it\u2019s useless.",
+        "time": "2024-08-05 15:54:07",
+        "author": "epicchad29"
+    },
+    {
+        "comment_id": "lgp36nf",
+        "post_id": "1ekh1uv",
+        "body": "Why not just have a log of output that checks against known answers provided? Businesses can pay for Microsoft integration, auto-narc with a warning this exact output was generated at such and such a time already.",
+        "time": "2024-08-06 00:28:30",
+        "author": "p0rty-Boi"
+    },
+    {
+        "comment_id": "lgs8006",
+        "post_id": "1ekh1uv",
+        "body": "AI will figure you out sooner or later, you are just delaying the inevitable, over time, AI will be able to predict who you are just based on the way you type.",
+        "time": "2024-08-06 15:17:35",
+        "author": "BothNumber9"
+    },
+    {
+        "comment_id": "lh8gv52",
+        "post_id": "1ekh1uv",
+        "body": "I think they will watermark their text at some point and then offer a pay tier to remove watermarks.",
+        "time": "2024-08-09 06:06:34",
+        "author": "SteeleyDick"
+    },
+    {
+        "comment_id": "lgl0nzm",
+        "post_id": "1ekh1uv",
+        "body": "Immediate unsubscribe, I don\u2019t even get this, plain text is plain text, not sure how they could water mark that? Even if they could. Snipping took & OCR then copy paste Lololol",
+        "time": "2024-08-05 09:44:23",
+        "author": "Moocows4"
+    },
+    {
+        "comment_id": "lgknbqt",
+        "post_id": "1ekh1uv",
+        "body": "This is the way.",
+        "time": "2024-08-05 07:12:25",
+        "author": "AdMaster9439"
+    },
+    {
+        "comment_id": "lgms9up",
+        "post_id": "1ekh1uv",
+        "body": "If you are adding a recognizable pattern to the output, it is *ipso facto* a reduction of output quality. You are adding a pattern where there wasn't one. You are essentially giving the output a \"voice\" that you can't undo. \n\nThe question is whether that reduction in quality is worth the benefits. \n\nIf it's just to keep students from using ChatGPT to write their homework, this is a bad reason. Figure out how to teach students in the context of the world they live in. STEM went through this with symbol manipulating calculators in the early 2000s. It survived. I'm sure writing can be taught without crippling a promising tool for everyone.",
+        "time": "2024-08-05 16:50:31",
+        "author": "CalligrapherPlane731"
+    },
+    {
+        "comment_id": "lgn96sp",
+        "post_id": "1ekh1uv",
+        "body": "I never understood this. They want as many users as possible. Is cheating right? No. But from a company viewpoint why risk losing a huge chunk of their user base for what? To make Universities happy? Maybe they should've invest those billions into AI detection software instead of football coaches. Put their money where they mouth is.",
+        "time": "2024-08-05 18:19:22",
+        "author": "maxxor6868"
+    },
+    {
+        "comment_id": "lgkytla",
+        "post_id": "1ekh1uv",
+        "body": "Not only that, they would get caught for all the copyrighted material they\u2019ve stolen, if the plagiarisms appearing in the wild could be traced back to the source.",
+        "time": "2024-08-05 09:23:12",
+        "author": "concisetypicaluserna"
+    },
+    {
+        "comment_id": "lgkwlc0",
+        "post_id": "1ekh1uv",
+        "body": "SAVE ME THE GOD OF ESSAY SAVE ME",
+        "time": "2024-08-05 08:57:22",
+        "author": "[Deleted]"
+    },
+    {
+        "comment_id": "lglleuk",
+        "post_id": "1ekh1uv",
+        "body": "All these derivative technologies make me wonder if LLMs have plateaued. It seems companies are now focused on consolidating and monetizing their current tech for what they can squeeze from them, instead of pushing for major breakthroughs.",
+        "time": "2024-08-05 12:45:14",
+        "author": "Smooth_Tech33"
+    },
+    {
+        "comment_id": "lgmp7kj",
+        "post_id": "1ekh1uv",
+        "body": "\"Watermark text\" , ROFL. \nOh no...",
+        "time": "2024-08-05 16:34:10",
+        "author": "BornAgainBlue"
+    },
+    {
+        "comment_id": "lgne3is",
+        "post_id": "1ekh1uv",
+        "body": "I smile but my college essays not so much",
+        "time": "2024-08-05 18:45:19",
+        "author": "Cidodino"
+    },
+    {
+        "comment_id": "lgl4h3m",
+        "post_id": "1ekh1uv",
+        "body": "If the WSJ is correct in that there\u2019s no reduction in quality, then they should do it. The essay is an incredible teaching tool that has been marred by rampant academic dishonesty due to chatGPT. It teaches students to make deliberate and logical arguments. ChatGPT has effectively made an essay generator.",
+        "time": "2024-08-05 10:25:05",
+        "author": "Lankonk"
+    },
+    {
+        "comment_id": "lgkok1t",
+        "post_id": "1ekh1uv",
+        "body": "This person asked me what is 7\u00d74 3 times this week -TI 84",
+        "time": "2024-08-05 07:26:03",
+        "author": "Artistic_Credit_"
+    },
+    {
+        "comment_id": "lgl1wsl",
+        "post_id": "1ekh1uv",
+        "body": "There\u2019s arguably a vibrant landscape of pivotal pseudo-watermarks we can delve into.",
+        "time": "2024-08-05 09:57:59",
+        "author": "mca62511"
+    },
+    {
+        "comment_id": "lglgfg8",
+        "post_id": "1ekh1uv",
+        "body": "don\u2019t forget the obssessive need to put every single fucking thing into bullet points",
+        "time": "2024-08-05 12:09:02",
+        "author": "[Deleted]"
+    },
+    {
+        "comment_id": "lglg4d8",
+        "post_id": "1ekh1uv",
+        "body": "In the realm of today\u2019s digital landscape",
+        "time": "2024-08-05 12:06:42",
+        "author": "utku1337"
+    },
+    {
+        "comment_id": "lglnfzg",
+        "post_id": "1ekh1uv",
+        "body": "It's important to note that not every output from ChatGPT will necessarily use the same formatting or vocabulary.",
+        "time": "2024-08-05 12:58:56",
+        "author": "MMAgeezer"
+    },
+    {
+        "comment_id": "lgms8bq",
+        "post_id": "1ekh1uv",
+        "body": "delve",
+        "time": "2024-08-05 16:50:17",
+        "author": "someonewhowa"
+    },
+    {
+        "comment_id": "lgm43bh",
+        "post_id": "1ekh1uv",
+        "body": "https://preview.redd.it/plpaxai4xugd1.jpeg?width=1170&format=pjpg&auto=webp&s=885ba340af9fb4d329ff4666d11386c539a94293\n\nHmmm... are we sure? For instance this is from 12 years ago, way before chatGPT (look at the date)\n\nLink to the page if you want to check: [https://www.physicsforums.com/threads/is-our-perception-of-reality-frequency-based.628927/](https://www.physicsforums.com/threads/is-our-perception-of-reality-frequency-based.628927/)\n\nEDIT: apparently the guy, LudosRex, likes to troll or is a bot. Dates in their post are likely fake. I'll leave this here as an example though, because I find it interesting that they posted 1500 AI generated replies all backdated",
+        "time": "2024-08-05 14:39:50",
+        "author": "shiftingsmith"
+    },
+    {
+        "comment_id": "lgmopn1",
+        "post_id": "1ekh1uv",
+        "body": "Delve, underscore, tapestry",
+        "time": "2024-08-05 16:31:29",
+        "author": "Original_Lab628"
+    },
+    {
+        "comment_id": "lgm12wo",
+        "post_id": "1ekh1uv",
+        "body": "Add \"no yapping, go straight to the point\" to your instructions and thank me later.",
+        "time": "2024-08-05 14:22:44",
+        "author": "RealFunBobby"
+    },
+    {
+        "comment_id": "lgmwa3a",
+        "post_id": "1ekh1uv",
+        "body": "\u201cKeen\u201d, \u201d-\u201c, \u201c I hope this finds you well\u201d",
+        "time": "2024-08-05 17:11:00",
+        "author": "TheGambit"
+    },
+    {
+        "comment_id": "lgmx9pk",
+        "post_id": "1ekh1uv",
+        "body": "If you are ready to meticulously dive into the ever-evolving realm of understanding, you shall certainly find that navigating the complexities of the tapestry of knowledge, meticulously tailored towards unveiling the secrets of the world, is not only designed to enhance your comprehension but also unlock the secrets amongst the daunting tasks, revealing the robust treasure that underpins our everchanging journey.",
+        "time": "2024-08-05 17:16:15",
+        "author": "codename_539"
+    },
+    {
+        "comment_id": "lgpxuqw",
+        "post_id": "1ekh1uv",
+        "body": "Every time I see comments like yours, it\u2019s always words and phrases that I actually use. ChatGPT learned it from humans, it\u2019s a normal human way to type/speak.",
+        "time": "2024-08-06 03:54:27",
+        "author": "[Deleted]"
+    },
+    {
+        "comment_id": "lglza9m",
+        "post_id": "1ekh1uv",
+        "body": "It is worth noting that there certainly exists a rich tapestry of words",
+        "time": "2024-08-05 14:12:25",
+        "author": "thefourthhouse"
+    },
+    {
+        "comment_id": "lgmbnhh",
+        "post_id": "1ekh1uv",
+        "body": "Unless you're neurodivergent and therefore already more likely to type like that naturally.",
+        "time": "2024-08-05 15:21:24",
+        "author": "freylaverse"
+    },
+    {
+        "comment_id": "lglqy5w",
+        "post_id": "1ekh1uv",
+        "body": "The comma usage, is one of the first things ,I gave it instructions to stop, immediately",
+        "time": "2024-08-05 13:22:06",
+        "author": "Specken_zee_Doitch"
+    },
+    {
+        "comment_id": "lglt7tu",
+        "post_id": "1ekh1uv",
+        "body": "\"Adventure\" \"journey\" \"they shared\" in short stories",
+        "time": "2024-08-05 13:36:21",
+        "author": "umotex12"
+    },
+    {
+        "comment_id": "lgo7909",
+        "post_id": "1ekh1uv",
+        "body": "\ud83e\udd16Conclusion:  Watermarks are already utilized by LLMs throughout the provided output.",
+        "time": "2024-08-05 21:19:54",
+        "author": "reampchamp"
+    },
+    {
+        "comment_id": "lgp9i2u",
+        "post_id": "1ekh1uv",
+        "body": "Regrettably",
+        "time": "2024-08-06 01:08:23",
+        "author": "MCDickMilk"
+    },
+    {
+        "comment_id": "lgpnyhh",
+        "post_id": "1ekh1uv",
+        "body": "Jesus christ, lol. Reading this thread, I can't wait to see what happens once this reddit data gets trained in and the model starts saying that you can predict AI by looking for hotwords.",
+        "time": "2024-08-06 02:42:21",
+        "author": "Pleasant-Contact-556"
+    },
+    {
+        "comment_id": "lgs12j8",
+        "post_id": "1ekh1uv",
+        "body": "\u201cMoreover\u201d",
+        "time": "2024-08-06 14:40:32",
+        "author": "Spensauras-Rex"
+    },
+    {
+        "comment_id": "lh1upoz",
+        "post_id": "1ekh1uv",
+        "body": "\u201cThe\u201d\n\nIt uses that word often. No one needs to use that word. I\u2019m not using it in this reply as it is not needed. Beware of those using this word. It can be a sure sign of artificial intelligence.",
+        "time": "2024-08-08 03:17:29",
+        "author": "Turbulent_Escape4882"
+    },
+    {
+        "comment_id": "lgmrr28",
+        "post_id": "1ekh1uv",
+        "body": "There are many studies that show watermarking doesn't significantly affect the quality of LLM output. https://arxiv.org/abs/2405.14604",
+        "time": "2024-08-05 16:47:46",
+        "author": "Tim_the_Texan"
+    },
+    {
+        "comment_id": "lgkzbnt",
+        "post_id": "1ekh1uv",
+        "body": "The proposals are to make a deterministic choice of a next token in cases where the top two predictions of the llm are identical probabilities. Currently it would just be random. Can't see how that affects quality",
+        "time": "2024-08-05 09:28:59",
+        "author": "Fridgeroo1"
+    },
+    {
+        "comment_id": "lgkwuj0",
+        "post_id": "1ekh1uv",
+        "body": "You would need some form of steganography to hide the watermark.\nTake a paragraph like:\n\n\"In ancient valleys, bustling towns developed, each offering unique experiences. Among these, urban centers thrived, showcasing vibrant culture. Nearby, serene parks provided joyful escapes, where families gathered eagerly, enjoying delightful picnics. Seasons changed, altering the landscape's dynamic beauty. Eventually, nature's gentle hand renewed these thriving communities, enabling sustained growth. Birds soared gracefully above, enriching the sky with life. Young explorers set off on exciting adventures, discovering hidden treasures within distant lands. Happiness grew, infusing daily life with warmth and meaning.\"\n\nevery second word starts with an ascending alphabetic order and arbitrarily rolls over to the beginning of the alphabet eg.\nA: ancient -> B: bustlingU: unique -> U: urbanV: vibrant -> S: sereneJ: joyful -> E: eagerlyD: delightful -> D: dynamic\n\nThe likelihood of this paragraph above having it by random is about lottery winner probs eg. 1 in 80M",
+        "time": "2024-08-05 09:00:18",
+        "author": "fazzajfox"
+    },
+    {
+        "comment_id": "lgm66i2",
+        "post_id": "1ekh1uv",
+        "body": "OpenAI has partnered with the US Government. They have cemented their lead.",
+        "time": "2024-08-05 14:51:28",
+        "author": "xrocro"
+    },
+    {
+        "comment_id": "lgm9azn",
+        "post_id": "1ekh1uv",
+        "body": "Fine, it will only apply in the eu. Sucks to suck for those doing emails or essays",
+        "time": "2024-08-05 15:08:37",
+        "author": "gunfell"
+    },
+    {
+        "comment_id": "lh5z6lz",
+        "post_id": "1ekh1uv",
+        "body": "Name and shame.",
+        "time": "2024-08-08 20:19:12",
+        "author": "[Deleted]"
+    },
+    {
+        "comment_id": "lgl7ffu",
+        "post_id": "1ekh1uv",
+        "body": "The real issue is understanding what the essay was for in the first place. Essays already have weaknesses. Richer parents can get tutors that can teach certain techniques that score points but don\u2019t really mean the kid has really got a better grasp. Some people have good memories and ironically can parrot stuff without much understanding. A better approach is teach for an AI society with a more applied approach to using AI baked in.",
+        "time": "2024-08-05 10:54:07",
+        "author": "TinyZoro"
+    },
+    {
+        "comment_id": "lgnk92d",
+        "post_id": "1ekh1uv",
+        "body": "Neuralink",
+        "time": "2024-08-05 19:18:05",
+        "author": "JalabolasFernandez"
+    },
+    {
+        "comment_id": "lgls9n5",
+        "post_id": "1ekh1uv",
+        "body": "An easy way to have it write more distinguished text that can't really be traced back to it being written by chatGPT is to give it a writing style to follow instead of just using the text it gives you.",
+        "time": "2024-08-05 13:30:24",
+        "author": "Laurenz1337"
+    },
+    {
+        "comment_id": "lgln9kb",
+        "post_id": "1ekh1uv",
+        "body": "Did you ask chatgpt their gender before gendering them.",
+        "time": "2024-08-05 12:57:47",
+        "author": "ahmetcan88"
+    },
+    {
+        "comment_id": "lglv7zc",
+        "post_id": "1ekh1uv",
+        "body": "Have you checked out https://arxiv.org/pdf/2301.10226 ? The answer is more nuanced than that.\n\n\nEssentially in cases of very low entropy (\"what is 10+10\u201d) you would be able to say that you don't know, but on cases of high entropy (\"write an essay about the civil war\") you would get a high confidence answer.\n\n\nThe approach is also reasonably robust to changing individual words and it would take significant rewriting to bypass it.\n\n\n(there's also a nice computerphile video about it https://m.youtube.com/watch?v=XZJc1p6RE78 but it skims over some of the cooler details)",
+        "time": "2024-08-05 13:48:34",
+        "author": "nwydo"
+    },
+    {
+        "comment_id": "lgl7r8t",
+        "post_id": "1ekh1uv",
+        "body": "Proprietary AI detector available only to universities and such seems like a decent idea",
+        "time": "2024-08-05 10:57:08",
+        "author": "stellar_opossum"
+    },
+    {
+        "comment_id": "lgkugl9",
+        "post_id": "1ekh1uv",
+        "body": "How is it the right thing to do? AI generated content is destroying the internet, it's way easier to push propaganda",
+        "time": "2024-08-05 08:33:10",
+        "author": "baronas15"
+    },
+    {
+        "comment_id": "lgn3yx1",
+        "post_id": "1ekh1uv",
+        "body": "That is one of the concerns mentioned by OpenAI in [this post](https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online/):\n\n>Another important risk we are weighing is that our research suggests the text watermarking method has the potential to disproportionately impact some groups. For example, it could stigmatize use of AI as a useful writing tool for non-native English speakers.",
+        "time": "2024-08-05 17:51:50",
+        "author": "Wiskkey"
+    },
+    {
+        "comment_id": "lgl2q10",
+        "post_id": "1ekh1uv",
+        "body": "It's not that kind of watermark. What they mean is that ChatGPT would produce text using specific patterns, that it would make it possible to identify it as the author.\n\nThink about how experts determine the authorship of an old painting or an old text. They look for similarities in other works by the same artist/author to make their assessment. In this case, ChatGPT would insert those clues on purpose.\n\nEdit: this is just an analogy and not exactly how it would work. The article gives more technical details.",
+        "time": "2024-08-05 10:06:42",
+        "author": "REOreddit"
+    },
+    {
+        "comment_id": "lgm8wbi",
+        "post_id": "1ekh1uv",
+        "body": "The cat is out of the bag. There are so many models that are capable of writing a decent essay. Watermarking ChatGPT would only drive people away from OpenAI/ChatGPT and to other vendors.",
+        "time": "2024-08-05 15:06:22",
+        "author": "MegaThot2023"
+    },
+    {
+        "comment_id": "lglsaoi",
+        "post_id": "1ekh1uv",
+        "body": "Oh four touchdowns and the extra points that\u2019s easy!",
+        "time": "2024-08-05 13:30:35",
+        "author": "VansAndOtherMusings"
+    },
+    {
+        "comment_id": "lgmi3un",
+        "post_id": "1ekh1uv",
+        "body": "Delve. I see emails at work with the word delve all the time now. Red herring imo.",
+        "time": "2024-08-05 15:56:04",
+        "author": "Clear-Attempt-6274"
+    },
+    {
+        "comment_id": "lgo0nxv",
+        "post_id": "1ekh1uv",
+        "body": "Delve, meticulously, pivotal, etc",
+        "time": "2024-08-05 20:44:51",
+        "author": "FutsNucking"
+    },
+    {
+        "comment_id": "lgm2wj1",
+        "post_id": "1ekh1uv",
+        "body": "It sucks because right before ChatGPT came out, I got into the habit of writing like that for certain types of memos (no one in a work environment wants to read your wall of text, just give them the bullets). Now it looks suspicious",
+        "time": "2024-08-05 14:33:07",
+        "author": "AidanAmerica"
+    },
+    {
+        "comment_id": "lgmijb6",
+        "post_id": "1ekh1uv",
+        "body": "[deleted]",
+        "time": "2024-08-05 15:58:22",
+        "author": "[Deleted]"
+    },
+    {
+        "comment_id": "lgmsdut",
+        "post_id": "1ekh1uv",
+        "body": "Certainly! This is especially true if you delve into the rich tapestry of custom instructions.",
+        "time": "2024-08-05 16:51:07",
+        "author": "someonewhowa"
+    },
+    {
+        "comment_id": "lgnblgu",
+        "post_id": "1ekh1uv",
+        "body": "The dates on this \"LudusRex\" user's posts are all fake. The account only had 5 messages in 2019, [as seen archived here.](https://web.archive.org/web/20190224134133/https://www.physicsforums.com/members/ludusrex.266305/) Today it has [over 1400 ChatGPT-generated posts](https://www.physicsforums.com/members/ludusrex.266305/) all dated 2015 and earlier, seemingly chosen to fit in with the dates of various real old threads on the forum. That very thread was also archived [as recently as 2023](https://web.archive.org/web/20230430185331/https://www.physicsforums.com/threads/is-our-perception-of-reality-frequency-based.628927/) with no trace of the post.",
+        "time": "2024-08-05 18:32:06",
+        "author": "FuckSides"
+    },
+    {
+        "comment_id": "lgmxxkd",
+        "post_id": "1ekh1uv",
+        "body": "this is uncanny, how did you find it?",
+        "time": "2024-08-05 17:19:51",
+        "author": "SeeTreee"
+    },
+    {
+        "comment_id": "lgn16q7",
+        "post_id": "1ekh1uv",
+        "body": "I\u2019ve tried everything to get it to stop using that sentence format \u201cThis is not only X but also Y\u201d - and nothing works.",
+        "time": "2024-08-05 17:37:04",
+        "author": "Clevertatum"
+    },
+    {
+        "comment_id": "lgl16an",
+        "post_id": "1ekh1uv",
+        "body": "Identical probabilities has to mean in the same defined range of probability. The narrower it is chosen, the more text you need to have a useful marker, the wider, the more you are impacting quality after all.",
+        "time": "2024-08-05 09:49:59",
+        "author": "Geberhardt"
+    },
+    {
+        "comment_id": "lglvd2b",
+        "post_id": "1ekh1uv",
+        "body": "It's actually significantly cooler than that https://arxiv.org/pdf/2301.10226 !",
+        "time": "2024-08-05 13:49:23",
+        "author": "nwydo"
+    },
+    {
+        "comment_id": "lgl09h2",
+        "post_id": "1ekh1uv",
+        "body": "As mentioned by another commenter in this thread:\n> The proposals are to make a deterministic choice of a next token in cases where the top two predictions of the llm are identical probabilities. Currently it would just be random. Can't see how that affects quality",
+        "time": "2024-08-05 09:39:51",
+        "author": "muffinmaster"
+    },
+    {
+        "comment_id": "lgky4rd",
+        "post_id": "1ekh1uv",
+        "body": "Yeah but now you're deviating far from sampling the model for quality responses.",
+        "time": "2024-08-05 09:15:17",
+        "author": "prozapari"
+    },
+    {
+        "comment_id": "lgmibdt",
+        "post_id": "1ekh1uv",
+        "body": "What part of the government?",
+        "time": "2024-08-05 15:57:11",
+        "author": "Clear-Attempt-6274"
+    },
+    {
+        "comment_id": "lgtybke",
+        "post_id": "1ekh1uv",
+        "body": "The US government that just said they support open source models?",
+        "time": "2024-08-06 20:38:29",
+        "author": "hellofriend19"
+    },
+    {
+        "comment_id": "lgnby3r",
+        "post_id": "1ekh1uv",
+        "body": "I mean they can still copy and paste into another ai chat to reproduce the content without a watermark",
+        "time": "2024-08-05 18:33:55",
+        "author": "Diligent-Version8283"
+    },
+    {
+        "comment_id": "lgl93az",
+        "post_id": "1ekh1uv",
+        "body": "I agree that some kids will do better than others at essays, and that essays aren't all of great value, but I think kids still need to learn and practice organizing and presenting their own thoughts on a topic, as well as the discipline, patience, and concentration associated with writing essays. We can ride bicycles or cars when we travel now, but it's still good to jog or do things for our physical fitness just for quality of life and multiple other reasons.",
+        "time": "2024-08-05 11:09:14",
+        "author": "EGarrett"
+    },
+    {
+        "comment_id": "lglygk6",
+        "post_id": "1ekh1uv",
+        "body": "Can\u2019t see how this works.  Anyone could just use another tool to rewrite the text after the fact.",
+        "time": "2024-08-05 14:07:36",
+        "author": "Historical_Ad_481"
+    },
+    {
+        "comment_id": "lglro3n",
+        "post_id": "1ekh1uv",
+        "body": "You can\u2019t have a working AI detector unless the watermarking is build into the AI that is producing text. And a detector wouldn\u2019t be proprietary for long",
+        "time": "2024-08-05 13:26:39",
+        "author": "2053_Traveler"
+    },
+    {
+        "comment_id": "lgld80u",
+        "post_id": "1ekh1uv",
+        "body": "How would watermarking help?",
+        "time": "2024-08-05 11:43:59",
+        "author": "CodeMonkeeh"
+    },
+    {
+        "comment_id": "lgkwqhm",
+        "post_id": "1ekh1uv",
+        "body": "[deleted]",
+        "time": "2024-08-05 08:59:02",
+        "author": "[Deleted]"
+    },
+    {
+        "comment_id": "lgljnvg",
+        "post_id": "1ekh1uv",
+        "body": "That\u2019s the new world we live in. It\u2019s challenging us to become smarter. Or perhaps it\u2019s evolution punishing us for not being smart enough already. I think it\u2019s both.",
+        "time": "2024-08-05 12:32:56",
+        "author": "MindDiveRetriever"
+    },
+    {
+        "comment_id": "lgm0njo",
+        "post_id": "1ekh1uv",
+        "body": "I hate that this how I multiply 7\u2019s, but everything else is normal",
+        "time": "2024-08-05 14:20:19",
+        "author": "ExoticAdventurer"
+    },
+    {
+        "comment_id": "lgo9tj7",
+        "post_id": "1ekh1uv",
+        "body": "We know you didn\u2019t use ChatGPT to make your reply, because the AI knows what a red herring is.",
+        "time": "2024-08-05 21:33:50",
+        "author": "Tipop"
+    },
+    {
+        "comment_id": "lgnoyqi",
+        "post_id": "1ekh1uv",
+        "body": "That's not what red herring means.",
+        "time": "2024-08-05 19:43:12",
+        "author": "unitmark1"
+    },
+    {
+        "comment_id": "lgn80gb",
+        "post_id": "1ekh1uv",
+        "body": "It's a shame. I liked to use the word \"Delve\".",
+        "time": "2024-08-05 18:13:09",
+        "author": "Irimee"
+    },
+    {
+        "comment_id": "lgo9bhr",
+        "post_id": "1ekh1uv",
+        "body": "I told mine to not use the word \u201cdelve,\u201d so now it says \u201cdive\u201d instead \ud83e\udd23",
+        "time": "2024-08-05 21:31:06",
+        "author": "Mysterious_Ad8998"
+    },
+    {
+        "comment_id": "lgpnn13",
+        "post_id": "1ekh1uv",
+        "body": "well, being meticulous about your delving is pivotal to getting comprehensive results",
+        "time": "2024-08-06 02:40:11",
+        "author": "Pleasant-Contact-556"
+    },
+    {
+        "comment_id": "lgm5mgh",
+        "post_id": "1ekh1uv",
+        "body": "If it conveys the information you need it to, that is all that matters. It shouldn't matter if it was written by AI or not. Let it look \"suspicious\"",
+        "time": "2024-08-05 14:48:22",
+        "author": "xrocro"
+    },
+    {
+        "comment_id": "lgmk69b",
+        "post_id": "1ekh1uv",
+        "body": "This why I like Claude better.",
+        "time": "2024-08-05 16:07:08",
+        "author": "141_1337"
+    },
+    {
+        "comment_id": "lgr783p",
+        "post_id": "1ekh1uv",
+        "body": "Delve",
+        "time": "2024-08-06 11:28:42",
+        "author": "ainz-sama619"
+    },
+    {
+        "comment_id": "lgp71tx",
+        "post_id": "1ekh1uv",
+        "body": "Good find",
+        "time": "2024-08-06 00:52:42",
+        "author": "Hopai79"
+    },
+    {
+        "comment_id": "lgp832u",
+        "post_id": "1ekh1uv",
+        "body": "Ah I suspected it was *too much* GPT-like lol. Thanks for looking into it, I'll edit the caption",
+        "time": "2024-08-06 00:59:15",
+        "author": "shiftingsmith"
+    },
+    {
+        "comment_id": "lgozjnm",
+        "post_id": "1ekh1uv",
+        "body": "Randomly, I was just searching the web on the topic of physics and perception of reality and bumped into it.",
+        "time": "2024-08-06 00:05:44",
+        "author": "shiftingsmith"
+    },
+    {
+        "comment_id": "lgl3gno",
+        "post_id": "1ekh1uv",
+        "body": "Yes you can't watermark a tweet. The studies are saying 1000 words at least.  \nI think gpt uses bfloat16 precision. So that would give you the narrowest you can go.  \nI don't know man I just really feel like there can be equally good choices in most circumstances. We certainly recognise this with people. Two experts in a field can typically be easily differentiated with just TFIDF, but could write equally good overviews of a topic. I just don't think \"quality\" comes down to the exact correct words being used and has much more to do with semantics. Is the LLM trying to convey the correct thing or not? Within that there's lots of room for variation on the words used while still being correct.",
+        "time": "2024-08-05 10:14:30",
+        "author": "Fridgeroo1"
+    },
+    {
+        "comment_id": "lgp7jmw",
+        "post_id": "1ekh1uv",
+        "body": "Would be easy to benchmark this",
+        "time": "2024-08-06 00:55:49",
+        "author": "Deto"
+    },
+    {
+        "comment_id": "lgqa5dz",
+        "post_id": "1ekh1uv",
+        "body": "Wow that looks incredible- but I don\u2019t get how the watermark patterns will it degrade the model tho given that it limits the randomness ? Anyway cool stuff",
+        "time": "2024-08-06 05:42:37",
+        "author": "greenappletree"
+    },
+    {
+        "comment_id": "lgl2iet",
+        "post_id": "1ekh1uv",
+        "body": "That would work, actually.  You would have to interleave them so the other tokens could maintain coherence.  There wouldn't be any cases where the top 2 next token predictions would be identical though - one would always be higher and that would be elected by inference.  What the commenter probably meant is when they are both high and close together take the slightly lower probability token.  By knowing which inferior tokens are chosen a pattern would be identified.  What I don't get is the each token doesn't just depend on the preceding tokens it depends on the sequence of preprompts which would be invisible to the plagiarism detector",
+        "time": "2024-08-05 10:04:27",
+        "author": "fazzajfox"
+    },
+    {
+        "comment_id": "lgl2zm2",
+        "post_id": "1ekh1uv",
+        "body": "You're damaging the output quality, correct.  This is a very crude way of doing it and would never actually be used - there's probably a way of embedding a pattern while maximising language coherence and result quality.  Real steganographic watermarking in imaging is super clever and dovetails with compression algorithm.  To make the point: watermarking generative images is trivial",
+        "time": "2024-08-05 10:09:31",
+        "author": "fazzajfox"
+    },
+    {
+        "comment_id": "lgnbtbz",
+        "post_id": "1ekh1uv",
+        "body": "The US part",
+        "time": "2024-08-05 18:33:14",
+        "author": "Diligent-Version8283"
+    },
+    {
+        "comment_id": "lgtyktb",
+        "post_id": "1ekh1uv",
+        "body": "And? OpenSource models and a closed source model that the US Government directly controls are two very different things. We are in a new era. :D",
+        "time": "2024-08-06 20:39:50",
+        "author": "xrocro"
+    },
+    {
+        "comment_id": "lgr7f8e",
+        "post_id": "1ekh1uv",
+        "body": "I still think there\u2019s better ways to do that than ban calculators or word processors or AI. These are the tools we use as modern humans.\n\nFor example part of the essay might be explain the process of iteration from your initial prompt to the final version. What follow up refinement prompts did you use. What validation did you do on the sources provided. What techniques did you use to memorise key parts like timeline of events and key themes. What parts of the essay were weakest from the AI and removed. \u2026\n\nIn other words there\u2019s ways to make students think and absorb the subject beyond treating unassisted essays as some kind of gold educational standard.",
+        "time": "2024-08-06 11:30:19",
+        "author": "TinyZoro"
+    },
+    {
+        "comment_id": "lgm7t6r",
+        "post_id": "1ekh1uv",
+        "body": "Hidden watermarks can work when the adversary doesn't have access to the detector, the watermarking algorithm, or a \"clean\" copy to compare to. It's difficult to find something if you don't know how it's made, what it looks like, or any way to confirm if you're even looking at it. They're useful for things like figuring out who leaked pre-release movie screeners.\n\nIn the case of AI generated text, the general public would have access to the watermark detector. It would be pretty trivial to put together a machine learning model that figures out how to reliably remove the watermark. The model would train by modifying watermarked text and putting it through the detector, learning how to get a negative result with the minimum number of modifications.",
+        "time": "2024-08-05 15:00:18",
+        "author": "MegaThot2023"
+    },
+    {
+        "comment_id": "lgnbp6m",
+        "post_id": "1ekh1uv",
+        "body": "If you read the paper they discuss a number of different ways of attacking their own watermarking method, and how successful/unsuccessful these attacks are.",
+        "time": "2024-08-05 18:32:38",
+        "author": "WithoutReason1729"
+    },
+    {
+        "comment_id": "lgqr2a7",
+        "post_id": "1ekh1uv",
+        "body": "yes there should be a technical possibility first. It also does not technically require watermarking, could also be some hashed history on OpenAI side if we are talking about proprietary tools. I can see it somewhat working and generally don't see an issue for such limited use. But of course there are pros and cons and tons of nuance. For example I don't think a lot of people would argue that faking academic papers is harmful but one could also make an argument that it rather means the whole system must be revamped if it's this vulnerable.\n\nEdit:\n\n>And a detector wouldn\u2019t be proprietary for long\n\nIt totally can be, even with watermarking implementation (given it's possible to have one)\n\nEdit 2:  \nLinked article actually mentions existing watermarking in Gemini",
+        "time": "2024-08-06 08:45:57",
+        "author": "stellar_opossum"
+    },
+    {
+        "comment_id": "lglsyj3",
+        "post_id": "1ekh1uv",
+        "body": "Easier to track, you could also have chrome extension that would make it clear to you that it's generated crap",
+        "time": "2024-08-05 13:34:46",
+        "author": "baronas15"
+    },
+    {
+        "comment_id": "lgkyu46",
+        "post_id": "1ekh1uv",
+        "body": "It's the second paragraph of the article.",
+        "time": "2024-08-05 09:23:22",
+        "author": "pohui"
+    },
+    {
+        "comment_id": "lgpuybz",
+        "post_id": "1ekh1uv",
+        "body": "If it\u2019s correct information, why not?",
+        "time": "2024-08-06 03:32:07",
+        "author": "beland-photomedia"
+    },
+    {
+        "comment_id": "lgp5p17",
+        "post_id": "1ekh1uv",
+        "body": "God I love pragmatism\u00a0",
+        "time": "2024-08-06 00:44:14",
+        "author": "confusedgluon"
+    },
+    {
+        "comment_id": "lglj820",
+        "post_id": "1ekh1uv",
+        "body": "I'm uncomfortable with a new form of language being developed called LLM speak because it is stigmatizing people who speak in a certain way.",
+        "time": "2024-08-05 12:29:47",
+        "author": "willabusta"
+    },
+    {
+        "comment_id": "lgl9e7n",
+        "post_id": "1ekh1uv",
+        "body": "True but no matter how you do it you're going to deviate from optimal outout quality",
+        "time": "2024-08-05 11:11:55",
+        "author": "prozapari"
+    },
+    {
+        "comment_id": "lgnca0d",
+        "post_id": "1ekh1uv",
+        "body": "There's a massive difference between the department of education and the department of defense.",
+        "time": "2024-08-05 18:35:40",
+        "author": "Clear-Attempt-6274"
+    },
+    {
+        "comment_id": "lh3v6ze",
+        "post_id": "1ekh1uv",
+        "body": "What about the A part?",
+        "time": "2024-08-08 13:49:06",
+        "author": "Sucrose-Daddy"
+    },
+    {
+        "comment_id": "lgr8bif",
+        "post_id": "1ekh1uv",
+        "body": "That would definitely require more thought and teach kids to use AI, but the weird thing about the situation we're in is that AI can actually do that for the kid too. Have it write an initial essay, then tell it to convert it to the style the teacher asked and comment on the changes it wants to make itself. We can end up in a sort-of Xzibit-style nightmare where it can be AI writing whatever you try to get the kid to write unless you just watch them do it in class.\n\nhttps://preview.redd.it/cezbbc8v51hd1.png?width=500&format=png&auto=webp&s=77a2fe35ed2cc8d8ec3a235960ddb556363936f3",
+        "time": "2024-08-06 11:37:42",
+        "author": "EGarrett"
+    },
+    {
+        "comment_id": "lgm8ndh",
+        "post_id": "1ekh1uv",
+        "body": "You can't watermark a tweet. You'd have to actually analyze thousands of words from the same user. Even then they could just switch to an AI without watermarking.",
+        "time": "2024-08-05 15:04:58",
+        "author": "CodeMonkeeh"
+    },
+    {
+        "comment_id": "lgubvic",
+        "post_id": "1ekh1uv",
+        "body": "Why does the generated part matter? There is plenty of crap generated by humans. I am pretty sure GPT is higher quality than the average crap produced by Trump and MAGAts.",
+        "time": "2024-08-06 21:50:04",
+        "author": "Due_Neck_4362"
+    },
+    {
+        "comment_id": "lgrpx6l",
+        "post_id": "1ekh1uv",
+        "body": "And when were all talking to AI, more than, a human. We will all start to sound\u2026",
+        "time": "2024-08-06 13:37:41",
+        "author": "ThisWillPass"
+    },
+    {
+        "comment_id": "lgnk0kx",
+        "post_id": "1ekh1uv",
+        "body": "NSA",
+        "time": "2024-08-05 19:16:48",
+        "author": "JalabolasFernandez"
+    },
+    {
+        "comment_id": "lgncfje",
+        "post_id": "1ekh1uv",
+        "body": "Not really",
+        "time": "2024-08-05 18:36:29",
+        "author": "Diligent-Version8283"
+    }
+]

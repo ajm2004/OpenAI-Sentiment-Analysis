@@ -1,0 +1,413 @@
+comment_id,post_id,body,time,author
+m1w4cyu,1hded7u,"Google’s AI services feel so scattered with lots of names —AI Studio, Note LLM, experimental tools, the regular Gemini interface. It’s all over the place and super confusing. Why can’t they just put everything in one place?",2024-12-13 17:55:26,Visionary-Vibes
+m1wi1bu,1hded7u,"1206 is amazing, it made me switch most of my complex tasks to Google.",2024-12-13 19:07:46,dondiegorivera
+m1vgu2s,1hded7u,"I'm a heavy aistudio user, and even coding with Pro 1.5 is a pain. I'll give a new experimental model a try. But for now Cursor with Claude has been the best for me. Even better than o1 (o1 in Cursor is very messy)",2024-12-13 15:50:45,grimorg80
+m1w3xeu,1hded7u,"Agree.  But using Gemini 2.0 Flash instead.    Love it.
+
+Plus it is so damn fast.  I am very inpatient by nature.",2024-12-13 17:53:10,bartturner
+m1wbk70,1hded7u,backquote backquote backquote,2024-12-13 18:33:31,hatepoorpeople
+m1x336i,1hded7u,"You haven't even used Pro but you're telling people not to pay for it. Be serious. As someone who uses both, 1206 is not a replacement for Pro, and there are more uses for a reasoning model besides coding.",2024-12-13 21:01:16,External-Confusion72
+m1x8f74,1hded7u,"Using AIstudio means you're giving all the data you input there to Google, so they can train on it. If you're okay with that, then it's a great option, but I think that's a caveat worth mentioning...",2024-12-13 21:30:48,OfficialHashPanda
+m1yc0zc,1hded7u,"Remember this folks. When product is free, you are the product. Google is waiting to kill competition so they can start showing you ads.",2024-12-14 01:33:53,Unique_Carpet1901
+m1xes2i,1hded7u,Google also has their own advanced voice with camera btw,2024-12-13 22:05:53,returnofblank
+m1w10iv,1hded7u,Nice try Google,2024-12-13 17:38:01,JamIsBetterThanJelly
+m1vyoj5,1hded7u,"I just compared it with o1 and Claude sonnet and gemini is definitely the worst. It's not bad as it's free but it doesn't compare, at least not when used for programming",2024-12-13 17:25:42,WhereIsWebb
+m1vfqff,1hded7u,"It would be awesome if more people used gemini, but the comparison is pretty weird. Gemini is nowhere near close to o1, and o1 pro is leagues ahead of it. Maybe if you want to say that if someone hits the limit, they should use gemini instead of o1-mini, that would be fair, but otherwise, the models are not very comparable, especially if you use o1-pro for work and it actually pays to spend 200 dollars per month.",2024-12-13 15:44:48,Ormusn2o
+m1x7me8,1hded7u,"I use Claude a lot because of its projects, where I can upload a significant amount of code for context and most of the time works. is there a similar tool in Gemini or o1 where I can do that?",2024-12-13 21:26:20,mirandapardo
+m1y03p6,1hded7u,"I found an interesting test that o1 pro mode even fails regularly at. 
+
+Get it to describe some kind of process, and write Mermaid code to diagram it. Then take the code and try it in https://mermaid.live
+
+O1 pro keeps making syntax mistakes.",2024-12-14 00:16:26,daynomate
+m1zak55,1hded7u,"I feel like there are so many Gemini products. Is Gemini Advanced sufficient? I’m considering using AI for additional practice. Computer Science student, Junior year. Don’t want to use it to generate code. But I feel like my professors don’t give enough practice assignments. And the little bit of GPT 4o I used was not good.
+
+I’m blind, by the way. Mostly want to use it to upload PDFs of my textbook for practice assignments. And to transcribe the PDF to a more accessible format like audio or plain text.",2024-12-14 05:59:30,Drunvalo
+m1ztfvi,1hded7u,[deleted],2024-12-14 09:27:38,[Deleted]
+m2092rr,1hded7u,"I agree. 
+Used gpt plus for months as code assistant.
+Created a custom GPT to suit my project/poc building needs..
+Used claude recently when 4o failed..
+Using aistudio by google now for free most of the times.",2024-12-14 12:24:21,fab_space
+m20lpx0,1hded7u,yo the real time video feature is cool asf,2024-12-14 14:06:18,MoonCrawlerVG
+m20zuv2,1hded7u,What does this mean for non-coders? Please can you give clear instructions? Do we download install and run? or is this online only? What are the limits of online usage? Is there a subscription?,2024-12-14 15:38:41,Ecstatic_Letter891
+m1vf1pt,1hded7u,"lol. o1 is way better than g2f g2f is very neat, super fast and full of great features, but it's also pretty dumb",2024-12-13 15:41:06,wi_2
+m1ynz6e,1hded7u,"Got stuck on a math problem, asked o1 for help until my weekly quota ran out. Switched to gemini-exp-1206, and it one-shot the solution. Happened twice this week.",2024-12-14 02:56:37,wingedrasengan927
+m1vmxi2,1hded7u,Gemini is cool but no data privacy and no opt out,2024-12-13 16:23:21,myreddit10100
+m1wmr3t,1hded7u,"Eh, I avoid Google products because they release 20 products one year and the next year they kill 18 of them. And tbh coding with these is goofy. Use cursor or windsurf with claude sonnet if you’re serious. I have pro and I just use that for research and project planning questions.
+
+And btw benchmarks like llmsys are so 2023.",2024-12-13 19:32:33,ThenExtension9196
+m1vzepd,1hded7u,Is Openai slowly killing their AI dominance ,2024-12-13 17:29:31,Nathidev
+m1wkpv0,1hded7u,Preview still exists on the API.,2024-12-13 19:21:48,rutan668
+m1wugrq,1hded7u,o1-preview wasn’t for coding. Should’ve been using o1-mini,2024-12-13 20:14:08,jeromymanuel
+m1wvbtj,1hded7u,Im finding the same thing snd am reconsidering my subscription. Also Gemini with deep research capabilities is pretty insane ,2024-12-13 20:18:53,BehindTheRedCurtain
+m1xm86m,1hded7u,Have u considered reading like 1 blog post to learn how to run a local LLM,2024-12-13 22:49:10,comperr
+m1xqc31,1hded7u,I would only buy it for sora,2024-12-13 23:14:28,Suitable-Ad-8598
+m1yaybx,1hded7u,"I don't even have to log in, wtf..",2024-12-14 01:26:41,Unlikely-Complex3737
+m1ypdkr,1hded7u,wait you have advanced voice model with camera?!,2024-12-14 03:06:39,GuardianOfReason
+m1yxncx,1hded7u,Why and reason. If you can please send help me link by Google AI,2024-12-14 04:08:32,No-Technician5539
+m1zo6bu,1hded7u,"For Android and Kotlin development, which one is better?",2024-12-14 08:25:51,Tiffathug
+m2119jr,1hded7u,i just have 2.0 flash experimental... is that exp-1206?,2024-12-14 15:47:05,gibbyxvalk
+m224qii,1hded7u,"Why don't we combine all these models together? Ask them all the same thing, and then any differences between each of them is then fed back to each of them intelligently so the response can be more accurate.",2024-12-14 19:31:28,DutytoDevelop
+m22v3rj,1hded7u,OpenAI are losing the battle,2024-12-14 22:06:59,waltercrypto
+m23z1mw,1hded7u,Google is very censorship heavy and I don't want to support products Mike that. GPT is of course too but Google takes it to another level.,2024-12-15 02:25:56,JustADudeLivingLife
+m2gotxy,1hded7u,"Oh ffs how many fragmented tools from google that i need to know! Chatgpt is best in that regard, it keeps it simple!",2024-12-17 07:36:24,desiliberal
+m2h5hdr,1hded7u,How does it compare to sonnet?,2024-12-17 10:43:37,fariazz
+m2i5z8v,1hded7u,Ok,2024-12-17 15:17:54,Ancient_Housing_4924
+m2iiq7k,1hded7u,"I'm not sure how it compares to the $200 ChatGPT Pro model, but I'm really happy with the code I've been getting out of Gemini Flash 2.0 inside AI Studio. It seems on part with Claude for most things I tried,  it without the limits. I don't know if my actual Android phone Gemini app is outdated, but I get better results in AI Studio. I thought the Gemini app was already using 2.0 Flash? But with that being said, AI Studio is crazy good for what you get for free. The token limit alone is insane, like 1million per chat. I was going back and forth in chat and telling it to keep iterating and updating features and it was like 20k tokens. I never really broke a sweat, super fast and completed code blocks. I might actually pay for Gemini Advanced if it means getting more functionality out of AI Studio. I still need to try the experimental model more though it seems slightly slower than Flash. I think people are sleeping on it, I honestly think Google caught up to ChatGPT and Claude with this release.",2024-12-17 16:27:41,johnne86
+m4lun9m,1hded7u,I am trying to understand the fundamental difference/s between the two platforms [https://aistudio.google.com/](https://aistudio.google.com/) and https://gemini.google.com/app. What is the general use case that I would use/choose one over the other?,2024-12-30 23:39:21,PopSynic
+m6coueu,1hded7u,kk,2025-01-10 04:29:31,ExistingGuarantee103
+m1vqlm8,1hded7u,"Why do I keep seeing this false claim? o1 eclipses all Google models by a mile. Every week I see a new post about how gemini surpassed o1. It's lies. I try the Google model mentioned, and it totally flops every time.
+
+I'm done trying them. They are all hype and exaggeration.",2024-12-13 16:42:42,snaysler
+m1vq1gy,1hded7u,"Gemini-1206 doesn’t fix python like 01-mini.
+
+several use cases I was talking between them and it was upskilling Gemini-1206
+
+Gemini-1206 is giving ai content dectector passed human content written amazingly beyond sonnet 
+
+It’s processing and watching videos alongside reasoning in PDFs.
+
+Stick to $20 01 membership and Gemini. I still have Claude - I typically tackle and brainstorm between the 3.",2024-12-13 16:39:44,Opposite_Language_19
+m1vi3cb,1hded7u,lol it’s not the same.,2024-12-13 15:57:29,Tenet_mma
+m1vj14b,1hded7u,O1 is a fuckin beast. I tried giving same tasks to Gemini and it couldn’t even finish them,2024-12-13 16:02:33,sneakysaburtalo
+m1xq9ff,1hded7u,o1 pro is miles ahead of gemini-exp-1206,2024-12-13 23:14:00,AlternativeApart6340
+m1ybuo7,1hded7u,Welcome Sundar to the sub.,2024-12-14 01:32:42,Unique_Carpet1901
+m1yjgyk,1hded7u,"If you don't see a use for ChatGPT Pro then, like me, it's not meant for you. I don't understand the whole ""Pro is a scam"" nonsense.",2024-12-14 02:24:44,grievermax
+m1z03i8,1hded7u,"Like the $200 pro? Oh I'm safe from that, can't afford it lol...I do use the $20 PLUS",2024-12-14 04:28:13,Strategos_Kanadikos
+m1z1sin,1hded7u,Hey I use the free version of both and Gemini doesn't know what the fuck I'm talking about half the time.,2024-12-14 04:42:06,thewholedamnshow1
+m1xmaxw,1hded7u,Why do you care what i pay for? ,2024-12-13 22:49:37,jaxupaxu
+m1vrnjq,1hded7u,Is this Google advertising?,2024-12-13 16:48:17,Cagnazzo82
+m1vslan,1hded7u,Why? Gemini is utter trash. Better use llama 3.3 on my machine than this crap that probably steal all my data,2024-12-13 16:53:15,slumdogbi
+m1ydts9,1hded7u,OpenAI better for dummies who want to be spoon fed a subpar expensive one size fits all tool,2024-12-14 01:45:52,Roquentin
+m1z7o8w,1hded7u,"I don't think so. Sure you can settle for and do great work with the free AI instead of the paid one, but you can't claim that Gemini is better than o1, without empirical evidence. Come on now",2024-12-14 05:32:36,CreeperThePro
+m1vbhrv,1hded7u,Advertising on another AIs sub.  This is classy.,2024-12-13 15:21:32,EliteFactor
+m1wccfw,1hded7u,[removed],2024-12-13 18:37:41,[Deleted]
+m1wnpj2,1hded7u,"its great
+
+i regret chatgpt pro i wish i could get a refund but im sure they gonna say cuz i used the credits i cant
+
+its not even full sora
+
+its sora turbo
+
+sighs lol",2024-12-13 19:37:41,Spirited_Example_341
+m1x4mye,1hded7u,This is golden advise ☺️☺️,2024-12-13 21:09:51,AmazingHealth9532
+m1y50wo,1hded7u,"Honestly, so far.nothing beats claude at coding.",2024-12-14 00:47:49,ReasonablePossum_
+m1yjdxy,1hded7u,"Using Gemini in studio hits the limit very soon , how do I change it to pay mode ? Anyone helps ?",2024-12-14 02:24:08,chineseMWB
+m1w2qjw,1hded7u,"There’s a funny quirk where people say “please” when giving advice
+
+Like
+
+Why are you desperate to me to save money lol get a hobby",2024-12-13 17:47:00,realityexperiencer
+m1xhbe0,1hded7u,[deleted],2024-12-13 22:20:26,[Deleted]
+m1x11uh,1hded7u,"Gemini, Gemma, Project Astra, Project Mariner, google jarvis, Vertex AI..",2024-12-13 20:50:11,TheNewBing
+m1wtgd1,1hded7u,"AI Studio is analogous to OpenAI Playground and obviously experimental tools are public research projects Google performs. Obviously, you wouldn't put experimental tools into stuff you're telling people just living their lives to use. When they do put AI in stuff it usually has some sort of ""Gemini"" branding.
+
+Meanwhile, Sora is also branded independently the same way that Google's video AI has the YouTube branding.
+
+Google does have issues with consistency with their AI tools but in my experience it's more along the lines of things like Gemini chat just randomly deciding it won't do something innocuous because it thinks it's against TOS.",2024-12-13 20:08:35,ImpossibleEdge4961
+m1zdgxf,1hded7u,"tldr; Deepmind appears to have many many elite research teams the size and of similar talent levels as OpenAI, you can see this through their paper output which dwarfs every competitor combined and by the fact that xAI only hired 12 people (most from deepmind) and Elon is bragging about having one of the best teams in the world. From what I can tell these are just your average Deepmind researchers (hint: they are all insanely talented).
+
+Other teams within google are probably productionizing their research (why would you have the person writing the transformer paper that OpenAI is based on leading the productionization) and they are probably trying to figure out which products will stick",2024-12-14 06:28:38,BrilliantOwl3101
+m1wswln,1hded7u,Bureaucracy and disconnected orgs,2024-12-13 20:05:36,seeyam14
+m1ybbv8,1hded7u,Just wait until they start renaming everything... Announcement that Gemini is for workplace only and bring back Bard branding for consumers.... Then rename everything again.,2024-12-14 01:29:10,CattleDismal4200
+m1xi8cg,1hded7u,"There’s a Gemini app that behaves pretty much like the ChatGPT app. I’m not sure if it has all the features of the web AI studio (I think only the AI studio can do the whole live screen recording AI thing shown yesterday).
+
+But yeah I’m confused too. I’m wondering why would people pay for a subscription (I guess that’s Gemini Advanced?) when you can get this whole multimodal AI with essentially no limits for free? I’m genuinely OOTL but do you get more features if you pay?",2024-12-13 22:25:48,SuspiciousPrune4
+m1yzid5,1hded7u,Hahaha. Microsoft did and it's confusing the crap out of everyone.,2024-12-14 04:23:28,Imposterbyknight
+m21m2xk,1hded7u,Google is made up of manyyyy different little teams that are in competition with each other in terms of whoever makes a great product moves up. This creates a bunch of sharded services which sometimes do well sometimes dont and are in general a mess.,2024-12-14 17:45:11,Spepsium
+m1zz8gl,1hded7u,By mid January they will sunset Gemini and create the same calling Aquarius,2024-12-14 10:36:58,abentofreire
+m2jsphv,1hded7u,"I don't care
+
+Ex1206 and notebookLM each are rocking",2024-12-17 20:30:16,t0my153
+m1wqslc,1hded7u,I really want to sign it more than once. The commercials are cool. But they confuse everyone.,2024-12-13 19:54:12,Prestigiouspite
+m21gehm,1hded7u,"bc they have many more product managers doing their own things whereas chatgpt has much fewer with flat org, google is NOT a flat org",2024-12-14 17:13:03,Hopai79
+m234p8y,1hded7u,"Those are just all different things, I think it makes sense now and for a tech focused company who are releasing mostly research products not consumer market products. 
+
+Someone will end up being the Apple of AI and offering the 1 AI service that is a blend of models and systems behind the scenes to sell customers on super intel, maybe OpenAI, Anthropic or even Apple themselves.",2024-12-14 23:06:15,rickyhatespeas
+m23q13o,1hded7u,I think it’s all new and in time they will.,2024-12-15 01:24:55,neonmayonnaises
+m2jc02q,1hded7u,Makes it easy to sunset 😂,2024-12-17 19:01:46,namkeenSalt
+m2q66rq,1hded7u,better than ClaudeAI?,2024-12-18 21:53:57,Putrid-Try-9872
+m1vktou,1hded7u,"gemini-exp-1206 is significantly better than Gemini 1.5 Pro.
+
+It's even better than o1 and Claude 3.5 in coding. 
+
+gemini-exp-1206 is ahead of o1 in almost every category on lmsys arena. Including Hard Prompts, Coding, Style Control, Long Query, Multi-turn and Overall. 
+
+I suspect it's an early version of Gemini 2 Pro",2024-12-13 16:12:13,UnknownEssence
+m1wnl2e,1hded7u,How does Cursor compare to using Claude with MCP? I really want the AI be be able to navigate through my project directory and contextualize without me having to copy and paste relevant chunks of code from across files. Claude with MCP has been great for that (apart from the usage limits of course).,2024-12-13 19:37:01,BoredBurrito
+m1wh64e,1hded7u,"In my experience with copilot o1 is trash too, happens to all forms. 
+
+I’d even rather 3.5 haiku more than this garbage",2024-12-13 19:03:12,BlueeWaater
+m1wx8re,1hded7u,[deleted],2024-12-13 20:29:24,[Deleted]
+m25rumq,1hded7u,"Hey, im interested in paying for Cursor but the 20$ is quite a bit for my country. Do you have to pay for aditional tokens to be able to use Cursor decently or what you get with the 20 tokens is enough already?",2024-12-15 12:38:27,Fumobix
+m1wk9dk,1hded7u,How much usage do you get with Cursor? Is it worth using instead of VSCode?,2024-12-13 19:19:24,RiemannZetaFunction
+m1w0xuk,1hded7u,What is cursor?,2024-12-13 17:37:38,yus456
+m20zrk4,1hded7u,Impatient enough to spellcheck and spell “inpatient” correctly 😂,2024-12-14 15:38:08,JustAQuickQuestion28
+m1yf0hd,1hded7u,😅,2024-12-14 01:53:49,ProtectAllTheThings
+m2cl1cn,1hded7u,"Yes! It really does this for everything, wth \^\^",2024-12-16 16:31:29,thelibrarian101
+m20vg1q,1hded7u,Thank you!! In my experience thus far o1-Pro is superior. I’ve found it’s relatively good at making simple iPhone games with 1-3 prompts. o1-Preview was never this smart.,2024-12-14 15:11:41,NearFutureMarketing
+m1yq3aa,1hded7u,"I agree. I recommend everyone to use Ai studio because it’s free and output can be compared to other LLMs to get best results, but it’s free for a reason.",2024-12-14 03:11:52,dtails
+m25jsny,1hded7u,isn't that true with chatgpt as well?,2024-12-15 11:16:01,alexgiann2
+m214sxs,1hded7u,Which just seems fair.,2024-12-14 16:07:52,bartturner
+m2kx9sb,1hded7u,That's true of any of these models you use on their services lol,2024-12-18 00:17:57,emeraldmoonx
+m20e4ok,1hded7u,They’ll start adding ads into generated code - before you know it your app is spitting out links to wool sweaters on Amazon.,2024-12-14 13:08:54,dietcheese
+m29pycd,1hded7u,So Google wants to do to competition what OpenAI did to a whistleblower.,2024-12-16 02:33:13,PlayerAssumption77
+m235y68,1hded7u,"Ads are democratic. 200 USD aren't. If people want to ""pay"" by targetted ads, that's still fair.",2024-12-14 23:14:03,PoopologistMD
+m2fq7ip,1hded7u,What?,2024-12-17 02:57:55,Pingyofdoom
+m54xw7g,1hded7u,What?,2025-01-03 05:10:09,No-Budget-6427
+m1wcalo,1hded7u,"Nah, use Gemini 2.0 flash. It scores higher on SWE Bench than Claude 3.6 sonnet",2024-12-13 18:37:25,StopSuspendingMe---
+m1wmp61,1hded7u,Then you didn’t use the right thing. The most powerful model is not on gemini.google.com. You have to go to Google AI Studio and specifically set the model to Gemini Experimental 1206. It blows o1 and Claude out of the water.,2024-12-13 19:32:16,Werey4251
+m1ykji8,1hded7u,Is o1-pro that much better?,2024-12-14 02:32:20,bplturner
+m1ylygu,1hded7u,"ChatGPT just released projects support today, you can upload files like in Claude, but there is no way to choose model :(",2024-12-14 02:42:18,0rbit0n
+m1z30b9,1hded7u,"That a odd, since I was doing that with gpt4 back in the day and it worked fine.",2024-12-14 04:52:08,Ja_Rule_Here_
+m21497g,1hded7u,Excellent.,2024-12-14 16:04:40,bartturner
+m2ubbmn,1hded7u,aiistudio better than claude for coding?,2024-12-19 16:18:30,Putrid-Try-9872
+m1w3705,1hded7u,"The OP wad referring to 1.5 exp 1206 ( a pro model not flash). Flash 2.0 is absolutely amazing for a flash model. I thought google was way behind in most thongs till I tried it. But it's a flash, so yep it's still very limited. Pro 2.0 should logically be a very strong competition to o1 and sonnet 3.5 when it's released.
+ (And unlike what was said in some comments, I don't thi k exp1206 is a pre 2.0 version at all).",2024-12-13 17:49:23,Positive_Average_446
+m1wcfwl,1hded7u,Not on the paid API tier when Gemini 2.0 flash becomes generally available,2024-12-13 18:38:12,StopSuspendingMe---
+m1w1z8c,1hded7u,"People had 20 years to learn that if something is free, you're the product ",2024-12-13 17:43:02,altmly
+m1x9yxf,1hded7u,"For free services, like the model OP suggests, they indeed don't respect data privacy 
+
+
+However, for paid services they do respect data privacy. In addition, for EU residents and some other countries, data privacy is respected for free services as well. 
+
+
+So if you live in EU, then this should not be a concern.",2024-12-13 21:39:24,OfficialHashPanda
+m1w6hby,1hded7u,"These are my fears, do you know if you can elect to pay through Gemini API your data is not used to train model etc",2024-12-13 18:06:36,ChiefGecco
+m1vvzk2,1hded7u,Can you please elaborate more?,2024-12-13 17:11:19,Carriage2York
+m2an2dz,1hded7u,"Sonnet has Limited context on these products, and with Sonnet IMO their prompting makes worse or some limited answers. I was using API Sonnet (200k context) with something like Aider, has been best for Sonnet and aider for overrall usability.
+
+But now since O1 Pro,  I now use only Aider as an ""editor"" and copy-paste to/from O1 Pro as being ""architect"", has been best.
+
+Gemini is good as an editor, but not good as an ""architect"". For architect O1 Pro has been amazing, good iterative debugging abilities, example Sonnet could not ""think on it's own"", you could run circles with bugs, O1 Pro tries to think more on every next response, gemini is not on their level for the architect, not so good, but good editor.  [Aider LLM Leaderboards | aider](https://aider.chat/docs/leaderboards/)
+
+EDIT: Also when gemini fails on being editor only, I could use deepseek as this is the next (or on some code styles even better) and if this fails too then Sonnet seems to be a bit smarter on more complicated edits (while O1 Pro is the architect). Best results as of today, might change tommorrow.",2024-12-16 06:50:36,Gas_Silent
+m2bklrc,1hded7u,only if you're buying me a 4090 lmfao,2024-12-16 12:44:57,IM2M4L
+m1yxoio,1hded7u,"*Why and reason. If*
+
+*You can please send help me link*
+
+*By Google AI*
+
+\- No-Technician5539
+
+---
+
+^(I detect haikus. And sometimes, successfully.) ^[Learn&#32;more&#32;about&#32;me.](https://www.reddit.com/r/haikusbot/)
+
+^(Opt out of replies: ""haikusbot opt out"" | Delete my comment: ""haikusbot delete"")",2024-12-14 04:08:47,haikusbot
+m2146lm,1hded7u,No.  They are not the same.,2024-12-14 16:04:15,bartturner
+m2832il,1hded7u,"That’s actually a really great idea. Some companies are sort of doing that already by getting the model to “debate” itself, with good results. [Link](https://www.quantamagazine.org/debate-may-help-ai-models-converge-on-truth-20241108/)",2024-12-15 20:52:03,nanofan
+m1vr6w0,1hded7u,Hi Sam,2024-12-13 16:45:50,johnFvr
+m1vv7oo,1hded7u,[Removed],2024-12-13 17:07:10,hermajestyqoe
+m1vkw05,1hded7u,Did you try gemini-exp-1206?,2024-12-13 16:12:34,UnknownEssence
+m1vlu1t,1hded7u,Hi Sam,2024-12-13 16:17:34,johnFvr
+m214dhu,1hded7u,Use Gemini Flash 2.0.   It is excellent.   Sounds like you are using some other Gemini version?,2024-12-14 16:05:23,bartturner
+m1z53z8,1hded7u,"???
+If I said “don’t waste your money on Moana 2, it’s a terrible movie,” would you reply “Why do you care what I pay for”?
+
+OP is simply saying “Product A has more value than Product B” to keep people from making a choice they might regret…Which is generally the purpose of all reviews ever.",2024-12-14 05:09:50,micaroma
+m1w1on9,1hded7u,Sometimes you just find a better product. Don't be married to a brand. ,2024-12-13 17:41:30,altmly
+m1w11r4,1hded7u,obviously anyone whose used that ai knows it spits out stuff like gpt 3.,2024-12-13 17:38:12,Timidwolfff
+m1vf336,1hded7u,'Classy' lmfao you'll be okay,2024-12-13 15:41:19,FranklinLundy
+m1z1h0e,1hded7u,"And if yoi have any questions you can ask them by chat on gtalk, wave, hangout, allo, duo, mono, stereo.",2024-12-14 04:39:28,debian3
+m203109,1hded7u,Oh and sorry we're stopping 3 of those next year because of poor uptake.,2024-12-14 11:20:42,Turbulent-Laugh-
+m1xka14,1hded7u,Deep Dream?,2024-12-13 22:37:45,Mundane_Canary9368
+m1z43ou,1hded7u,Don't forget about Google Ultron!,2024-12-14 05:01:18,Mountain-Pain1294
+m24pfcw,1hded7u,Bard,2024-12-15 05:48:48,brokenfl
+m1z6o62,1hded7u,"OpenAI playground costs money, AI Studio is free with basically unlimited queries and chats.",2024-12-14 05:23:36,MeanBack1542
+m2besw8,1hded7u,"AI Studio is not a simple playground. It's full featured.  
+You can   
+\- keep an history of your chats ( enable ""Autosaving"" )   
+\- send images / video / audio via the interface  
+\- send realtime audio + video   
+\- enable ""Grounding"" which does not exist in [chatgpt.com](http://chatgpt.com)   
+You have integration with google drive.   
+In my experience exp-1206 is on par with o1-preview for coding.  
+And it's completely free.
+
+So it's a bit more than a ""developper tool"" IMHO",2024-12-16 11:55:09,owengo1
+m1yd9xj,1hded7u,That’s what happens when you pit teams against each other on the mandate of “win AI”,2024-12-14 01:42:15,Soopsmojo
+m1xji8r,1hded7u,For now the deep search is what you get for your money. It’s embedded in the Gemini interface. And it’s crazy good. Nothing like it. Surpasses Perplexity and gptsearch by miles.,2024-12-13 22:33:14,Visionary-Vibes
+m21nysc,1hded7u,"https://preview.redd.it/8c4riuuuru6e1.jpeg?width=720&format=pjpg&auto=webp&s=7b6d03789480b5d14dcde4115814ca78f43f8a8c
+
+It seems limited from these quick two prompts I just tried. Instead of understanding what I meant by ""he""(subject of previous image) it just started looking through my spam inbox for tired as a keyword/concept. Chatgpt app (plus) was flawless with these prompts.",2024-12-14 17:55:56,rtowne
+m2b7fvi,1hded7u,"This naming confusion seems overblown here - 
+ChatGPT -> Gemini App
+Playground -> AI Studio with access to many models and experiments.",2024-12-16 10:39:27,Minimum_Indication_1
+m2q7u4j,1hded7u,"I love Sonnet 3.5, for creative writing and brainstorming I still find it better than any other models. For coding and problem solving tho Gemini performs better, at least in my use cases.",2024-12-18 22:02:39,dondiegorivera
+m1vn8ry,1hded7u,"My usecase varies but 1206 is great, I'd rate Sonnet 3.5 > 1206 > o1. Something about o1 seems to give lower quality than preview o1.
+
+Gemini 1.5 Pro is the worst, I don't understand why Google made it the default model in the studio. It gives Google a bad rep, users are better off with Mistral Large in comparison.",2024-12-13 16:24:59,FishermanEuphoric687
+m1xf00z,1hded7u,I feel that 1206 is too little of an upgrade over 2.0 Flash. I'm thinking it's the standard model.,2024-12-13 22:07:08,returnofblank
+m1vny21,1hded7u,It’s not better than claude in coding.,2024-12-13 16:28:42,Vontaxis
+m1vnk1d,1hded7u,"Tried 1206, but it doesn't seem better for my use in coding. 
+
+C, C++, Python mostly. 
+
+Currently, microcontroller work mostly at the moment. 
+
+
+Livebench still shows Claude on top in terms of coding.",2024-12-13 16:26:38,randombsname1
+m1wbmve,1hded7u,"I disagree with this. Gemini-Exp-1206 is not good at coding if you try and ask it to guide you towards a solution to a leet code question . When you and the model come up with the “correct” answer it usually isn’t correct because of edge cases.
+
+If you just give the problem directly without asking it to guide you towards a solution then it is good. Claude actually correctly the question even if you ask it to guide you towards a solution.
+
+
+Maybe in real world situations it s better to but it makes edge case errors in leet code style question from what I can see.",2024-12-13 18:33:54,ForwardReach1166
+m1ykx0a,1hded7u,"This!!!
+
+Can't agree more with every word.
+
+https://preview.redd.it/xo9jcjoj7q6e1.png?width=1080&format=pjpg&auto=webp&s=7174fb7aeb5864ced258573496204fa649918696",2024-12-14 02:34:58,Immediate_Simple_217
+m201zzd,1hded7u,Wait. I thought that was flash? I'm confused.,2024-12-14 11:08:57,slackermannn
+m21glsu,1hded7u,how does it do with SQL queries especially when you give her a specific database dialect? Any cool systems to do that,2024-12-14 17:14:11,Hopai79
+m1x8qal,1hded7u,Cursor allows you to index your codebase and use agents. I find it great for working with small and medium sized projects.,2024-12-13 21:32:31,usnavy13
+m22betq,1hded7u,You...just use claude as your LLM in cursor. I'm confused about what you're confused about.,2024-12-14 20:10:20,athermop
+m25tjdg,1hded7u,"Claude 3.5 can run almost indefinitely, while o1 requires pay as you go, and I never use it for that reason. I never hit any wall even coding daily for weeks",2024-12-15 12:53:19,grimorg80
+m1wnsup,1hded7u,The $20 per month is worth it for me. I’d recommend trying it out (since there's a free trial).,2024-12-13 19:38:10,Fovty
+m1w5iev,1hded7u,A code editor with AI. You can pick from the various models. Pro is $20/m which includes Claude 3.5,2024-12-13 18:01:27,grimorg80
+m25w4ul,1hded7u,There is a setting that disables that.,2024-12-15 13:14:57,OfficialHashPanda
+m20melr,1hded7u,They definitely will not do this. At least for a while. The AI race is so incredibly important for the future of their company that they are going to spend billions for years to come out on top. Even then I really don’t see them running ads. What most companies will do is have the “free version” and then release the “super” model in a paid for version. They will likely make it part of Google One and Google Suite and convince way more ppl to buy it. Ads will be super tricky to implement. Especially with generative Ai. There are too many issues with that. I don’t see companies taking that route,2024-12-14 14:11:11,OpinionsRdumb
+m20h9yh,1hded7u,Very possible.,2024-12-14 13:33:30,Unique_Carpet1901
+m29sbtq,1hded7u,Yes. Google fell so far behind OpenAI and now they are unleashing people like you to give them cover and do their free ad.,2024-12-16 02:48:52,Unique_Carpet1901
+m2453mt,1hded7u,What? Are you drunk or are you google bot? This is most absurd thing I have heard. Is Sam forcing you to pay $200?,2024-12-15 03:08:15,Unique_Carpet1901
+m1xvyqp,1hded7u,"I mean, we can keep bringing up benchmarks all day. For instance, I use Aider, [so here's the Aider benchmark](https://aider.chat/docs/leaderboards/) where 2.0 Flash is way below the competition.
+
+Benchmarks are great, but they aren't the whole story. The most important thing is how it performs in your personal workflow.",2024-12-13 23:50:13,eposnix
+m202f6v,1hded7u,Hallucinates way too much for me. Sonnet reigns supreme. I love it that is free but accuracy counts,2024-12-14 11:13:46,slackermannn
+m1x98at,1hded7u,"It's a good model, but I wouldn't say it blows o1 and claude 3.5 sonnet outof the water. They trade blows with eachother, which is impressive enough considering previous gemini models were not at all competitive with them.",2024-12-13 21:35:17,OfficialHashPanda
+m1wqf6t,1hded7u,I know lol. And no it doesn't,2024-12-13 19:52:14,WhereIsWebb
+m1xies0,1hded7u,Wait if I use the Gemini app on my phone which model is that using?,2024-12-13 22:26:50,SuspiciousPrune4
+m1ylt18,1hded7u,"Yeah. I think for some tasks, o1 might be equal or slightly worse than o1-preview, but o1-pro seems to just smash everything, including creative writing. AI explained have not tested it, but he said he predicts o1-pro to score on simple bench above 50%, which not only would have been the best so far, but also at least 10 points more than next previous model.
+
+https://simple-bench.com/
+
+It's expensive to benchmark o1-pro, but it seems to be good enough to just smash every single benchmark, without suffering in other fields.",2024-12-14 02:41:13,Ormusn2o
+m22c5m4,1hded7u,Yes. Unequivocally.,2024-12-14 20:14:43,External-Confusion72
+m2iqdoq,1hded7u,"Once projects support o1, that'll be a game changer.",2024-12-17 17:08:19,TheMasterCreed
+m2v1l0h,1hded7u,Yep!,2024-12-19 18:49:24,fab_space
+m1wczcu,1hded7u,"Ah - I see the API terms for paid use “How Google Uses Your Data
+
+When you use Paid Services, including, for example, the paid quota of the Gemini API, Google doesn’t use your prompts (including associated system instructions, cached content, and files such as images, videos, or documents) or responses to improve our products”",2024-12-13 18:41:05,myreddit10100
+m28vy1e,1hded7u,Thanks,2024-12-15 23:31:12,myreddit10100
+m1wdl9r,1hded7u,"Looks like paid API use had different terms - How Google Uses Your Data
+
+When you use Paid Services, including, for example, the paid quota of the Gemini API, Google doesn’t use your prompts (including associated system instructions, cached content, and files such as images, videos, or documents) or responses to improve our products",2024-12-13 18:44:17,myreddit10100
+m214bsp,1hded7u,where do i find the gemini-exp-1206?,2024-12-14 16:05:06,gibbyxvalk
+m211xw3,1hded7u,Ya I would.  I like what I like.,2024-12-14 15:51:09,RelativeReality7
+m1zsub5,1hded7u,"I would. Some people like the bad movies. Its just such an odd thing to say. I can understand giving your review on the product, but telling other what to do usually has the opposite effect. ",2024-12-14 09:20:32,jaxupaxu
+m1w2wci,1hded7u,"It's not a better product, but rather different and offers different services. And it's free, so there is no marriage involved here. I have bookmarks to ChatGPT, Claude, and AI Studio and use them daily.
+
+Why would I stop using one... when I can use all of them?",2024-12-13 17:47:50,Cagnazzo82
+m1vijic,1hded7u,Really I don’t care.  But I appreciate you comforting me.,2024-12-13 15:59:55,EliteFactor
+m20aals,1hded7u,"seriously I needed an invoice for Google developer account and their Google developer support told me that they don’t process payments, so I should contact Google merchant support, they told me they are only in charge of payments from customers to developers and told me to contact Google Pay support, which told me that they only process payments through Google pay, so I should contact Google developer support. Gone through the same loop again and again with no result, eventually paying the damn fee with my money instead of company…  
+They have so many products, even they don’t know who supports what",2024-12-14 12:35:48,Tupcek
+m22e1ds,1hded7u,And Bard,2024-12-14 20:25:56,KillyP
+m2h6k89,1hded7u,"I’m not happy with the general Gemini interface (or output) so was going to try this. Is it friendly enough for non-developers? Also, do you know if the audio and video features are free (for now)?",2024-12-17 10:55:12,eloquenentic
+m1xl5lc,1hded7u,"Is that the “book report” feature? Like, “write a report on  ___” and it’ll research and write a paper? It does sound pretty great, but not sure I’d use it enough to justify subscribing just for that…",2024-12-13 22:42:49,SuspiciousPrune4
+m2h70kr,1hded7u,"Is Deep search only for the Gemini Advanced plan? Because even now basic Gemini (in both the Gemini or Google apps or in Chrome) refuses to search the web for me in 2/3 cases. I need to use a prompt and tell it that Google has announced it now has search capabilities for it to make it search. Very weird and time consuming. It’s as if Google hates their users. I understand their developer focus but I know many non-tech people who have switched to ChatGPT just for search, since it’s so good.",2024-12-17 11:00:01,eloquenentic
+m1ww1k0,1hded7u,"Yes, the o1 is substantially worse than o1-preview. It’s like a bit better version of 4o. 
+
+I have been trying to avoid messing with my workflow by introducing Claude or google models but when I look at the time I now waste on fixing errors o1 generates I just don’t see way around it.",2024-12-13 20:22:49,deZbrownT
+m5s6cd1,1hded7u,I think o1 should be used for more general problem solving than coding itself as its strength seems to me more complex attention to detail/pure compute power.,2025-01-06 23:27:49,noobrunecraftpker
+m1vuntz,1hded7u,"lmsys arena (coding):
+
+|Rank|Model|ELO|
+|:-|:-|:-|
+|1|Gemini-Exp-1206|1377|
+|5|Claude 3.5 Sonnet (20241022)|1322|
+|7|Claude 3.5 Sonnet (20240620)|1295|",2024-12-13 17:04:13,UnknownEssence
+m1vv01q,1hded7u,https://preview.redd.it/5j4x5i71en6e1.png?width=700&format=png&auto=webp&s=fb5ddf702e3adda3f9e0dffbd4f803f224cac0ef,2024-12-13 17:06:02,UnknownEssence
+m23edhk,1hded7u,What’s the link to that website?,2024-12-15 00:08:28,Theronsy
+m20re55,1hded7u,It performs better than 2.0 flash,2024-12-14 14:45:34,UnknownEssence
+m1yqwig,1hded7u,You can have more than one agent in composer??,2024-12-14 03:17:33,infinished
+m1yqwvj,1hded7u,You can have more than one agent in composer??,2024-12-14 03:17:33,infinished
+m1xzkru,1hded7u,Hmm interesting. How do I get my codebase indexed using Cursor? Also are there are any auto-exec 'styled' plugins for Cursor? It'd be cool to kinda let it rip for a few minutes on a task and see if executions will run correctly or not.,2024-12-14 00:13:06,mat_stats
+m22c6eo,1hded7u,[deleted],2024-12-14 20:14:51,[Deleted]
+m1wph6z,1hded7u,Is it like chatgpt canvas?,2024-12-13 19:47:07,yus456
+m2529t8,1hded7u,"Not everyone has spare 200 USD, especially in many countries outside the US/EU. The digital divide is getting bigger by the day the more financially prohibitive access to such technology is. Thus many people rather choose that Google AI as you ""only"" pay with your data rather than 200 USD upfront.",2024-12-15 07:57:38,PoopologistMD
+m1zxhx3,1hded7u,"Exactly.   
+We are now comparing Rolls Royce, Bentley and Porsche cars.  
+All are great - but we have preferences.",2024-12-14 10:16:27,[Deleted]
+m1ysig5,1hded7u,"Same experience here, idk what people are talking about it's nowhere near Claude or o1.....",2024-12-14 03:29:12,Ryan526
+m1ypc13,1hded7u,Loving o1-pro personally.,2024-12-14 03:06:20,NobodyDesperate
+m1xil0e,1hded7u,Does that extend to subscribers to Gemini Advanced (which I think if their equivalent to ChatGPT Plus)?,2024-12-13 22:27:49,SuspiciousPrune4
+m215a99,1hded7u,"https://aistudio.google.com/prompts/new_chat
+
+Choose 1206 in the drop down.   It is really good and so damn fast.",2024-12-14 16:10:39,bartturner
+m2gpoxo,1hded7u,"Hey now this is actually how I got a free pixel and pixel watch last year in Google pixel pro 7 and the Google pixel watch 2 for free because Google Fi told me that they don't handle Google ones billing even though for some reason their billing was on my phone bill after a mistake was made and I had 10 TB of space that I never used I even flat out just said I accidentally probably just upgraded without noticing to a trial of some sorts and was just hit with a $500 bill out of nowhere and then Google one says they'll help me get a refund but they don't deal with the invoicing I got a call back Google fi + it went back and forth for about almost a few months until the bill racked up to about $5,000 just for a damn phone plan and canceling my Google  drive space losing everything that I had because they told me to cancel it to fix this and then they ghosted me. still want me to pay the bill when I asked for my phone number back but then when silent and it has been silent + well my phone and watch are financed those just mysteriously just like disappeared off of my credit somehow as with any sort of billing.
+
+
+
+Too long didn't read just keep asking them questions until they eventually break the law you might get something free or just a massive headache in my case both well worth the headache though I think I'm going to go sign up for another trial because they're offering me one 
+
+
+
+
+
+
+I normally would have had probably like made a very public incident out of this but I ain't complaining their  5G sucked",2024-12-17 07:45:34,alinuxacorp
+m24aaht,1hded7u,And project IDX,2024-12-15 03:46:44,Brilliant_Breakfast7
+m2hc1gk,1hded7u,"I think it's one of the best interface, even for non-developpers.  
+The first thing you should do is activate synchronisation with google drive so that you have an history. Then the basic way is hit ""Create Prompt"" and you have the same as gemini.  
+Then if you want to poke a bit into the wizardry you go to the right pane and  
+\- try different models  
+\- enable Tools => Grounding : basically it enables google search to validate the results and will give you links references  
+\- enable Tools => Code Execution : it give a super calculator to the model. You can ask for elaborate arithmetic and it won't fail, you can attach a google spreadsheet, a csv and it will make computations on it. I don't know if Gemini can do that
+
+And you can use the streaming modes: typically share your screen and mic realtime, or you phone's camera and mic and discuss with it like in the crazy demos..",2024-12-17 11:50:00,owengo1
+m2hd6o8,1hded7u,"What are you talking about? Gemini can connect to the web and perform search queries, but deep research is only available on advanced subscriptions. It’s not comparable to ChatGPT’s search capabilities. Gemini is more of a research tool, designed to explore topics deeply using huge amount of resources and generate reports rather than perform standard web searches.",2024-12-17 12:00:26,Visionary-Vibes
+m1yev3q,1hded7u,"I have better result with complex programming in 1206 than Sonnet, maybe i did android kotlin which is under google.",2024-12-14 01:52:49,ubeyou
+m1vxpiw,1hded7u,"lMsys is a joke for coding.. even they know it, that’s why the released the plugin. LiveBench is much more accurate to real life",2024-12-13 17:20:32,Mr_Hyper_Focus
+m1x87ol,1hded7u,Your leaderboard also claims 4o is better than 3.5 sonnet... There is probably somewhat of a disconnect between this particular leaderboard and real world usage. ,2024-12-13 21:29:38,OfficialHashPanda
+m1w1zru,1hded7u,Let Demis cook,2024-12-13 17:43:06,RedditLovingSun
+m1w77v7,1hded7u,very realiable ranking.. o1-mini second..,2024-12-13 18:10:30,Vontaxis
+m23fd31,1hded7u,https://livebench.ai,2024-12-15 00:14:52,Immediate_Simple_217
+m20s9cf,1hded7u,I somehow conflated 2 flash with 1206. 🫣,2024-12-14 14:51:16,slackermannn
+m1xzuvk,1hded7u,Yea it's called composer. It will create files and run commands with permission and more.,2024-12-14 00:14:54,usnavy13
+m22f8fu,1hded7u,"No, Cursor pays Anthropic API costs.",2024-12-14 20:33:02,athermop
+m1wr44r,1hded7u,"It's its own program. IDE is an ""integrated development environment"" and one of the most popular is VS Code. Cursor is a fork of VS Code (they took the existing VS Code and built on top of it) that supports integrated AI for development. ChatGPT canvas is a web-based version of something similar, but much simpler. A proper IDE will do everything from linting (auto-correct for code which enforces coding style and prevents many errors from typos) and being able to run the program from inside the IDE.
+
+So the short version is ChatGPT Canvas is a very simplistic web-based code editor, whereas Cursor is a full-featured IDE
+
+https://www.youtube.com/watch?v=vUn5akOlFXQ.",2024-12-13 19:55:54,kelkulus
+m1y6owd,1hded7u,"Not to my knowledge, which is the only reason I probably won’t get a Gemini subscription when Ultra 2.0 comes out. Which is kind of a shame. While the experimental models can use your prompts for training, I’d kill to have the full version of 1206 in a private subscription.
+While ChatGPT Plus doesn’t have an automatic opt-out of training, either, it at least has the option tucked away.",2024-12-14 00:58:37,WorriedPiano740
+m216wdn,1hded7u,"thanks. didn't realize ai studio and gemini were different... although i've used ai studio for something in the distant past.
+
+  
+google with their infinite product spin-offs and depts smh",2024-12-14 16:19:49,gibbyxvalk
+m2gr3nl,1hded7u,"believe me I had tried. About 70 emails later, basically going in circles, I have gave up. It’s just one time fee $100 that I had to pay by myself instead of being reimbursed by company",2024-12-17 08:00:24,Tupcek
+m2q5sj5,1hded7u,Deep Mind,2024-12-18 21:51:52,Putrid-Try-9872
+m2i17ho,1hded7u,"Thank you very much for the thoughtful response, I’m looking forward to trying it. This is the type of Reddit response that makes it to the top of Google search when somebody searches for something!",2024-12-17 14:50:08,eloquenentic
+m2i5uj9,1hded7u,"What is confusing in my comment? As I wrote, Gemini (the free version) refuses to connect to the web for roughly 2/3 my queries and says it’s unable to do so. If I tell it that it can in fact do this (“you told me you can now search the web”), it normally then does it and provides a response to the prompt. It’s very weird.",2024-12-17 15:17:09,eloquenentic
+m1yzwxj,1hded7u,"That's my experience as well. Claude gets stuck when things get complicated, 1206 keeps improving until it gets it right.",2024-12-14 04:26:44,bambin0
+m1xf5vs,1hded7u,"Lmarena has a new coding benchmark and sonnet is on top by a wide margin, not surprisingly.",2024-12-13 22:08:04,Craygen9
+m1xf9tu,1hded7u,"1206 is 4 points below 3.5 Sonnet New on LiveBench, but it excels in pretty much every other area, except language where it's 2 points below Sonnet.",2024-12-13 22:08:42,returnofblank
+m1yal7t,1hded7u,Honestly that point alone changes my mind on this lmsys coding benchmark,2024-12-14 01:24:15,UnknownEssence
+m27d3jn,1hded7u,Go to the new tab and check out hard prompts w/ style control,2024-12-15 18:35:12,interstellarfan
+m1w7gnu,1hded7u,Even OpenAI themselves said that o1-mini is better at coding than o1-preview.,2024-12-13 18:11:47,UnknownEssence
+m1y49w4,1hded7u,Damn wat da fuq idk how I missed this,2024-12-14 00:42:58,mat_stats
+m22ipai,1hded7u,[deleted],2024-12-14 20:53:24,[Deleted]
+m2a30r0,1hded7u,"Depends on what it’s doing, they all stick suck at inferring solutions to code if they weren’t trained on the API (I.e. new API versions).",2024-12-16 04:01:06,Wise_Cow3001
+m1xieee,1hded7u,which one?,2024-12-13 22:26:46,SrPeixinho
+m22b7p4,1hded7u,"Just to be clear, it's for web development, not coding in general.",2024-12-14 20:09:11,athermop
+m1y4pv9,1hded7u,They did not and you obviously haven’t tried it yourself,2024-12-14 00:45:50,Vontaxis
+m1y7mij,1hded7u,Its easy to get compliancent in a world where things improve at crazy rates,2024-12-14 01:04:48,usnavy13
+m22iysl,1hded7u,"Do you mean GitHub Copilot? Cursor has their own models to do what GH Copilot does, and IME, Cursor does it better.  Anthropic or OpenAI in Cursor are more used for the chat features in app rather than code completion.",2024-12-14 20:54:58,athermop
+m1xuo3j,1hded7u,web dot lmarena dot ai,2024-12-13 23:41:57,Craygen9
+m1yaib6,1hded7u,"Check the benchmarks they posted in the original press release of o1-preview and o1-mini. They showed that o1-mini outperformed on the coding benchmark.
+
+Id link but I'm on mobile.",2024-12-14 01:23:42,UnknownEssence
+m22kleh,1hded7u,[deleted],2024-12-14 21:04:42,[Deleted]
+m1zyezw,1hded7u,I have used both models and o1 preview is significantly better than o1 mini.,2024-12-14 10:27:17,Ace-2_Of_Spades
+m22l66u,1hded7u,"I never had any complaints about GH Copilot either. In fact, I still think its great. Cursor is just better at completion. The user experience is better. The completions are better.
+
+I can't recall all the chat models you get access to, but I know there's Claude, all the OpenAI models, Gemini, etc.
+
+There's also limits (as you'd expect since it's only 20 bucks a month) Like 500 request per month or something.
+
+You can also provide your own API keys if you want.",2024-12-14 21:08:06,athermop
+m23at5e,1hded7u,I have similar experience - the difference was as big as between 4o and 01-mini,2024-12-14 23:45:24,Past-Lawfulness-3607

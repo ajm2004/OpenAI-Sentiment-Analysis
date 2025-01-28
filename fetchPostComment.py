@@ -275,7 +275,10 @@ async def fetch_posts_and_comments(reddit, subreddit_name, post_limit, post_sort
     try:
         status_callback(f"🟠 Connecting to r/{subreddit_name}...", 0)
         subreddit = await reddit.subreddit(subreddit_name)
-        
+        print(TECHNICAL_KEYWORDS)
+        print(REPUTATION_KEYWORDS)
+        print(EXCLUDE_KEYWORDS)
+        print(RELEVANT_FLAIRS)
         # Create output directory with generic name
         output_dir = f"data_reddit_{subreddit_name}"
         os.makedirs(output_dir, exist_ok=True)
@@ -601,7 +604,10 @@ class RedditFetcherApp:
         reputation_keywords = set(self.reputation_keywords_text.get("1.0", END).strip().split(", "))
         exclude_keywords = set(self.exclude_keywords_text.get("1.0", END).strip().split(", "))
         relevant_flairs = set(self.relevant_flairs_text.get("1.0", END).strip().split(", "))
+
+        
         return technical_keywords, reputation_keywords, exclude_keywords, relevant_flairs
+        
 
     def start_fetch(self):
         self.fetch_button.config(state="disabled")
@@ -609,8 +615,18 @@ class RedditFetcherApp:
         self.posts_display.config(state="normal")
         self.posts_display.delete(1.0, END)
         self.posts_display.config(state="disabled")
-        TECHNICAL_KEYWORDS, REPUTATION_KEYWORDS, EXCLUDE_KEYWORDS, RELEVANT_FLAIRS = self.get_user_keywords()
-        # Start fetching logic...
+
+        # Fetch updated keywords from GUI
+        technical_keywords, reputation_keywords, exclude_keywords, relevant_flairs = self.get_user_keywords()
+
+        # Start a new thread and pass arguments using `args`
+        thread = threading.Thread(
+            target=self.threaded_fetch,
+            args=(technical_keywords, reputation_keywords, exclude_keywords, relevant_flairs)
+        )
+        thread.daemon = True
+        thread.start()
+
 
     def update_status(self, message):
         self.status_var.set(message)
@@ -634,23 +650,23 @@ class RedditFetcherApp:
         self.posts_display.see(END)
         self.posts_display.config(state='disabled')
 
-    def start_fetch(self):
-        self.fetch_button.config(state='disabled')
-        self.progress.start(10)
-        self.posts_display.config(state='normal')
-        self.posts_display.delete(1.0, END)
-        self.posts_display.config(state='disabled')
+    # def start_fetch(self):
+    #     self.fetch_button.config(state='disabled')
+    #     self.progress.start(10)
+    #     self.posts_display.config(state='normal')
+    #     self.posts_display.delete(1.0, END)
+    #     self.posts_display.config(state='disabled')
         
-        # Configure text tags for colors
-        self.posts_display.tag_configure("accepted", foreground="green")
-        self.posts_display.tag_configure("filtered", foreground="red")
+    #     # Configure text tags for colors
+    #     self.posts_display.tag_configure("accepted", foreground="green")
+    #     self.posts_display.tag_configure("filtered", foreground="red")
         
-        # Start fetching in a separate thread
-        thread = threading.Thread(target=self.threaded_fetch)
-        thread.daemon = True
-        thread.start()
+    #     # Start fetching in a separate thread
+    #     thread = threading.Thread(target=self.threaded_fetch)
+    #     thread.daemon = True
+    #     thread.start()
 
-    def threaded_fetch(self):
+    def threaded_fetch(self, technical_keywords, reputation_keywords, exclude_keywords, relevant_flairs):
         subreddit_name = self.subreddit_name.get()
         post_limit = self.post_limit.get()
         post_sort = self.post_sort.get()
@@ -663,31 +679,38 @@ class RedditFetcherApp:
             loop = asyncio.new_event_loop()
             asyncio.set_event_loop(loop)
             reddit = loop.run_until_complete(create_reddit_instance())
-            
+
+            # Dynamically inject updated keywords
+            global TECHNICAL_KEYWORDS, REPUTATION_KEYWORDS, EXCLUDE_KEYWORDS, RELEVANT_FLAIRS
+            TECHNICAL_KEYWORDS = technical_keywords
+            REPUTATION_KEYWORDS = reputation_keywords
+            EXCLUDE_KEYWORDS = exclude_keywords
+            RELEVANT_FLAIRS = relevant_flairs
+
             status_callback = StatusCallback(self)
-            
+
+            # Pass updated variables to the async function
             success = loop.run_until_complete(
                 fetch_posts_and_comments(
-                    reddit, 
-                    subreddit_name, 
-                    post_limit, 
+                    reddit,
+                    subreddit_name,
+                    post_limit,
                     post_sort,
-                    status_callback
+                    status_callback,
                 )
             )
-            
+
             loop.run_until_complete(reddit.close())
             loop.close()
 
             if success:
-                # self.finish_fetch(f"Successfully fetched data for r/{subreddit_name}")
-                # Set progress to 100% after completion
-                pass
+                self.finish_fetch(f"Successfully fetched data for r/{subreddit_name}")
             else:
                 self.finish_fetch("Failed to fetch data. Check the status messages above.")
-                
+
         except Exception as e:
             self.finish_fetch(f"Error: {str(e)}")
+
 
     def finish_fetch(self, message):
         self.root.after(0, self._finish_fetch_gui, message)
