@@ -84,7 +84,7 @@ class RedditFetcher:
                 posts.append(post_data)
                 self.gui_update_callback(int((i/limit) * 100), f"Fetching posts {i}/{limit}...")
 
-            self.remove_previous_data(subreddit)
+            # self.remove_previous_data(subreddit)
         
             self.save_data(subreddit, query, posts, JSON_DUMP)
 
@@ -146,7 +146,7 @@ class RedditFetcher:
 
         folder_name = f"data_{subreddit}"
         if query:
-            folder_name = f"data_{subreddit}_{query.replace(' ', '_').encode('ascii', 'ignore').decode()}"
+            folder_name = f"data_{subreddit}/{query.replace(' ', '_').encode('ascii', 'ignore').decode()}"
         os.makedirs(folder_name, exist_ok=True)
 
         RedditFetcher.save_query(folder_name, query)
