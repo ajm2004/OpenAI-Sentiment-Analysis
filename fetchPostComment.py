@@ -275,7 +275,10 @@ async def fetch_posts_and_comments(reddit, subreddit_name, post_limit, post_sort
     try:
         status_callback(f"🟠 Connecting to r/{subreddit_name}...", 0)
         subreddit = await reddit.subreddit(subreddit_name)
-        
+        print(TECHNICAL_KEYWORDS)
+        print(REPUTATION_KEYWORDS)
+        print(EXCLUDE_KEYWORDS)
+        print(RELEVANT_FLAIRS)
         # Create output directory with generic name
         output_dir = f"data_reddit_{subreddit_name}"
         os.makedirs(output_dir, exist_ok=True)
@@ -394,8 +397,8 @@ async def fetch_posts_and_comments(reddit, subreddit_name, post_limit, post_sort
                         comment_reasons = []
                         if comment.score < MIN_COMMENT_UPVOTES:
                             comment_reasons.append(f"low votes ({comment.score})")
-                        if not is_opinion_driven(comment.body):
-                            comment_reasons.append("neutral sentiment")
+                        # if not is_opinion_driven(comment.body):
+                        #     comment_reasons.append("neutral sentiment")
                             
                         if not comment_reasons:
                             filtered_comments.append({
@@ -456,6 +459,22 @@ async def fetch_posts_and_comments(reddit, subreddit_name, post_limit, post_sort
                         json.dump(post_data, f, indent=4)
                         status_callback(f"🔵 Saved JSON for post {submission.id}")
 
+                    # Save comments as CSV
+                    with open(f"{post_dir}/comments.csv", "w", encoding="utf-8") as comment_file:
+                        comment_writer = csv.writer(comment_file)
+                        comment_writer.writerow([
+                            "Post  Id","Comment ID", "Body", "Upvotes", "Created UTC", "Sentiment"
+                        ])
+                        for comment in filtered_comments:
+                            comment_writer.writerow([
+                                submission.id,
+                                comment["comment_id"],
+                                comment["body"],
+                                comment["upvotes"],
+                                datetime.fromtimestamp(comment["created_utc"], tz=timezone.utc).strftime('%Y-%m-%d %H:%M:%S'),
+                                comment["sentiment"]["compound"]
+                            ])
+
                     # For accepted posts, add this before storing:
                     status_callback(
                         f"Processing post {total_processed}/{post_limit}",
@@ -492,74 +511,121 @@ async def fetch_posts_and_comments(reddit, subreddit_name, post_limit, post_sort
 class RedditFetcherApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Reddit Content Analyzer")  # Generic title
-        
-        # Increase window size to accommodate filtered posts display
-        self.root.geometry("800x600")
-        self.root.minsize(600, 400)
-        
-        # Configure grid weights
+        self.root.title("Reddit Content Analyzer")
+        self.root.geometry("1400x800")  # Increased size to accommodate more fields
+        self.root.minsize(900, 600)
+
+        # Configure grid
         self.root.grid_columnconfigure(1, weight=1)
-        for i in range(6):  # Increased range for new widget
+        for i in range(8):  # Adjusted for new inputs
             self.root.grid_rowconfigure(i, weight=1)
 
-        # Input frame
+        # Default values
+        self.default_technical_keywords = ", ".join(TECHNICAL_KEYWORDS)
+        self.default_reputation_keywords = ", ".join(REPUTATION_KEYWORDS)
+        self.default_exclude_keywords = ", ".join(EXCLUDE_KEYWORDS)
+        self.default_relevant_flairs = ", ".join(RELEVANT_FLAIRS)
+
+        # Input frame for parameters
         input_frame = ttk.LabelFrame(root, text="Input Parameters")
-        input_frame.grid(row=0, column=0, columnspan=2, padx=10, pady=10, sticky='nsew')
+        input_frame.grid(row=0, column=0, columnspan=2, padx=10, pady=10, sticky="nsew")
         input_frame.grid_columnconfigure(1, weight=1)
 
         # Subreddit name
-        Label(input_frame, text="Subreddit Name:").grid(row=0, column=0, padx=10, pady=5, sticky='e')
+        Label(input_frame, text="Subreddit Name:").grid(row=0, column=0, padx=10, pady=5, sticky="e")
         self.subreddit_name = StringVar()
-        Entry(input_frame, textvariable=self.subreddit_name).grid(row=0, column=1, padx=10, pady=5, sticky='ew')
+        Entry(input_frame, textvariable=self.subreddit_name).grid(row=0, column=1, padx=10, pady=5, sticky="ew")
 
         # Number of posts
-        Label(input_frame, text="Number of Posts:").grid(row=1, column=0, padx=10, pady=5, sticky='e')
+        Label(input_frame, text="Number of Posts:").grid(row=1, column=0, padx=10, pady=5, sticky="e")
         self.post_limit = IntVar(value=10)
-        Entry(input_frame, textvariable=self.post_limit).grid(row=1, column=1, padx=10, pady=5, sticky='ew')
+        Entry(input_frame, textvariable=self.post_limit).grid(row=1, column=1, padx=10, pady=5, sticky="ew")
 
         # Sort type
-        Label(input_frame, text="Sort by:").grid(row=2, column=0, padx=10, pady=5, sticky='e')
+        Label(input_frame, text="Sort by:").grid(row=2, column=0, padx=10, pady=5, sticky="e")
         self.post_sort = StringVar(value="Top (All Time)")
         sort_menu = OptionMenu(input_frame, self.post_sort, "Top (All Time)", "Top (Year)", "Top (Month)", "Hot", "New")
-        sort_menu.grid(row=2, column=1, padx=10, pady=5, sticky='ew')
+        sort_menu.grid(row=2, column=1, padx=10, pady=5, sticky="ew")
 
-        # Simplified status frame
+        # Input for technical keywords
+        Label(input_frame, text="Technical Keywords:").grid(row=3, column=0, padx=10, pady=5, sticky="ne")
+        self.technical_keywords_text = Text(input_frame, height=5, wrap="word")
+        self.technical_keywords_text.insert("1.0", self.default_technical_keywords)
+        self.technical_keywords_text.grid(row=3, column=1, padx=10, pady=5, sticky="ew")
+
+        # Input for reputation keywords
+        Label(input_frame, text="Reputation Keywords:").grid(row=4, column=0, padx=10, pady=5, sticky="ne")
+        self.reputation_keywords_text = Text(input_frame, height=3, wrap="word")
+        self.reputation_keywords_text.insert("1.0", self.default_reputation_keywords)
+        self.reputation_keywords_text.grid(row=4, column=1, padx=10, pady=5, sticky="ew")
+
+        # Input for exclude keywords
+        Label(input_frame, text="Exclude Keywords:").grid(row=5, column=0, padx=10, pady=5, sticky="ne")
+        self.exclude_keywords_text = Text(input_frame, height=3, wrap="word")
+        self.exclude_keywords_text.insert("1.0", self.default_exclude_keywords)
+        self.exclude_keywords_text.grid(row=5, column=1, padx=10, pady=5, sticky="ew")
+
+        # Input for relevant flairs
+        Label(input_frame, text="Relevant Flairs:").grid(row=6, column=0, padx=10, pady=5, sticky="ne")
+        self.relevant_flairs_text = Text(input_frame, height=2, wrap="word")
+        self.relevant_flairs_text.insert("1.0", self.default_relevant_flairs)
+        self.relevant_flairs_text.grid(row=6, column=1, padx=10, pady=5, sticky="ew")
+
+        # Status frame
         status_frame = ttk.LabelFrame(root, text="Status")
-        status_frame.grid(row=1, column=0, columnspan=2, padx=10, pady=5, sticky='nsew')
-        status_frame.grid_columnconfigure(0, weight=1)
-
+        status_frame.grid(row=1, column=0, columnspan=2, padx=10, pady=5, sticky="nsew")
         self.status_var = StringVar(value="Ready")
-        self.status_label = Label(status_frame, textvariable=self.status_var, 
-                                wraplength=750, justify='left', 
-                                font=('TkDefaultFont', 10))
-        self.status_label.grid(row=0, column=0, padx=10, pady=5, sticky='w')
+        Label(status_frame, textvariable=self.status_var, wraplength=750, justify="left").grid(row=0, column=0, padx=10, pady=5, sticky="w")
 
-        # Rename and update Posts Display
+        # Posts display
         posts_frame = ttk.LabelFrame(root, text="Post Processing Info")
-        posts_frame.grid(row=2, column=0, columnspan=2, padx=10, pady=5, sticky='nsew')
+        posts_frame.grid(row=2, column=0, columnspan=2, padx=10, pady=5, sticky="nsew")
         posts_frame.grid_columnconfigure(0, weight=1)
-        posts_frame.grid_rowconfigure(0, weight=1)
-
-        self.posts_display = Text(posts_frame, height=10, wrap='word')
-        self.posts_display.grid(row=0, column=0, padx=5, pady=5, sticky='nsew')
-        
-        # Add scrollbar to posts display
-        scrollbar = ttk.Scrollbar(posts_frame, orient='vertical', command=self.posts_display.yview)
-        scrollbar.grid(row=0, column=1, sticky='ns')
+        self.posts_display = Text(posts_frame, height=10, wrap="word")
+        self.posts_display.grid(row=0, column=0, padx=5, pady=5, sticky="nsew")
+        scrollbar = ttk.Scrollbar(posts_frame, orient="vertical", command=self.posts_display.yview)
+        scrollbar.grid(row=0, column=1, sticky="ns")
         self.posts_display.configure(yscrollcommand=scrollbar.set)
-        
+
         # Progress bar
-        self.progress = ttk.Progressbar(root, mode='determinate', maximum=100)
-        self.progress.grid(row=3, column=0, columnspan=2, padx=10, pady=5, sticky='ew')
+        self.progress = ttk.Progressbar(root, mode="determinate", maximum=100)
+        self.progress.grid(row=3, column=0, columnspan=2, padx=10, pady=5, sticky="ew")
 
-        # Button frame (moved to row 4)
+        # Buttons
         button_frame = ttk.Frame(root)
-        button_frame.grid(row=4, column=0, columnspan=2, pady=10, sticky='ew')
-        button_frame.grid_columnconfigure(0, weight=1)
-
+        button_frame.grid(row=4, column=0, columnspan=2, pady=10, sticky="ew")
         self.fetch_button = ttk.Button(button_frame, text="Fetch Posts", command=self.start_fetch)
         self.fetch_button.grid(row=0, column=0)
+
+    def get_user_keywords(self):
+        """Fetch and process user-provided keywords."""
+        technical_keywords = set(self.technical_keywords_text.get("1.0", END).strip().split(", "))
+        reputation_keywords = set(self.reputation_keywords_text.get("1.0", END).strip().split(", "))
+        exclude_keywords = set(self.exclude_keywords_text.get("1.0", END).strip().split(", "))
+        relevant_flairs = set(self.relevant_flairs_text.get("1.0", END).strip().split(", "))
+
+        
+        return technical_keywords, reputation_keywords, exclude_keywords, relevant_flairs
+        
+
+    def start_fetch(self):
+        self.fetch_button.config(state="disabled")
+        self.progress.start(10)
+        self.posts_display.config(state="normal")
+        self.posts_display.delete(1.0, END)
+        self.posts_display.config(state="disabled")
+
+        # Fetch updated keywords from GUI
+        technical_keywords, reputation_keywords, exclude_keywords, relevant_flairs = self.get_user_keywords()
+
+        # Start a new thread and pass arguments using `args`
+        thread = threading.Thread(
+            target=self.threaded_fetch,
+            args=(technical_keywords, reputation_keywords, exclude_keywords, relevant_flairs)
+        )
+        thread.daemon = True
+        thread.start()
+
 
     def update_status(self, message):
         self.status_var.set(message)
@@ -583,23 +649,23 @@ class RedditFetcherApp:
         self.posts_display.see(END)
         self.posts_display.config(state='disabled')
 
-    def start_fetch(self):
-        self.fetch_button.config(state='disabled')
-        self.progress.start(10)
-        self.posts_display.config(state='normal')
-        self.posts_display.delete(1.0, END)
-        self.posts_display.config(state='disabled')
+    # def start_fetch(self):
+    #     self.fetch_button.config(state='disabled')
+    #     self.progress.start(10)
+    #     self.posts_display.config(state='normal')
+    #     self.posts_display.delete(1.0, END)
+    #     self.posts_display.config(state='disabled')
         
-        # Configure text tags for colors
-        self.posts_display.tag_configure("accepted", foreground="green")
-        self.posts_display.tag_configure("filtered", foreground="red")
+    #     # Configure text tags for colors
+    #     self.posts_display.tag_configure("accepted", foreground="green")
+    #     self.posts_display.tag_configure("filtered", foreground="red")
         
-        # Start fetching in a separate thread
-        thread = threading.Thread(target=self.threaded_fetch)
-        thread.daemon = True
-        thread.start()
+    #     # Start fetching in a separate thread
+    #     thread = threading.Thread(target=self.threaded_fetch)
+    #     thread.daemon = True
+    #     thread.start()
 
-    def threaded_fetch(self):
+    def threaded_fetch(self, technical_keywords, reputation_keywords, exclude_keywords, relevant_flairs):
         subreddit_name = self.subreddit_name.get()
         post_limit = self.post_limit.get()
         post_sort = self.post_sort.get()
@@ -612,31 +678,38 @@ class RedditFetcherApp:
             loop = asyncio.new_event_loop()
             asyncio.set_event_loop(loop)
             reddit = loop.run_until_complete(create_reddit_instance())
-            
+
+            # Dynamically inject updated keywords
+            global TECHNICAL_KEYWORDS, REPUTATION_KEYWORDS, EXCLUDE_KEYWORDS, RELEVANT_FLAIRS
+            TECHNICAL_KEYWORDS = technical_keywords
+            REPUTATION_KEYWORDS = reputation_keywords
+            EXCLUDE_KEYWORDS = exclude_keywords
+            RELEVANT_FLAIRS = relevant_flairs
+
             status_callback = StatusCallback(self)
-            
+
+            # Pass updated variables to the async function
             success = loop.run_until_complete(
                 fetch_posts_and_comments(
-                    reddit, 
-                    subreddit_name, 
-                    post_limit, 
+                    reddit,
+                    subreddit_name,
+                    post_limit,
                     post_sort,
-                    status_callback
+                    status_callback,
                 )
             )
-            
+
             loop.run_until_complete(reddit.close())
             loop.close()
 
             if success:
-                # self.finish_fetch(f"Successfully fetched data for r/{subreddit_name}")
-                # Set progress to 100% after completion
-                pass
+                self.finish_fetch(f"Successfully fetched data for r/{subreddit_name}")
             else:
                 self.finish_fetch("Failed to fetch data. Check the status messages above.")
-                
+
         except Exception as e:
             self.finish_fetch(f"Error: {str(e)}")
+
 
     def finish_fetch(self, message):
         self.root.after(0, self._finish_fetch_gui, message)
