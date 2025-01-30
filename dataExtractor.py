@@ -3,7 +3,7 @@ import csv
 import json
 import praw
 import tkinter as tk
-from tkinter import ttk, filedialog, messagebox
+from tkinter import ttk, messagebox
 from threading import Thread
 from datetime import datetime, timezone
 from dotenv import load_dotenv
@@ -143,7 +143,8 @@ class RedditFetcher:
     def save_data(subreddit, query, posts, JSON_DUMP=False):
         if not posts:
             return
-
+        
+        query = query.replace('"', "").replace("'", "")
         folder_name = f"data_{subreddit}"
         if query:
             folder_name = f"data_{subreddit}/{query.replace(' ', '_').encode('ascii', 'ignore').decode()}"
