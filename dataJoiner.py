@@ -15,13 +15,16 @@ def main():
 
     # Walk through parent_folder and find subfolders containing data_<x>.csv & query.txt
     for root, dirs, files in os.walk(parent_folder):
-        print(f"Processing folder: {root}...")
+        
 
         csv_files = [f for f in files if f.lower().endswith(".csv")]
         txt_files = [f for f in files if f.lower().endswith(".txt")]
 
         # We expect exactly one CSV (e.g. data_<x>.csv) and one query.txt in each subfolder
         if len(csv_files) == 1 and len(txt_files) == 1:
+
+            print(f"Processing folder: {root}...")
+
             csv_path = os.path.join(root, csv_files[0])
             txt_path = os.path.join(root, txt_files[0])
 
@@ -80,6 +83,7 @@ def main():
     output_csv = "combined_data.csv"
     combined_df.to_csv(output_csv, index=False)
     print(f"Combined CSV successfully saved as {output_csv}")
+    print(f"File size: {os.path.getsize(output_csv)/(1024*1024):.2f} MB")
     print("="*50)
 
 if __name__ == "__main__":
