@@ -4,7 +4,6 @@
 # Ignore Data Folders
 data_reddit_*
 reddit_data_*
-data_*
 
 # Ignore .venv
 .venv

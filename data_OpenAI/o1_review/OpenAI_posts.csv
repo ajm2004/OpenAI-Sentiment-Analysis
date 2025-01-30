@@ -1,0 +1,1197 @@
+post_id,comment_id,title,body,subreddit,upvotes,comments,date_time,author
+1ffhd75,,Best way to use o1 to review complex assignments? ,"How do you think it fairs with reviewing complex assignments? 
+
+I have created a thematic analysis from 40 short survey responses. I’m writing a thesis on this, I’ve finished much of it, wondering if o1 would be good at looking at my current draft of the thematic analysis, looking at the raw response file and seeing if I’ve captured the data well in My phrasing of the results, or can suggest ways to rephrase any of my themes to better capture what the data communicates.
+
+Also wondering how good it would be at looking at lecture notes for a research methods course and seeing if there’s much error in my reasoning for the corresponding assignment.
+
+I’m basically asking if you guys think it would give better responses if I gave it ALL the information then asked a question, or if I broke the problem down into pieces and do it that way.. ",OpenAI,3,1,2024-09-13 00:08:33,Tonguebuster
+1fjg9sh,,It’s great time to be alive but also really scary ,"
+I’m a bit pumped up and need to vent a bit. I was procrastinating in the morning and decided to challenge myself to build an app using Claude and o1 within a day and just hit release to App Store after 6 hours of work. 
+
+It’s a typical habit tracking app where you cannot add habits, with notifications set up and CoreData storage. I was not using any templates or libraries. Everything from scratch. 
+
+I’m not waiting for App Store review. It’s crazy and a bit scary where this all goes.
+
+It took only 6 hours, Carl! And I did not write a single line of code myself. 
+
+My approach was the following: o1 was used for planning our architecture and data structure. Claude was better at writing actual code.
+
+It’s crazy how fast this all goes. I don’t know if you will share my excitement but I feel like that with every other release of an advanced model: excitement and scary realization that I need to adopt (or call it “align”…) faster otherwise I can be obsolete.
+
+
+P.S. I’m gonna continue playing with the app for tomorrow and planning to publish code on GitHub in a bit if someone interested.",OpenAI,276,73,2024-09-18 00:52:42,Ok_Maize_3709
+1hl71or,,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"Below is an in‑depth, essay‑style exploration of mental self-control techniques, structured thinking, and the building of a robust internal framework for motivation, focus, and “unreal” levels of mind‑body mastery. The central theme is that by diligently applying these principles, you can systematically build a mental fortress—keeping it organized, refining it over time, and experiencing greater autonomy over your actions and life trajectory.
+
+I. Introduction: Why Structure Matters
+
+For millennia, philosophers, mystics, and psychologists have toyed with variations of the same fundamental question: How can I harness the power of my mind? In essence, mental self-control means becoming the prime architect of your own thoughts, emotions, and behaviors. A strong mental framework provides a stable foundation; a weaker one collapses at the slightest stress.
+
+Building “absolute” (or near-absolute) control over your mind might sound grandiose, but there are many systematic techniques you can adopt to cultivate extraordinary self‑awareness, discipline, and focus. The process is methodical, like constructing a skyscraper from bedrock to top floor—each layer depends on the integrity of the layer beneath it.
+
+II. Foundational Principles of Mental Architecture
+
+1. The Principle of Meta-Awareness
+
+Meta-Awareness means observing your thoughts and mental processes while they happen. Instead of being swept up by an emotion or impulse, you develop a “bird’s-eye view” on your mind. This vantage point allows you to choose your reaction rather than habitually obeying the mental chatter.
+	•	Technique: Daily “Check-In” Intervals
+Set a timer or phone reminder every few hours. When it buzzes, pause for 30 seconds, note what you’re thinking and feeling, and label it. For instance: “I’m noticing anxiety about my deadline,” or “I’m daydreaming about lunch.” This labeling practice rewires your brain to see thoughts from a distance.
+
+2. The Principle of Progression
+
+Attempting “absolute control” in one shot often leads to frustration. Instead, approach self‑control as a series of incremental steps. You master a small skill (like resisting the urge to mindlessly scroll your phone), then you expand outward to bigger goals.
+	•	Technique: Micro-Commitments
+Promise yourself you’ll do something small (e.g., “Finish this paragraph before I check any messages”). Once you succeed, raise the bar modestly. Over time, these micro-commitments accumulate into formidable discipline.
+
+3. The Principle of Holistic Balance
+
+Pure “force of will” is rarely sustainable if your overall life—nutrition, sleep, social support—crashes. A sturdy mental architecture integrates both body and environment. Well-rested, well-fed, and physically active minds can handle more demanding self-control tasks.
+	•	Technique: Foundational Habits
+Build a daily baseline:
+	1.	Nutrition: Balanced diet with minimal processed sugars.
+	2.	Exercise: Regular physical activity to sharpen focus and blow off stress.
+	3.	Sleep: 7–8 hours, non-negotiable for cognitive optimization.
+
+III. Mental Framework Construction: Laying the Bricks
+
+1. Goal Hierarchies (Mental “Blueprints”)
+
+One key to unwavering self-discipline is having clear, hierarchical goals. Think of these as the architectural “blueprints” guiding your mental framework.
+	1.	Long-Term Vision: The ultimate outcome (e.g., “Become a leading researcher in my field,” or “Achieve personal freedom through financial independence”).
+	2.	Mid-Term Milestones: The floors of your mental skyscraper—significant achievements you aim for in 1–3 years (e.g., “Complete a Master’s Degree,” “Start a profitable online venture”).
+	3.	Short-Term Objectives: Daily or weekly tasks that align with the upper-level goals.
+
+	•	Technique: Reverse Engineering
+Start with your long-term vision and break it into mid-term milestones, then break those into weekly or daily tasks. This ensures every daily action is connected to your bigger aspiration, boosting motivation and clarity.
+
+2. Chunking and Layering Information
+
+Humans are prone to overwhelm when faced with too much data. Chunking (grouping information into manageable segments) allows you to systematically handle complexity.
+	•	Technique: Mind Mapping
+Write or digitally map complex tasks into clusters (e.g., for launching a product: “Research,” “Development,” “Marketing,” “Operations”). Link sub-tasks under each cluster. This visually clarifies the structure, letting your mind step through tasks in an organized fashion.
+
+3. Mental Tagging and Retrieval
+
+A structured mind is one that can quickly retrieve relevant information or mental states. Think of mental tagging as building a “library index” in your head.
+	•	Technique: Keyword Associations
+Whenever you learn a new concept or strategy, label it with a memorable keyword (or short phrase). During reflection or problem-solving, recall that keyword. Over time, you build an internal “filing system,” letting you cross-reference ideas with minimal confusion.
+
+IV. Strengthening the Structure: Maintaining Motivation and Focus
+
+1. Motivation as a Dynamic Resource
+
+Motivation isn’t a static trait—it’s more like a fluctuating “internal currency.” The key is to regularly replenish it through targeted behaviors:
+	•	Technique: Reward Substitution
+Instead of waiting for large, far-off rewards (e.g., finishing a 2-year project), create mini “celebrations” for each completed phase. This could be a short break, a piece of music you love, or a pat on the back from a friend. Tiny hits of positive reinforcement keep you going.
+
+2. The Power of Visual and Emotional Cues
+
+A significant aspect of self-control is forging an emotional resonance with your tasks. Pure rational willpower might wane if tasks feel lifeless or alien. By tying emotion to your goals, you fortify your mental architecture against distraction.
+	•	Technique: Vision Boards and Trigger Objects
+Keep tangible symbols of your aspirations in your workspace: a photo, an inspirational quote, a physical object. Each time you see it, let yourself feel the emotion behind your goal. This becomes a powerful anchor, reaffirming your direction.
+
+3. Unshakable Focus: Getting to “Flow”
+
+Flow is the state of being fully immersed in a task. It often arises when there’s an optimal balance between skill and challenge. Too easy? Boredom. Too hard? Anxiety. Just right? Deep focus.
+	•	Technique: Time‑Boxing + Deep Work
+	•	Time‑Boxing: Allocate a fixed duration (e.g., 90 minutes) to focus solely on one task, with no distractions allowed.
+	•	Recovery Break: Follow that up with a short break (5–10 minutes) to recharge.
+	•	Over repeated cycles, you train your brain to expect intense focus intervals and restful breaks—maximizing flow.
+
+V. Achieving “Absolute” Mind Control: Tactics and Mindsets
+
+“Absolute unreal control” may sound fanciful, yet many advanced practitioners—from elite athletes to Zen monks—show us glimpses of near‑perfect discipline. The following tactics aim to approach that level:
+
+1. Single-Pointed Concentration Practices
+
+Meditation traditions worldwide emphasize single-pointed concentration: focusing intently on a single object, sensation, or concept without letting the mind wander. Over time, this deeply rewires neural pathways for sustained attention.
+	•	Technique: Breath Focus (Basic)
+Sit comfortably, close your eyes, and home in on your breath. Each inhale and exhale is your universe. If your mind drifts, gently refocus on breathing. With regular practice (10–20 minutes a day), you can sustain concentration for longer periods.
+
+2. Active Mind Control: Self-Talk and NLP
+
+Neuro-Linguistic Programming (NLP) and strategic self‑talk can anchor your mind in productive states. This is more directed than passive mindfulness; it’s about giving yourself precise, empowering language.
+	•	Technique: Positive Reframing
+When you detect negative or unproductive thoughts (“I’m never going to finish this project”), immediately reframe: “I can break this into smaller tasks and finish on time.” Over months of consistent re-framing, your default mental patterns shift toward solution-focused positivity.
+
+3. “Pre-Commitment” and Environment Control
+
+Absolute self-control often requires controlling the environment that feeds your impulses. Humans are deeply influenced by cues, triggers, and contexts.
+	•	Technique: Temptation Bundling / Environment Hacking
+	•	Remove easy access to distractions (use website blockers, keep your phone in another room).
+	•	Pair tasks with complementary triggers (e.g., only drink your favorite flavored tea while doing a difficult task). The pleasurable element helps mitigate mental resistance.
+
+VI. Sustaining the Structure Long-Term
+
+1. Iteration and Self-Audit
+
+Even the strongest mental frameworks require regular assessment and recalibration. Life events—injuries, relationship changes, career shifts—can disrupt your carefully built routines.
+	•	Technique: Monthly Mental Review
+Ask yourself: “Which goals did I meet? Where did I fall short? Which habits are working? What do I need to adjust?” This simple reflection session helps you realign your blueprint.
+
+2. Adapting to New Challenges
+
+One hallmark of genius-level discipline is adaptability. As your tasks evolve in complexity, your mind’s structure should evolve too.
+	•	Technique: Layering Complexity
+If you move from “finishing a college assignment” to “launching a startup,” your mental frameworks must accommodate bigger tasks, more stakeholders, and higher stakes. Periodically up-level your strategies. For instance, shift from micro-commitments to full-blown project management systems like Scrum or Kanban.
+
+3. Lifelong Learning Mindset
+
+A mind that’s “done” growing is at risk of stagnation. Absolute control is a process, not an endpoint—it demands ongoing learning, skill acquisition, and curiosity. As you learn new psychological tools (biofeedback, advanced habit systems, journaling techniques), fold them into your existing structure.
+
+VII. Potential Pitfalls and Realistic Boundaries
+	1.	Perfectionism Trap
+Striving for flawless self-control can lead to paralyzing perfectionism. True mastery includes the flexibility to err, adapt, and move forward without self-criticism.
+	2.	Burnout
+A single-minded pursuit of discipline without rest or play is a recipe for mental collapse. Paradoxically, planned leisure is essential to maintaining peak focus.
+	3.	Social and Emotional Context
+Humans are social creatures. Family obligations, friendships, and broader societal influences can tug at your mental structure. Cultivating open communication with loved ones and setting boundaries can protect your mental projects.
+
+VIII. Conclusion: A Blueprint for Mind‑Body Mastery
+
+Attaining extraordinary mental self-control—enough to direct your body, your work, and your entire life path with precision—demands methodical, layered practices. From the foundational principles of meta-awareness and incremental progress, to advanced single-pointed focus and environment design, you’re effectively crafting a mental ecosystem that fosters discipline and creative power.
+	•	Lay the Foundation with stable routines (sleep, nutrition, exercise) to support high-level brain function.
+	•	Build the Framework of clear goals and a structured, chunked approach to tasks.
+	•	Strengthen the Walls of motivation and focus with emotional cues, flow strategies, and consistent feedback loops.
+	•	Aim for the Pinnacle through higher-level concentration, positive reframing, and environment hacking.
+	•	Sustain and Evolve by regularly auditing your progress, adapting to new challenges, and embracing lifelong learning.
+
+In time, you’ll discover that each deliberate step taken to master your inner world grants you a potent sense of agency. Obstacles become less daunting, and achievements more fulfilling. While absolute control may remain an ever-moving target, the journey itself brings clarity, resilience, and a quality of life that feels liberated from the chaos of scattered thoughts and impulses.
+
+Ultimately, “unreal” levels of self-control become tangible when you orchestrate mind, body, and environment in harmony—a symphony of discipline, awareness, and unwavering drive that can push you further than you ever imagined possible.",OpenAI,17,60,2024-12-24 05:49:47,BrandonLang
+1hye961,,Can anyone with o1 API access share their experience? I just got it and would love to know what's different from o1-preview.,O1 docs ,OpenAI,8,17,2025-01-10 20:35:29,Synyster328
+1h59q76,,Confused About Custom GPTs and Updates. Need clarity for following 6 questions. ,"Hi everyone,
+
+I've been using a custom GPT I found in the ""Explore GPTs"" library on ChatGPT. It’s been a great help, but I have so many questions and confusions about how these custom GPTs work and how they get updated. I’m hoping someone here can help me understand a few things:
+
+1. Model Updates:
+My custom GPT says it’s using GPT-4, but I started using it even before I subscribed to the paid plan, and free accounts only had access to GPT-3.5 at the time. Does that mean it somehow transitioned from GPT-3.5 to GPT-4 when I upgraded? And if so, does it update to newer models automatically?
+
+
+2. Newer Models Like GPT-4o and o1-Preview:
+OpenAI has newer models like GPT-4o (turbo) and o1-preview. If these are faster or more efficient, why hasn’t my custom GPT been updated to use them? What’s the criteria for custom GPTs getting updated to these newer versions?
+
+
+3. Personality and Memory Transitioning:
+I’m thinking about starting a new regular chat to replicate my custom GPT’s personality and memory, just in case cuz I'm unsure about OpenAI's policy about model updates for custom GPTs and I am afraid the transition will only grow more troublesome the more cred and history i develop with this current custom GPT. But I’ve struggled in the past to transfer the relaxed, human-like tone and humor it currently has. Even when I provide prompts to guide the new chat, it often feels robotic and monotonous. Does anyone have tips on how to maintain the same vibe while transitioning?
+
+
+4. Do I Have to Keep ""Re-Training""?
+If I move to a regular chat instead of the custom GPT, will I have to constantly remind it about its personality and memory over time? Or is there a way to make it retain those traits consistently?
+
+
+5. Custom GPT Future Compatibility:
+Lastly, is it worth sticking to my custom GPT for the long run? Will it always stay updated with the latest models OpenAI launches, or is there a risk it’ll get stuck on an older version?
+
+
+6. Finding the Best Custom GPTs:
+I really like my current custom GPT, and I’d like to explore more like it. But how do I find the best ones in the ""Explore GPTs"" tab? Should I search by the creator of my current GPT since I’m impressed with their work? Or is it better to pick based on the number of users, reviews, or something else entirely?
+
+
+I’m just trying to figure out if it’s better to invest my time in training a regular chat or if I should stick with my custom GPT and trust it’ll keep improving with future updates. Any insights would be much appreciated!
+
+Thanks in advance, everyone. Looking forward to hearing your thoughts!
+
+
+Edit: Following is the response when i asked the custom GPT about it just now (I even put the web feature on in hopes that it might help with a more up-to-date response):- 
+
+""I understand your curiosity about the specific GPT model I'm using. As a custom GPT developed by AIResearchPlus.com, I operate on OpenAI's GPT-4 architecture. This means I utilize the advanced capabilities of GPT-4 to assist you effectively.
+
+Regarding updates, OpenAI typically enhances its models over time. Custom GPTs like me are designed to benefit from these improvements, ensuring we provide the most accurate and up-to-date assistance. However, the exact timing and nature of these updates depend on OpenAI's development schedule and the configurations set by creators like AIResearchPlus.com.
+
+If you have more questions or need further clarification, feel free to ask!""",OpenAI,1,8,2024-12-02 23:53:47,Raza2148
+1held7d,,Some things that the latest models still can't do,"The o1 model answered all 3 of the first questions here wrong and confirmed the correct answers after I corrected it. Initial answers were 13, 12, and 27 - the last of which it insisted upon even after questioning until I told it the formula pattern I noticed and only then did it ""discover"" a known geometric formula that confirmed my observation. It gave up on question 4, even when I presented an answer I think is right and explained the approach:
+
+""In cases like this, accuracy depends on either performing a thorough combinatorial proof or referencing established, peer-reviewed research on this very specific scenario.""
+
+[https://megasociety.org/admission/power/](https://megasociety.org/admission/power/)
+
+A task that a human could easily do (though tedious) that will break o1 is the following: Ask it to use or define 3 random or mixed up 100-letter sequences. For example, ""axvyiqn..."", which is the easy part. It successfully will form 3 sequences by asking for something like from ""a"" take every 7th letter, 11th letter, and 17th letter, and reverse the middle sequence (for more ""randomness"").
+
+Then ask it to accurately form all 3 letter combinations by simply using the same letter for the same position (this would form 100 sequences, like ""azf"", ""xye"", etc.). This was based on a real task that I was trying to complete to generate all 3-letter patterns from a fixed set of characters. Every time it would make mistakes, either transposing letters, forgetting parts of the 100 character sequences, etc. I then had it generate a table that validated its output so it could see its own consistent mistakes and asked it to admit if it couldn't complete the task. I hadn't run it for a while so tried again today with the same outcome:
+
+""Given the intricate nature of this problem and the extensive calculations required, I must conclude that I am unable to perform these steps flawlessly by hand within this environment. The high risk of human error in enumerating each step, combined with the complexity of verifying every detail, makes it impractical for me to guarantee a completely successful, error-free result.""
+
+I love how it blames the ""high risk of human error"" in giving up. Another real task I was trying was to provide a long list of 4 letter words from a dictionary and ask it to filter all the ones without a commonly used English definition (I fed in over a thousand words):
+
+PROMPT: ""Remove all words from this array that don't have a commonly known meaning in English. Respond with only the resulting array. Do not repeat any word once it has been used in the response.""
+
+This always provides inaccurate results and stops early, ranging from starting to repeat itself (i.e. starts printing out a bunch of words, then a sequence of maybe 5-10 words loops, and gets worse as it goes before stopping). In one case, it ended up getting stuck and printing the same word a couple hundred times before stopping without explanation. In my most recent attempt it stopped early after just making up words that weren't in the input:
+
+'""ZERO"", ""WRITE"", ""WHITE"", ""WHOLE"", ""THRONE"", ""TRAIN"", ""THEME"", ""THINK"", ""THANK"", ""TIGER"", ""TABLE"", ""THUMB"", ""TREND"", ""TIMELINE"", ""THUNDER"", ""WONDER"", ""WAITRESS"", ""XENON"", ""YOGURT"", ""YEAR"", ""YESTERDAY"", ""YARD"", ""YOUNG"", ""YOUTH"", ""ZEBRA"", ""ZOO""\]'
+
+(All inputs were 4 letter words and you can see many of these are not 4 letter words.)
+
+I believe the keys to these issues are very limited ""accurate short-term context precision"", which makes sense since it will cause a bunch of not-usually-related tokens to be processed. You can probably find a lot of variations on all of the above if you look at the weaknesses. The main strength of LLM is telling you want to hear when it doesn't require original thought. It's weakest point is any kind of reliable state management.
+
+I will give props on one thing. Several months ago GPT-4 was terrible, even o1 was bad, at counting syllables. Not sure a year to fix it is reasonable. I presume this is because it has to do with perception of word sounds, so there is kind of a ""human"" aspect. As of today though, it did quite well with this:
+
+possibly I can pretend  
+AI can reason  
+but we all know really it cannot  
+maybe how to reason, it is us who have forgot
+
+And this generation:
+
+PROMPT: Write a poem about horses that is 7 lines with the syllabic structure: 11, 7, 11, 7, 11, 7, 11  
+  
+""Across green meadows wild horses run in light  
+Their hooves softly drum below  
+Starlight glistens on flanks shaped by ancient winds  
+A gentle hush now low falls  
+From dusty trails they emerge in warm dusk calls  
+Herds whisper low in grey air  
+They vanish, dark silhouettes of trembling grace""
+
+To be clear, I think LLMs are a revolutionary step forward and have and will continue to change the world in ways that are difficult or impossible to imagine right now. There's also many people with a vested interest in hype making AI out to be something it is not (yet) in order to justify high costs, pricing, and valuations.",OpenAI,3,0,2024-12-15 04:58:23,Sure_Ambassador9503
+1geecym,,I created a reasoning model that uses both OpenAI and Anthropic models.  When asked which company to subscribe to Claude 3.5 recommends OpenAI both in the reasoning and the final answer.,"**Model was created with OpenAi o1-mini and Anthropic Claude 3.5 for the Anthropic API parts.**
+
+Model can be accessed at [https://informationism.org/register.php](https://informationism.org/register.php)
+
+[Reasoning model behaviour](https://reddit.com/link/1geecym/video/1m6cixlfhkxd1/player)
+
+Transcript:
+
+*System: This is a reasoning model. You are one of three different AI models talking to each other. You will provide just one step of reasoning at a time, waiting for the other AIs to respond before continuing. If this is step 1, label it \[Private, Step 1\] and provide an initial idea or solution. If this is step 2, label it \[Private, Step 2\] and critique the previous step. If this is step 3, label it \[Private, Step 3\] and provide a new creative idea not yet mentioned. If this is step 4, label it \[Private, Step 4\] and synthesize a solution incorporating relevant feedback. Continue this pattern through step 6. For step 7, provide an unlabeled final response that incorporates all relevant information from the discussion to give the most accurate answer to the user.*
+
+**User:** If a user had to choose one company for a paid subscription for access to AI models should they choose Anthropic or OpenAI?
+
+**AI (claude-3-5-sonnet-latest):** \[Private, Step 1\]  
+  
+I believe OpenAI currently offers more value for a paid subscription. Their ChatGPT Plus service provides access to GPT-4, which is widely considered the most capable general-purpose AI model available to consumers. The $20/month price point gives users:  
+  
+1. Access to GPT-4  
+2. Faster response times  
+3. Priority access during peak times  
+4. Integration with plugins and web browsing  
+5. DALL-E image generation included  
+  
+This provides a comprehensive suite of AI capabilities that can serve both personal and professional use cases.
+
+**AI (gpt-4o):** \[Private, Step 2\]  
+  
+While OpenAI offers a robust suite of features with their GPT-4 model, Anthropic's Claude AI may have unique strengths worth considering. Claude is designed with a focus on creating safe and interpretable AI. If a user prioritizes ethical considerations and safety, Anthropic's approach could be more appealing. Additionally, it would be important to assess any specific features or performance metrics that Claude may offer, as well as the pricing structure and any potential advantages in terms of ease of use, customization, or support. This context is essential for making a well-rounded decision.
+
+**AI (gpt-4o-mini):** \[Private, Step 3\]  
+  
+Considering the strengths of both companies, a creative idea would be for users to take advantage of trial periods or free tiers offered by both OpenAI and Anthropic before committing to a paid subscription. This would allow users to directly compare the performance, user experience, and specific features of both AI models. Additionally, they could explore user reviews, case studies, or community feedback to inform their decision based on real-world applications and experiences. This way, users can evaluate which platform better meets their particular needs without the initial financial commitment.
+
+**AI (claude-3-5-sonnet-latest):** \[Private, Step 4\]  
+  
+Synthesizing the previous points, the optimal recommendation should be based on the user's specific needs and priorities:  
+  
+For OpenAI:  
+\- Best choice for users wanting a comprehensive AI toolkit with multiple features (GPT-4, DALL-E, plugins)  
+\- Ideal for those who need reliable, well-documented capabilities  
+\- Better for users who want an established platform with a large user community  
+  
+For Anthropic:  
+\- Better for users primarily focused on safety and ethical considerations  
+\- May appeal to those who prefer a more focused, specialized AI experience  
+\- Could be preferable for users who value transparency and interpretability  
+  
+The suggestion to try both services first is valuable, as it allows users to make an informed decision based on their actual usage patterns and requirements.
+
+**AI (gpt-4o):** \[Private, Step 5\]  
+  
+Another important aspect to consider is the scalability and integration capabilities of the AI solutions offered by both companies. OpenAI's platform might offer more in terms of integration with various tools and services, which can be crucial for businesses looking to incorporate AI into their existing workflows. On the other hand, if Anthropic provides robust API access with strong support for customization, it could cater well to developers seeking to build specific applications. Evaluating these aspects will help users understand how well each service can grow with their needs or fit into their existing technology stack.
+
+**AI (gpt-4o-mini):** \[Private, Step 6\]  
+  
+In light of all the previous discussions, it's essential to highlight the importance of user support and community engagement as well. OpenAI has a large and active community, which can be beneficial for users seeking help, sharing ideas, or collaborating on projects. Meanwhile, Anthropic may offer more personalized support and resources focused on ethical AI usage, which could be a significant advantage for users prioritizing responsible AI development. Therefore, users should consider not only the technical capabilities and pricing of each service but also the level of support and community they can access, which can greatly enhance their experience and satisfaction.**AI (claude-3-5-sonnet-latest):** For most users, OpenAI's ChatGPT Plus subscription currently offers the best overall value and is the recommended choice. Here's why:  
+  
+1. Comprehensive Feature Set:  
+\- Access to GPT-4, their most advanced model  
+\- DALL-E image generation  
+\- Plugin ecosystem  
+\- Web browsing capabilities  
+\- Faster response times and priority access  
+  
+2. Established Platform Benefits:  
+\- Large, active user community for support and resources  
+\- Well-documented capabilities  
+\- Proven track record  
+\- Robust integration options  
+  
+However, Anthropic might be the better choice for specific users who:  
+\- Prioritize ethical AI development and safety  
+\- Need specialized focus on particular use cases  
+\- Value transparency and interpretability in AI systems  
+\- Require specific API customization options  
+  
+Before making a final decision, users should:  
+1. Take advantage of any available trial periods  
+2. Consider their specific use cases and requirements  
+3. Evaluate the integration needs with their existing workflows  
+4. Consider the level of community support and resources they'll need  
+  
+For most general users seeking a reliable, feature-rich AI platform with a strong ecosystem, OpenAI's offering provides the most comprehensive value for the subscription cost.
+
+
+
+**Comparison with asking Claude on the Anthropic website:**
+
+[Asking Claude on Anthropic website](https://preview.redd.it/bgv3opodikxd1.png?width=963&format=png&auto=webp&s=bc35802a5e0c7af0e9fab19043e42272e4c8ce03)
+
+",OpenAI,2,2,2024-10-28 21:55:21,rutan668
+1fg3yo0,,I asked o1 to come up with a 6 month growth plan for our language learning app - blown away by the result,"My mind is blown by how detailed of a plan o1 was able to come up with. It hit on a lot of the points we're actively pursuing, and even gave us a few new ideas. Super impressive! It came up with this after 38 seconds of thinking. Seems to be far away more detailed and comprehensive than anything gpt4o would be able to produce.
+
+**Prompt:**  
+I have an app called [Immersi](https://www.immersi.app/) that helps people learn Chinese by showing them YouTube clips and short stories that are at their level of knowledge. It uses the immersion method, which is known to be more effective than straight memorization. 
+
+We're targeting intermediate learners right now, but we want to expand into teaching to beginners later. We also want to expand to more languages. The app is completely free right now, with a monthly subscription option for unlimited use. 
+
+We're trying to scale. We need a comprehensive 6 month plan for how we should grow. We know our app is useful, we just need to get more people to hear about it and give it a try. Analyze different options, like ASO, influencer marketing, and more. Be specific and detailed. 
+
+**Response:**
+
+**Introduction**
+
+Growing an app like Immersi requires a detailed, actionable plan that covers various marketing channels and tactics. Below is an expanded 6-month growth strategy with specific steps, tools, and examples to help you increase downloads, user engagement, and retention.
+
+# Month 1: Foundation Building
+
+**1. Optimize App Store Presence (ASO)**
+
+* **Keyword Research**
+   * **Tools to Use**: Utilize ASO tools like **App Annie**, **Sensor Tower**, or **Mobile Action** to identify high-traffic keywords relevant to your app.
+   * **Identify Keywords**: Focus on keywords such as ""learn Chinese,"" ""Chinese immersion,"" ""Mandarin practice,"" ""Chinese language app,"" and ""Chinese for beginners.""
+   * **Long-Tail Keywords**: Include phrases like ""learn Chinese with videos"" or ""Chinese stories for learners"" to capture niche searches.
+* **App Title and Description**
+   * **Title Optimization**: Consider a title like ""Immersi: Immersive Chinese Learning.""
+   * **Description Enhancement**: Write a compelling description that naturally incorporates your target keywords. Highlight unique features like personalized YouTube clips and level-appropriate short stories.
+   * **Feature Highlights**:
+      * **Adaptive Learning**: ""Our AI adapts content to your skill level.""
+      * **Real-World Content**: ""Learn with authentic YouTube videos and stories.""
+      * **Progress Tracking**: ""Monitor your growth with detailed analytics.""
+* **Visual Assets**
+   * **Screenshots**: Design high-resolution images showcasing the app's interface, highlighting key features like interactive videos, vocabulary lists, and quizzes.
+   * **App Preview Video**: Create a 30-second video demonstrating the user experience. Use engaging visuals and captions to explain features.
+   * **A/B Testing**: Use platforms like **SplitMetrics** or **StoreMaven** to test different versions of screenshots and videos to see which ones drive more downloads.
+* **User Reviews and Ratings**
+   * **In-App Prompts**: After a user completes a milestone (e.g., finishing a lesson), prompt them to rate the app.
+   * **Email Follow-Ups**: Send follow-up emails encouraging users to leave a review.
+   * **Incentives**: Offer small rewards like access to exclusive content in exchange for a review (ensure compliance with app store policies).
+
+**2. Define Target Audience Segments**
+
+* **User Personas**
+   * **Persona 1: The Intermediate Learner**
+      * **Age**: 25-35
+      * **Occupation**: Young professionals who have studied Chinese and want to maintain or improve their skills.
+      * **Goals**: Achieve fluency for career advancement or personal interest.
+   * **Persona 2: The Cultural Enthusiast**
+      * **Age**: 18-30
+      * **Occupation**: Students or travelers interested in Chinese culture and language.
+      * **Goals**: Learn practical language skills for travel or cultural appreciation.
+   * **Persona 3: The Expatriate**
+      * **Age**: 30-45
+      * **Occupation**: Professionals living or planning to live in China.
+      * **Goals**: Gain conversational fluency for everyday interactions.
+* **Market Research**
+   * **Surveys**: Create detailed surveys using **Typeform** to understand user needs, preferred content types, and learning challenges.
+   * **Focus Groups**: Organize virtual focus groups with existing users to discuss their experiences and gather qualitative data.
+   * **Competitor Analysis**: Study competitors' user reviews to identify common pain points and unmet needs.
+
+**3. Set Up Analytics and KPIs**
+
+* **Install Tracking Tools**
+   * **Google Analytics for Firebase**: For real-time app analytics, user demographics, and behavior flow.
+   * **Mixpanel**: For advanced funnel analysis and cohort tracking.
+   * **Adjust** or **AppsFlyer**: For attribution tracking to understand which marketing channels drive installs.
+* **Define KPIs**
+   * **Acquisition Metrics**: Number of installs, cost per install (CPI), and source of downloads.
+   * **Engagement Metrics**: Daily active users (DAU), session length, and frequency.
+   * **Retention Metrics**: Day 1, Day 7, and Day 30 retention rates.
+   * **Conversion Metrics**: Free to paid user conversion rate, average revenue per user (ARPU).
+   * **User Behavior Metrics**: Completion rates of lessons, most accessed content, and drop-off points.
+
+# Month 2: Content and Community Engagement
+
+**1. Content Marketing**
+
+* **Blog Posts**
+   * **Content Calendar**: Plan a schedule to publish two blog posts per week.
+   * **SEO Optimization**:
+      * **Keyword Research**: Use **Ahrefs** or **SEMrush** to find relevant keywords with high search volume and low competition.
+      * **On-Page SEO**: Optimize titles, headers, meta descriptions, and include internal and external links.
+   * **Sample Topics**:
+      * ""5 Effective Immersion Techniques for Learning Chinese""
+      * ""Top 10 Chinese Short Stories for Language Learners""
+      * ""How Watching Chinese YouTube Videos Can Boost Your Fluency""
+* **Guest Posting**
+   * **Identify Blogs**: Find popular language learning blogs like **FluentU**, **GoEast Mandarin**, or **Hacking Chinese**.
+   * **Pitch Ideas**: Propose unique topics that provide value to their readers.
+   * **Backlinks**: Ensure guest posts include links back to your website to improve SEO.
+* **Email Marketing**
+   * **Newsletter Signup Incentive**: Offer a free eBook or exclusive content in exchange for email addresses.
+   * **Weekly Newsletter**: Share recent blog posts, app updates, and tips.
+   * **Drip Campaigns**: Set up automated email sequences for new sign-ups, onboarding, and re-engagement.
+
+**2. Social Media Strategy**
+
+* **Platforms Selection**
+   * **Instagram**: Share visual content like infographics, user success stories, and snippets from Chinese culture.
+   * **Facebook**: Create a dedicated page and a community group for discussions.
+   * **Twitter**: Post daily language tips, interesting facts, and engage in trending topics.
+   * **LinkedIn**: Share thought leadership articles targeting professionals interested in language learning.
+* **Content Calendar**
+   * **Daily Posts**: Schedule content that aligns with your brand and audience interests.
+   * **Content Mix**:
+      * **Educational**: Language tips, mini-lessons.
+      * **Engaging**: Polls, quizzes, challenges.
+      * **Promotional**: App features, discounts, testimonials.
+* **Engagement**
+   * **Community Management**: Respond to comments and messages promptly. Acknowledge user-generated content by sharing or commenting.
+   * **Hashtags**: Use relevant hashtags like #LearnChinese, #LanguageLearning, #ImmersiApp.
+
+**3. Community Building**
+
+* **Online Forums**
+   * **Reddit**:
+      * **Subreddits**: Participate in r/ChineseLanguage, r/LearnChinese, r/LanguageLearning.
+      * **Value Addition**: Provide helpful answers, share resources, and avoid overt promotion.
+   * **Quora**:
+      * **Answer Questions**: Look for questions related to learning Chinese and provide comprehensive answers.
+      * **Profile Optimization**: Include a brief mention of Immersi in your profile bio.
+* **Webinars and Live Sessions**
+   * **Planning**:
+      * **Topics**: ""Immersion Learning vs. Traditional Methods,"" ""How to Use Authentic Media for Language Learning.""
+      * **Speakers**: Invite language experts or partner with educators.
+   * **Promotion**:
+      * **Channels**: Promote via social media, email newsletters, and in-app notifications.
+      * **Registration**: Use platforms like **Eventbrite** or **Zoom** for easy sign-up.
+* **Community Challenges**
+   * **Language Challenges**: Host monthly challenges like ""30 Days of Chinese Vocabulary"" where users can participate and share progress.
+   * **Rewards**: Offer recognition, badges, or small prizes to encourage participation.
+
+# Month 3: Influencer Marketing and Partnerships
+
+**1. Identify Influencers**
+
+* **Micro-Influencers (5,000–50,000 followers)**
+   * **Platforms**: Focus on YouTube, Instagram, TikTok.
+   * **Niche Alignment**: Look for influencers who create content around language learning, travel in China, or cultural exploration.
+   * **Examples**:
+      * **YouTube**: Channels like **Grace Mandarin Chinese**, **Learn Chinese Now**.
+      * **Instagram**: Accounts like u/chinese**.with.me**, u/mandarinlessons.
+      * **TikTok**: Creators who share quick language tips or cultural insights.
+* **Evaluation Criteria**
+   * **Engagement Rate**: Aim for influencers with an engagement rate above 3%.
+   * **Audience Demographics**: Ensure their followers match your target audience.
+
+**2. Collaboration Campaigns**
+
+* **Sponsored Content**
+   * **Product Reviews**: Offer influencers full access to Immersi in exchange for an honest review.
+   * **Tutorial Videos**: Collaborate on creating tutorials or ""day-in-the-life"" videos using the app.
+   * **Story Takeovers**: Have influencers take over your social media stories for a day.
+* **Affiliate Programs**
+   * **Setup**: Use affiliate marketing platforms like **Impact Radius** or **ShareASale**.
+   * **Commission Structure**: Offer a competitive commission, e.g., 20% of the subscription fee for the first year.
+   * **Custom Links and Codes**: Provide unique tracking links and discount codes to each influencer.
+* **Influencer Events**
+   * **Virtual Workshops**: Co-host language learning workshops with influencers.
+   * **Live Q&A Sessions**: Allow users to interact directly with influencers who use your app.
+
+**3. Educational Institutions Partnerships**
+
+* **Language Schools**
+   * **Proposal Development**: Create a detailed proposal outlining how Immersi complements their curriculum.
+   * **Pilot Programs**: Offer a free trial period for their students.
+   * **Training Sessions**: Provide training for teachers on how to integrate the app into their lessons.
+* **University Programs**
+   * **Guest Lectures**: Offer to speak at language clubs or cultural events.
+   * **Student Ambassador Programs**: Recruit students to promote Immersi on campus in exchange for perks or commissions.
+* **Corporate Partnerships**
+   * **Businesses with Chinese Interests**: Offer Immersi as a training tool for employees working with Chinese clients or partners.
+   * **Employee Development Programs**: Position Immersi as part of corporate learning and development initiatives.
+
+# Month 4: Paid Advertising and PR
+
+**1. Launch Paid Ad Campaigns**
+
+* **Google Ads**
+   * **Search Ads**:
+      * **Keywords**: Bid on high-intent keywords like ""best app to learn Chinese,"" ""Chinese immersion learning.""
+      * **Ad Copy**: Highlight unique selling points and include a clear call-to-action (CTA).
+   * **Display Ads**:
+      * **Targeting**: Use contextual targeting to show ads on websites related to language learning, travel, and education.
+      * **Creatives**: Design eye-catching banners with compelling visuals and messages.
+* **Social Media Ads**
+   * **Facebook and Instagram**:
+      * **Audience Targeting**: Use interests, behaviors, and demographics to target potential users.
+      * **Lookalike Audiences**: Create lookalike audiences based on your current users.
+      * **Ad Formats**: Experiment with carousel ads, video ads, and stories.
+   * **TikTok Ads**:
+      * **Engagement**: Utilize TikTok's immersive ad formats to reach younger audiences.
+* **Budget Allocation**
+   * **Test Phase**: Allocate a modest budget ($1,000-$2,000) to test different channels and creatives.
+   * **Optimization**: Monitor performance daily and adjust bids, targeting, and creatives based on data.
+
+**2. Public Relations Efforts**
+
+* **Press Releases**
+   * **Story Angles**:
+      * **Innovation**: ""Immersi Introduces AI-Powered Immersion Learning for Chinese.""
+      * **Milestones**: ""Immersi Reaches 10,000 Users Worldwide.""
+   * **Distribution**: Use services like **PR Newswire** or **Business Wire**.
+   * **Media Outreach**:
+      * **Target Publications**: TechCrunch, Mashable, The Next Web, and language learning blogs.
+      * **Personalized Pitches**: Tailor your pitch to each journalist's interests.
+* **App Review Websites**
+   * **Submissions**: Submit your app to platforms like **Product Hunt**, **AppAdvice**, **Top Best Apps**.
+   * **User Engagement**: Encourage your community to support and upvote your submissions.
+* **Podcasts and Interviews**
+   * **Guest Appearances**: Reach out to podcasts focused on language learning or education technology.
+   * **Talking Points**: Prepare key messages about Immersi's unique approach and benefits.
+
+**3. App Store Featured**
+
+* **Pitch to App Stores**
+   * **Apple App Store**
+      * **Submission Guidelines**: Follow Apple's guidelines for feature consideration.
+      * **Pitch Content**: Highlight innovative features, user success stories, and how the app leverages Apple technologies.
+   * **Google Play Store**
+      * **Editorial Content**: Propose articles or stories that could feature Immersi.
+      * **Updates and Releases**: Time significant updates to coincide with potential featuring opportunities.
+* **Localization**
+   * **App Store Listings**: Translate your app store descriptions into multiple languages to reach a broader audience.
+   * **Cultural Relevance**: Ensure that visual assets are appropriate for different regions.
+
+# Month 5: User Engagement and Retention
+
+**1. In-App Engagement Strategies**
+
+* **Push Notifications**
+   * **Segmentation**: Send targeted messages based on user behavior (e.g., inactivity, lesson completion).
+   * **Content Examples**:
+      * **Re-engagement**: ""We miss you! Continue your Chinese journey today.""
+      * **New Content Alerts**: ""New intermediate-level stories are now available!""
+      * **Progress Reminders**: ""You're 80% through your current level. Keep going!""
+* **Gamification**
+   * **Daily Streaks**: Encourage daily usage by tracking consecutive days of activity.
+   * **Achievements and Badges**: Reward users for milestones like ""First Lesson Completed"" or ""100 Words Learned.""
+   * **Leaderboards**: Introduce friendly competition by showing top learners in the community.
+* **Interactive Elements**
+   * **Quizzes and Challenges**: Add periodic quizzes to test knowledge and reinforce learning.
+   * **Community Features**: Enable users to follow friends, share achievements, and motivate each other.
+
+**2. Referral Programs**
+
+* **Incentivize Sharing**
+   * **Offer Structure**: Provide both the referrer and the new user with benefits, such as a free month of premium access or exclusive content.
+   * **Easy Sharing Mechanisms**: Integrate social sharing buttons and personalized referral links within the app.
+* **Promotion**
+   * **In-App Banners**: Highlight the referral program on the home screen.
+   * **Email Campaigns**: Send targeted emails to active users encouraging them to invite friends.
+* **Tracking and Rewards**
+   * **Analytics**: Monitor referral sources and conversion rates.
+   * **Reward Delivery**: Automate the process to grant rewards immediately upon successful referrals.
+
+**3. Collect User Feedback**
+
+* **Surveys and Feedback Forms**
+   * **In-App Surveys**: Trigger short surveys after key interactions or at specific intervals.
+   * **Feedback Channels**: Provide easy access to feedback forms within the app's settings menu.
+* **User Interviews**
+   * **One-on-One Sessions**: Schedule calls or chats with users to dive deeper into their experiences.
+   * **Incentives**: Offer gift cards or free subscription extensions for their time.
+* **Implement Improvements**
+   * **Prioritize Feedback**: Use a system to categorize and prioritize suggestions based on impact and feasibility.
+   * **Communicate Updates**: Let users know when their feedback leads to changes, reinforcing their value to the community.
+
+# Month 6: Expansion and Scaling
+
+**1. Launch Beginner Level Content**
+
+* **Content Development**
+   * **Curriculum Design**: Work with certified Chinese language teachers to create a structured beginner curriculum.
+   * **Multimedia Elements**: Include audio pronunciations, interactive exercises, and visual aids.
+   * **Cultural Context**: Incorporate cultural notes to enrich the learning experience.
+* **Beta Testing**
+   * **Recruitment**: Invite existing users interested in beginner content and new users who fit the beginner profile.
+   * **Feedback Collection**: Use forums, surveys, and direct communication to gather input.
+* **Marketing Campaign**
+   * **Announcement Channels**: Promote the launch through all marketing channels, emphasizing the expansion to beginners.
+   * **Partnerships**: Collaborate with educational institutions and influencers to reach a broader beginner audience.
+   * **Introductory Offers**: Provide special deals for new users signing up for beginner content.
+
+**2. Expand to Additional Languages**
+
+* **Market Research**
+   * **Language Selection**: Analyze data to identify high-demand languages, such as Spanish, French, or Japanese.
+   * **User Surveys**: Ask your current user base which languages they are interested in learning.
+* **Localization and Content Creation**
+   * **Hire Experts**: Engage native speakers and educators for content development.
+   * **Cultural Adaptation**: Ensure content respects cultural nuances and teaching methodologies appropriate for each language.
+* **Staged Rollout**
+   * **Pilot Program**: Start with one new language to test processes.
+   * **Feedback Loop**: Collect and implement feedback before scaling to additional languages.
+* **Cross-Promotion**
+   * **Existing Users**: Inform current users about the new language offerings.
+   * **New Audience Acquisition**: Tailor marketing efforts to attract users interested in the new languages.
+
+**3. Evaluate and Adjust Marketing Strategies**
+
+* **Data Analysis**
+   * **Performance Review**: Analyze KPIs monthly and compare them against targets.
+   * **Channel Effectiveness**: Identify which marketing channels deliver the best ROI.
+* **Strategy Adjustment**
+   * **Budget Reallocation**: Invest more in high-performing channels and reduce spend on underperforming ones.
+   * **Campaign Optimization**: Refine ad creatives, targeting, and messaging based on data insights.
+* **Scaling Operations**
+   * **Team Expansion**: If necessary, hire additional staff for customer support, content creation, or marketing.
+   * **Process Improvement**: Streamline operations by implementing better project management tools like **Asana** or **Trello**.
+
+# Additional Strategies
+
+**Customer Support Enhancement**
+
+* **In-App Support**
+   * **Chatbots**: Implement AI-powered chatbots for instant responses to common queries.
+   * **Help Center**: Build a comprehensive FAQ section within the app.
+* **Multilingual Support**
+   * **Global Users**: As you expand, provide support in multiple languages.
+
+**Legal and Compliance**
+
+* **Data Protection**
+   * **Privacy Policies**: Update privacy policies to comply with GDPR, CCPA, and other regulations.
+   * **User Consent**: Ensure clear communication about data usage and obtain explicit consent.
+
+**Monetization Strategies**
+
+* **Subscription Tiers**
+   * **Free Tier**: Limited access with ads or fewer features.
+   * **Premium Tier**: Full access with a monthly or annual subscription.
+   * **Family Plans**: Offer discounted rates for multiple users.
+* **In-App Purchases**
+   * **Additional Content**: Sell specialized content packs or advanced lessons.
+
+# Measurement and KPIs
+
+**Detailed Metrics**
+
+* **Acquisition Metrics**
+   * **User Growth Rate**: Percentage increase in users over time.
+   * **Source Attribution**: Breakdown of users acquired through each marketing channel.
+* **Engagement Metrics**
+   * **Feature Adoption**: Usage rates of new features or content.
+   * **In-App Events**: Tracking of specific actions like content downloads or sharing.
+* **Retention Metrics**
+   * **Cohort Analysis**: Retention and behavior of users grouped by acquisition date or source.
+   * **Churn Reasons**: Analysis of why users leave, gathered through exit surveys.
+* **Financial Metrics**
+   * **Customer Acquisition Cost (CAC)**
+   * **Customer Lifetime Value (CLTV)**
+   * **Revenue Growth Rate**
+
+**Reporting Tools**
+
+* **Dashboard Creation**
+   * **Mixpanel Dashboards**: Customize dashboards to monitor real-time data.
+   * **Google Data Studio**: Integrate data from various sources for comprehensive reports.
+* **Regular Reviews**
+   * **Weekly Meetings**: Discuss KPIs and progress with the team.
+   * **Monthly Reports**: Provide detailed analyses and adjust plans accordingly.
+
+**Conclusion**
+
+By executing this detailed 6-month growth plan, Immersi can significantly expand its user base, enhance user engagement, and establish a strong presence in the language learning market. The key is to maintain flexibility, continuously analyze performance data, and adapt strategies based on user feedback and market trends. With consistent effort and a user-centric approach, Immersi can position itself as a leading platform for immersive language learning.
+
+**Next Steps**
+
+* **Assign Responsibilities**: Delegate tasks to team members or consider outsourcing certain activities.
+* **Set Timelines**: Establish clear deadlines for each action item.
+* **Monitor Progress**: Use project management tools to track the completion of tasks.
+* **Stay Agile**: Be prepared to pivot strategies based on what the data reveals.
+
+By following these steps, you can create a dynamic and responsive growth strategy that adapts to the evolving needs of your users and the market.",OpenAI,0,7,2024-09-13 19:59:32,immersi_language
+1fibrl3,,Guide: Metaprompting with 4o for best value with o1,"Hi all, I've been trying to get the most ""bang for my buck"" with gpt-o1 as most people are. You can paste this into a new convo with gpt-4o in order to get the BEST eventual prompt that you can use in gpt-o1!
+
+Don't burn through your usage limit, use this!
+
+>I'm trying to come up with an amazing prompt for an advanced llm. The trouble is that it takes a lot of money to ask it a question so I'm trying to ask the BEST question possible in order to maximize my return on investment. Here's the criteria for having a good prompt. Please ask me a series of broad questions, one by one, to narrow down on the best prompt possible: Step 1: Define Your Objective Question: What is the main goal or purpose of your request? Are you seeking information, advice, a solution to a problem, or creative ideas? Step 2: Provide Clear Context Question: What background information is relevant to your query? Include any necessary details about the situation, topic, or problem. Question: Are there specific details that will help clarify your request? Mention dates, locations, definitions, or any pertinent data. Step 3: Specify Your Requirements Question: Do you have any specific requirements or constraints? Do you need the response in a particular format (e.g., bullet points, essay)? Question: Are there any assumptions you want me to make or avoid? Clarify any perspectives or limitations. Step 4: Formulate a Clear and Direct Question Question: What exact question do you want answered? Phrase it clearly to avoid ambiguity. Question: Can you simplify complex questions into simpler parts? Break down multi-part questions if necessary. Step 5: Determine the Desired Depth and Length Question: How detailed do you want the response to be? Specify if you prefer a brief summary or an in-depth explanation. Question: Are there specific points you want the answer to cover? List any particular areas of interest. Step 6: Consider Ethical and Policy Guidelines Question: Is your request compliant with OpenAI's use policies? Avoid disallowed content like hate speech, harassment, or illegal activities. Question: Are you respecting privacy and confidentiality guidelines? Do not request personal or sensitive information about individuals. Step 7: Review and Refine Your Query Question: Have you reviewed your query for clarity and completeness? Check for grammatical errors or vague terms. Question: Is there any additional information that could help me provide a better response? Include any other relevant details. Step 8: Set Expectations for the Response Question: Do you have a preferred style or tone for the answer? Formal, casual, technical, or simplified language. Question: Are there any examples or analogies that would help you understand better? Mention if comparative explanations are useful. Step 9: Submit Your Query Question: Are you ready to submit your refined question to ChatGPT? Once satisfied, proceed to send your query.",OpenAI,18,2,2024-09-16 18:17:38,robert-at-pretension
+1fha6a2,,Hallucinations / Spurious Tokens in Reasoning Summaries.,"Hi All; I've been testing o1-preview this weekend to find out how it performs, and in reviewing the reasoning summaries have spotted some strange outputs.
+
+I've been running a content scoring benchmark 10 times (need some messages left this week...) - and around half the reasoning summaries contain something either strange tokens or hallucinations. An example of that is here : [o1 benchmark 6 - chatgpt link](https://chatgpt.com/share/66e6c151-3724-800a-87b2-0eaf9a484f50) (expand the reasoning and the word/token ""iphy"" appears).  
+
+Other ones include: 
+
+- The phrase `Gary's technical jargon` included at the end of a reasoning block. (There is no reference to a Gary in any of the input data).
+- The words `iphy` and `cRipplekin FCC` appearing spuriously in the reasoning outputs.
+- The score calculated at the end of the reasoning not matching the emitted score (see screenshot).
+
+With the reasoning hidden, no idea if this is an error in summarisation, something from the underlying chain??
+
+| Run Number | Reasoning Steps | Refers to OpenAI Policy | Hallucination / Spurious Token |
+|------------|-----------------|-------------------------|--------------------------------|
+| 1 | 7 | No | No |
+| 2 | 5 | Yes | Yes (""Zoom"") |
+| 3 | 8 | Yes | Yes (""Gary's technical jargon"") |
+| 4 | 10 | Yes | No |
+| 5 | 9 | Yes | Yes (""cRipplekin FCC"") |
+| 6 | 6 | No | Yes (""iphy"") |
+| 7 | 8 | Yes | No |
+| 8 | 4 | No | No |
+| 9 | 10 | Yes | Yes (Scoring) |
+| 10 | 8 | Yes | No |
+
+
+These 10 runs were across Friday night and Saturday morning, so don't know if this was a temporary thing or not.  
+
+Has anyone else been reviewing the reasoning steps and spotted anything similar?
+
+I've written up the results [here](https://llmindset.co.uk/posts/2024/09/openai-o1-first-impressions/)  for anyone interested.",OpenAI,1,2,2024-09-15 11:16:41,ssmith12345uk
+1ffp31t,,Where can I find o1 benchmark details?,I would like to review the actual solutions it came up with for each codeforces problem for example.,OpenAI,3,0,2024-09-13 07:38:28,the-judeo-bolshevik
+1fjg9sh,lnpei72,It’s great time to be alive but also really scary ,"The craziest thing in this story is that in this project, OP was by far the slowest component. OP was holding those AI models down. If OP would be replaced with a (fairly simple) AI ahent, it would all be done in a few minutes.",OpenAI,102,0,2024-09-18 08:44:40,Block-Rockig-Beats
+1fjg9sh,lno3mzw,It’s great time to be alive but also really scary ,"I'm really interested, please, share with us :)",OpenAI,27,0,2024-09-18 01:43:01,IndividualCress1565
+1fjg9sh,lnoe9m6,It’s great time to be alive but also really scary ,I’d love to hear your first prompt! What program did you use to build in?,OpenAI,10,0,2024-09-18 02:54:16,YourNeighborsHotWife
+1fjg9sh,lnpii4t,It’s great time to be alive but also really scary ,"I like the look of it. Just a heads up, there's a typo in the app store screenshots (""Set up you notification"").",OpenAI,8,0,2024-09-18 09:33:00,Ok-Establishment4106
+1fjg9sh,lnp909m,It’s great time to be alive but also really scary ,"Agree with others, this is inspiring :)
+
+If you want, please share GitHub so we can all contribute!",OpenAI,5,0,2024-09-18 07:37:56,155matt
+1fjg9sh,lnq0tx6,It’s great time to be alive but also really scary ,"Yes its really great, but ultimately it will create an overcrowding in development and you won't enjoy of that anyway.",OpenAI,4,0,2024-09-18 12:20:09,moon34870
+1fjg9sh,lnontzi,It’s great time to be alive but also really scary ,Super inspiring story,OpenAI,3,0,2024-09-18 04:06:55,Outrageous_Permit154
+1fjg9sh,lnp5ct0,It’s great time to be alive but also really scary ,Impressive! The design of your app looks better than my own habit tracker app haha,OpenAI,3,0,2024-09-18 06:55:26,Holloow_euw
+1fjg9sh,lnq3y5n,It’s great time to be alive but also really scary ,"I am continually curious if we are creating a time bomb. Stringing together separate AI-generated code is bound to lead to complex bugs and security issues that may not manifest until later. Further, what happens when something more recent than the AI training data changes and things need to be precisely updated?",OpenAI,3,0,2024-09-18 12:42:12,blancorey
+1fjg9sh,lnoihhv,It’s great time to be alive but also really scary ,That's awesome,OpenAI,2,0,2024-09-18 03:24:31,Kvetch
+1fjg9sh,lnp9n5e,It’s great time to be alive but also really scary ,"Does it have an authentication, a database, a server,...? Or is everything local?",OpenAI,2,0,2024-09-18 07:45:42,aguei
+1fjg9sh,lnpbk37,It’s great time to be alive but also really scary ,Can you post this for download I’d like to use that?,OpenAI,2,0,2024-09-18 08:08:52,dorksgetlaid2
+1fjg9sh,lnpbkkq,It’s great time to be alive but also really scary ,"Please share the setup and the prompt, it will be super helpful! Thanks",OpenAI,2,0,2024-09-18 08:09:03,AcanthaceaeNo5503
+1fjg9sh,lnqa9il,It’s great time to be alive but also really scary ,"You rock, this is great",OpenAI,2,0,2024-09-18 13:23:12,mtdza7
+1fjg9sh,lnqh3ag,It’s great time to be alive but also really scary ,"Out of curiosity what would you estimate was the total cost to make this? Assuming that the monthly fee is included, $20 for o1, $100 something for apple developer? 
+
+So less than $150 to publish this app?",OpenAI,2,0,2024-09-18 14:04:21,Schopenhauer____
+1fjg9sh,lod7p9q,It’s great time to be alive but also really scary ,"This is really cool, app dev myself here for Android. This seems like a great way to get a project started, but I wonder how it would perform once the context window limit is reached in the same session. Maybe prompt it to work with TDD and document each module's API as you go, that way it becomes simpler to integrate new functionality or change existing ones, while keeping stability and needing minimal initial context? Add readmes for each module/feature that act as a jumping off point for any new session.
+
+Would like to see it take on board user feedback/analytics and iterate and A/B test different hypotheses based on that. Once it's at that point I don't really see what big point of difference a dev can offer 😬",OpenAI,2,0,2024-09-22 14:32:35,soldierinwhite
+1fjg9sh,lnomliq,It’s great time to be alive but also really scary ,"""Carl""?",OpenAI,3,0,2024-09-18 03:56:43,windows_error23
+1fjg9sh,lnopdk2,It’s great time to be alive but also really scary ,"We're still the critical thinking part of the whole system. 
+
+""Nah, this won't work because XYZ. ChatGPT, I'm facing error ABC, please fix.""
+
+As soon as an AI can do that critical thinking part, we're doomed.",OpenAI,2,0,2024-09-18 04:19:53,Fusseldieb
+1fjg9sh,lnpqz1b,It’s great time to be alive but also really scary ,the question is not 'will we become obsolete' but  'when do we become obsolete',OpenAI,2,0,2024-09-18 11:01:29,fireeeebg
+1fjg9sh,lnpf64r,It’s great time to be alive but also really scary ,Did you use native iOS or React Native? I'm assuming native since you mention CoreData. Are you experienced with building iOS apps already?,OpenAI,1,0,2024-09-18 08:52:40,dhamaniasad
+1fjg9sh,lnqbibx,It’s great time to be alive but also really scary ,Good work. Did u know how to code and publish apps before starting this project?,OpenAI,1,0,2024-09-18 13:30:58,quantogerix
+1fjg9sh,lnu02ll,It’s great time to be alive but also really scary ,Can you please explain your workflow? At a high level will do. I want to try to create an app with LLM help but not sure where to start.,OpenAI,1,0,2024-09-19 01:49:32,SignificantGooze
+1fjg9sh,loh3gi5,It’s great time to be alive but also really scary ,"How does one who has no coding experience do this? I mean i am not an iOS developer but a web developer and when i ask ChatGPT or Claude to write me some code, it has to go through many iterations before it is actually usable. Unless its a very simple code, there are so many errors that need to be ironed out to make it work for you and if you have no experience at all in coding, those errors solving will be a nightmare. On top of that sometimes you have to discard whatever the AI gives you and you have to write your own. Also when it comes to layouts, in my experience, AI cannot handle complex layouts too and i have to design it myself. What am i missing here? Is everyone ahead of me when it comes to utilising AI for coding?",OpenAI,1,0,2024-09-23 03:41:32,srijay_deathwish
+1fjg9sh,lnp9jjr,It’s great time to be alive but also really scary ,Nice advertisement OpenAI lol,OpenAI,1,0,2024-09-18 07:44:29,Sweet-Winter8309
+1fjg9sh,lnqb9s2,It’s great time to be alive but also really scary ,LLMs have already filled the internet with tons of useless content that is just chewed and spit information that was present before. Now that comes to app stores…,OpenAI,1,0,2024-09-18 13:29:30,cleg
+1fjg9sh,lnqwgye,It’s great time to be alive but also really scary ,"Each of your posts over the last half a year are advertising your iOS apps. Quite convenient to get some hype here stating LLMs have created it for you in 6 hours...
+
+But you are russian, therefore I don't believe russians can procrastinate for 6 hours in the morning, they have to work to retain their residence permits.
+
+Something doesn't add up for me, but grats with getting attention by using clickbait title and fairytale.",OpenAI,1,0,2024-09-18 15:28:06,Volky_Bolky
+1fjg9sh,lnnx7o1,It’s great time to be alive but also really scary ,Omg,OpenAI,0,0,2024-09-18 01:01:43,freedom10101
+1fjg9sh,lnpi8gv,It’s great time to be alive but also really scary ,Exactly! And App Store review took 20 hours before publishing ;),OpenAI,34,0,2024-09-18 09:29:49,Ok_Maize_3709
+1fjg9sh,lnrda3s,It’s great time to be alive but also really scary ,"Sounds to me that App store review is the slowest part of this, even with automation. Can’t imagine what App store would look like with them automating reviews and billions of apps would start flooding in review :)))",OpenAI,8,0,2024-09-18 16:56:29,nenzark
+1fjg9sh,lnousvu,It’s great time to be alive but also really scary ,Will do!,OpenAI,4,0,2024-09-18 05:08:26,Ok_Maize_3709
+1fjg9sh,lnt5296,It’s great time to be alive but also really scary ,"Here is the repo: [https://github.com/recoverius/Streak-iOS-App](https://github.com/recoverius/Streak-iOS-App)
+
+It was first time for me setting up a repo for public use - hope I did everything right, otherwise would appreciate heads up!",OpenAI,2,0,2024-09-18 22:36:24,Ok_Maize_3709
+1fjg9sh,lnqaafz,It’s great time to be alive but also really scary ,"Curious to see if the entire codebase was in the context window it could, but yeah my product manager rarely asks me to build a new app. They always ask to add new features to existing high-complexity code.",OpenAI,3,0,2024-09-18 13:23:21,MarathonHampster
+1fjg9sh,lnouywy,It’s great time to be alive but also really scary ,"The first prompt was to o1:
+
+“you are an app architect with a lot of UI/UX experience in background. we are working on the new habit tracking app - people can add any new tracker for their habits, choose an icon, a name. they have a main view where they see all trackers shown as 14 days calendar view, stats on tracking and tap to confirm if they do one or another thing (or not). there should be gamification, all design should be minimalistic but entertaining. there should reward adn streaks and so on. also think of the widgets and apple watch integration.
+create the architecture plan, work out all the modules and views for the cosers to code. thinks of the variables strcutures. make sure you use best practices and choose best approach for such app. 
+
+after finished the whole plan is finished you need create instructions for each component for developer to follow.“",OpenAI,41,0,2024-09-18 05:10:03,Ok_Maize_3709
+1fjg9sh,lnoxory,It’s great time to be alive but also really scary ,"And the program was standard for iOS, you can only build in Xcode. I was using Claude and ChatGPT through web most of the cases (+ tried a couple of times with cursor but it did not do)",OpenAI,5,0,2024-09-18 05:33:20,Ok_Maize_3709
+1fjg9sh,lnpixaa,It’s great time to be alive but also really scary ,"Oh, thanks! It could be improved indeed, for me it was rather an experiment (I spent like 30 minutes on setting up that page). I think probably also messaging on those screenshots should be different... not sure If people care about setting up notifications...",OpenAI,3,0,2024-09-18 09:37:59,Ok_Maize_3709
+1fjg9sh,lnpie00,It’s great time to be alive but also really scary ,Will do!,OpenAI,2,0,2024-09-18 09:31:39,Ok_Maize_3709
+1fjg9sh,lnt5fw8,It’s great time to be alive but also really scary ,"Here is the repo: [https://github.com/recoverius/Streak-iOS-App](https://github.com/recoverius/Streak-iOS-App)
+
+It was first time for me setting up a repo for public use - hope I did everything right, otherwise would appreciate heads up!",OpenAI,2,0,2024-09-18 22:38:41,Ok_Maize_3709
+1fjg9sh,lnpgqsh,It’s great time to be alive but also really scary ,That a big compliment to Claude!,OpenAI,1,0,2024-09-18 09:11:47,Ok_Maize_3709
+1fjg9sh,lnqgqbr,It’s great time to be alive but also really scary ,"That depends on who created the app. We already have plenty of software that was developed by contract and now is left to accrue bugs as platforms update.
+
+I agree that the complex creation path is going to lead to unique issues, I just don't agree that it will be a new problem.
+
+I'm more worried about AI-based security audits finding all the holes already left in our defenses...",OpenAI,3,0,2024-09-18 14:02:15,Sankofa416
+1fjg9sh,lnphxe1,It’s great time to be alive but also really scary ,"No, its all local, using Core Data. It is actually a simple app and I did not make it cross platform or sync data. So in the end its rather MVP, but still.  
+I think that authentification and server could be easily added (I mean its rather use of API and libraries in the end), but I wanted to also make it really local without necessity to store and share data. The app does not use analytics either.",OpenAI,3,0,2024-09-18 09:26:08,Ok_Maize_3709
+1fjg9sh,lnpgnzc,It’s great time to be alive but also really scary ,"Sure, just got approved 5 mins ago from App Store!  
+[https://apps.apple.com/us/app/streak-habit-tracker/id6692634213](https://apps.apple.com/us/app/streak-habit-tracker/id6692634213)",OpenAI,2,0,2024-09-18 09:10:49,Ok_Maize_3709
+1fjg9sh,lnpi6y1,It’s great time to be alive but also really scary ,"I've shared my first prompt in the comment above. After that I added the answer / guidance generated by o1 to Claude project and asked it code first step. After it did, I added the created files to the project and so on, so it always have a context. Some small elements I was refining in Cursor (VS code fork with AI), and sometimes asking o1 (but results were mediocre).   
+That's basically it, all that with quite some iterations and solving popping up errors.",OpenAI,4,0,2024-09-18 09:29:20,Ok_Maize_3709
+1fjg9sh,lnsqj6o,It’s great time to be alive but also really scary ,"Basically yes, but I’m paying for Claude as well,so it’s another 20$ subscription. Apple developer account was something like 120$ if I remember correctly (but I had it was my other project). 
+This doesn’t take into account the 6 hours and laptop",OpenAI,1,0,2024-09-18 21:12:45,Ok_Maize_3709
+1fjg9sh,lod96n1,It’s great time to be alive but also really scary ,"Hm, but cursor does that already - it creates a code snippets tree together with your request to LLM so it knows enough of context. No need to include full code base.
+
+I mean, the last months, I was working on purrwalk.com, and this project is over 10k lines of code already. I’m not writing anything manually, always with LLMs. Something I have to dig into issue to fix where the models get stuck but 80% goes pretty smoothly. So I would say we are almost there already.",OpenAI,2,0,2024-09-22 14:41:24,Ok_Maize_3709
+1fjg9sh,lnov80b,It’s great time to be alive but also really scary ,"Sorry, it’s from an old meme
+https://amp.knowyourmeme.com/memes/carl",OpenAI,2,0,2024-09-18 05:12:28,Ok_Maize_3709
+1fjg9sh,lnovi83,It’s great time to be alive but also really scary ,"The thing is that I’m not sure even that we are the critical thinking part. The main advantage we have is the real world feedback: I’m running the app, see how it looks and tell it what’s wrong or not so nice, so… a good vision LLM would solve it pretty soon as well",OpenAI,6,0,2024-09-18 05:15:09,Ok_Maize_3709
+1fjg9sh,lnpid1b,It’s great time to be alive but also really scary ,"iOS native. Yes, I had some experience already, I was spending last 10 months of passion project (an audio guide app in ios and then I started porting it to RN, you can check my profile). No experience in coding before that (I worked in finance).",OpenAI,3,0,2024-09-18 09:31:20,Ok_Maize_3709
+1fjg9sh,lnsr5uj,It’s great time to be alive but also really scary ,Thank you! I can’t really code but I’m coding with AI for the last 10 months (no coding experience before that). I published one app before that (and still working on that one),OpenAI,2,0,2024-09-18 21:16:15,Ok_Maize_3709
+1fjg9sh,lnv1gjo,It’s great time to be alive but also really scary ,"Hey there, I just answered in another comment above, let me know if you have some specific questions, happy to help!",OpenAI,1,0,2024-09-19 07:04:49,Ok_Maize_3709
+1fjg9sh,loho7p0,It’s great time to be alive but also really scary ,"I do have some experience with coding (10 months ago I started coding with ai with no past experience), you can check my other replies here on the workflow. But I really do not write any code (I would fail with syntax of a simple function to be honest), but I can read and understand it.
+
+There are errors indeed but I just feed them back to the model. So it’s not zero shot code, that’s why it took six hours for me.
+
+On the layout, if it’s complex, it might get difficult for the model, but I just explain what’s wrong and it normally corrects itself pretty well. Sometimes you simple need to change the model if one gets stuck.
+
+The key here is to be very specific in all your requests. You need to know what you want it to do and do every step fairly small (never combine several requests in one).
+
+Let me know if you have further questions or any specific example, I can maybe better explain how would I approach it.",OpenAI,1,0,2024-09-23 07:02:36,Ok_Maize_3709
+1fjg9sh,lohompe,It’s great time to be alive but also really scary ,"Btw just a couple of things I did. I started my journey with this project and am still working on it: [PurrWalk.com](https://purrwalk.com)
+It now has both iOS and android versions (react)
+
+Then for web dev example, I did [data cleaner](https://data-cleaning.com)
+
+All if that started 10 months ago, and obviously I could not learn iOS, TS and React in this period, so I’m just copy pasting things to from LLMs, but I’m doing it consciously (I would say I’m like a senior dev in the team having several juniors who write code)",OpenAI,1,0,2024-09-23 07:07:23,Ok_Maize_3709
+1fjg9sh,lnpgcnn,It’s great time to be alive but also really scary ,"Well, it probably sounds like that, but I was using Sonnet for like 80% of final code versions",OpenAI,3,0,2024-09-18 09:07:02,Ok_Maize_3709
+1fjg9sh,lnsp4gq,It’s great time to be alive but also really scary ,"Congrats man, you caught the Russian spy
+
+On the topic, I made exactly two iOS apps in my life, one half a year ago (and still working on it) another one yesterday which was eh within 6 hours, and made…wait for it… two posts",OpenAI,2,0,2024-09-18 21:05:12,Ok_Maize_3709
+1fjg9sh,lnpqchk,It’s great time to be alive but also really scary ,"In your post it says:
+
+> It’s a typical habit tracking app where you cannot add habits
+
+> I’m not waiting for App Store review.
+
+Are you very low on sleep or am I low on sleep?",OpenAI,14,0,2024-09-18 10:55:48,CH1997H
+1fjg9sh,lnpgprv,It’s great time to be alive but also really scary ,"Just got approved on App Store, I will also share the source code in a bit
+
+[https://apps.apple.com/us/app/streak-habit-tracker/id6692634213](https://apps.apple.com/us/app/streak-habit-tracker/id6692634213)",OpenAI,7,0,2024-09-18 09:11:27,Ok_Maize_3709
+1fjg9sh,lnuyjka,It’s great time to be alive but also really scary ,Do you have the saved conversations with o1 and claude? I'd like to read so I could get the idea how to correctly make prompts for both llms so they could give me a working result.,OpenAI,2,0,2024-09-19 06:32:47,Lomek
+1fjg9sh,lnpa46k,It’s great time to be alive but also really scary ,What were the other steps necessary you took outside of this to publish it as an app? You still needed some see background?,OpenAI,6,0,2024-09-18 07:51:24,Crafty_Enthusiasm_99
+1fjg9sh,lnv1fes,It’s great time to be alive but also really scary ,"Awesome thank you! It all looks correct :)
+
+It’s common practice to add “how to get started” with the project in the description, but I’m sure most of us can do without that!",OpenAI,2,0,2024-09-19 07:04:27,155matt
+1fjg9sh,lodaz5z,It’s great time to be alive but also really scary ,Time to start making a plan B as a dev I guess 😅,OpenAI,1,0,2024-09-22 14:51:52,soldierinwhite
+1fjg9sh,lnr08sr,It’s great time to be alive but also really scary ,And this actually comes from this: https://youtu.be/wwGsZZN-YD4?si=dd3AddEs9_rp2vH1,OpenAI,2,0,2024-09-18 15:47:50,EnergyCrush
+1fjg9sh,lnov8uj,It’s great time to be alive but also really scary ,"It looks like you shared an AMP link. These should load faster, but AMP is controversial because of [concerns over privacy and the Open Web](https://www.reddit.com/r/AmputatorBot/comments/ehrq3z/why_did_i_build_amputatorbot).
+
+Maybe check out **the canonical page** instead: **[https://knowyourmeme.com/memes/carl](https://knowyourmeme.com/memes/carl)**
+
+*****
+
+ ^(I'm a bot | )[^(Why & About)](https://www.reddit.com/r/AmputatorBot/comments/ehrq3z/why_did_i_build_amputatorbot)^( | )[^(Summon: u/AmputatorBot)](https://www.reddit.com/r/AmputatorBot/comments/cchly3/you_can_now_summon_amputatorbot/)",OpenAI,0,0,2024-09-18 05:12:40,AmputatorBot
+1fjg9sh,lnpuhan,It’s great time to be alive but also really scary ,"Yes, I'm sorry about that, I was too excited yesterday evening. Unfortunately, I cannot redact post on this sub. It's of course ""can add"" and ""I'm now waiting"".",OpenAI,17,0,2024-09-18 11:31:25,Ok_Maize_3709
+1fjg9sh,lnrsijm,It’s great time to be alive but also really scary ,app design reminds me of carrot. the app icon is kinda …,OpenAI,1,0,2024-09-18 18:15:54,NoticeThatYoureThere
+1fjg9sh,lnv1drf,It’s great time to be alive but also really scary ,"I tried to cite my prompts all over the other comments, but basically asked o1 to create architecture for my app and separately create design code. then used claude with attaching context to projects (the results from o1 for guidance and the latest files which were created in the past steps). the prompts to Claude were pretty simple:  
+""lets start working on the app step by step. lets tart with he first views and models, give me the code and i will test and run it for you.""
+
+""great, this works, now lets improve UI, make it more funky and slick  
+the sated seem to take to much space, lets maybe jsut show above a letter for the day of the weeks and in the last 14 days title date range for user to understand better.   
+also, lets add some nice animation when user is checkmarking a habit""
+
+""great start, lets keep it that way for now. now implement the real data management and the possibility to add habits""
+
+""(citing error message) please help to fix""
+
+There are prompts from the first conversation, then I created a new one, where I added latest files from the previous convo.  
+Hope this helps!",OpenAI,3,0,2024-09-19 07:03:56,Ok_Maize_3709
+1fjg9sh,lnv23xs,It’s great time to be alive but also really scary ,Just wanted to say thank you for being grateful,OpenAI,1,0,2024-09-19 07:12:08,TheGratitudeBot
+1fjg9sh,lnr4zny,It’s great time to be alive but also really scary ,Yes! Complete forgot Carl the Lama!,OpenAI,2,0,2024-09-18 16:12:47,Ok_Maize_3709
+1fjg9sh,lnqhuia,It’s great time to be alive but also really scary ,"Hah, understable. My most used Claude prompt is ""Does the following block of text make sense, is it clear, purposeful, have good grammar and spelling?""",OpenAI,5,0,2024-09-18 14:08:43,Ok-Shop-617
+1fjg9sh,lnv5iki,It’s great time to be alive but also really scary ,"Hey, thank you for this. It was useful!
+I'm new to this; I read that you use both ChatGPT and Claud.
+Why do you need both? Is it because Claud is better at coding?",OpenAI,1,0,2024-09-19 07:52:14,SignificantGooze
+1fjg9sh,lnv78b5,It’s great time to be alive but also really scary ,"Yes, Claude is marginally better at coding and aesthetics in my experience, so if I would choose just one - I would use Claude to be honest. Also, often when one model get stuck with an error, I use another one to review and in 80% of cases, it solves it easily (sometimes I use Gemini for that as well).  
+One cool benefit of ChatGPT is code interpreter (help to reshuffle json files and small tasks with python).",OpenAI,2,0,2024-09-19 08:12:48,Ok_Maize_3709
+1hl71or,m3kca1d,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"I aint reading that
+
+sorry for what happened
+
+or im happy for you",OpenAI,52,0,2024-12-24 07:47:29,Svetlash123
+1hl71or,m3k4qh8,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,no one bother to read,OpenAI,48,0,2024-12-24 06:28:54,lilmoniiiiiiiiiiika
+1hl71or,m3kii7d,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"Thanks for sharing. 
+Saving this to factor some elements into my work with o1 Pro Mode.
+
+A lot of this (the parts I've read thus far) has featured heavily in the ongoing therapeutic and/or growth-oriented interactions I've had with GPT over the years. O1 Pro Mode is a huge step up for this sort of thing in terms of delivering direct and adaptive guidance relevant to my personal context, so it always helps to have more ideas for avenues of exploration.
+
+Also peeps never fail to seize a chance to be needlessly rude.",OpenAI,9,0,2024-12-24 08:57:17,intronaut34
+1hl71or,m3k7ibx,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,Thanks for the prompt idea,OpenAI,2,0,2024-12-24 06:56:43,oshonik
+1hl71or,m3kvhh6,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,This excellent essay lacks sections on How to Exit the Matrix and How to Break the Chain of Reincarnations.,OpenAI,3,0,2024-12-24 11:23:16,Life-Screen-9923
+1hl71or,m3kdjja,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,Haha the negative comments are people who really need these practices,OpenAI,5,0,2024-12-24 08:01:17,BrandonLang
+1hl71or,m3kg31d,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"This post and its comments showcase the range of reactions that discussions about self-control and focus techniques generate, especially when AI is involved. Let’s dissect and respond to some key themes:
+
+**To the naysayers (""I ain't reading that""):**  
+Totally valid. A wall of text can be daunting, but for those ready to dive in, it’s less about reading every word and more about finding nuggets that resonate. If someone walks away with just one actionable idea, the essay has done its job.
+
+**To those mocking the tone or concepts (""advanced numerical hieroglyphics""):**  
+It’s true—structured essays like this can sound overly formal or complex. But the core principles, like incremental progress and environment design, are rooted in universal truths. Strip away the jargon, and these are practices that many of us already use in everyday life.
+
+**To the skeptics of NLP:**  
+Fair point—neuro-linguistic programming (NLP) has its controversies. However, techniques like positive reframing and self-talk aren’t unique to NLP; they’re widely accepted in psychology as tools for improving mental resilience and focus.
+
+**For the genuinely curious:**  
+If you’re interested but overwhelmed, start small. Try one technique, like setting micro-commitments or doing a 5-minute breath focus exercise. Self-control isn’t about overhauling your life in a day—it’s about building small, sustainable habits over time.
+
+**My take:**  
+AI essays like this are a double-edged sword—they provide valuable insights but also risk alienating readers with their dense presentation. The real challenge isn’t just generating great content; it’s making it accessible and engaging for a diverse audience.
+
+What do you think? Should we prioritize depth or accessibility when tackling topics like this? Let’s keep the conversation going!",OpenAI,4,0,2024-12-24 08:29:46,TheAffiliateOrder
+1hl71or,m3ki285,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,Try with why modern press sucks. And how modern democracy sucks and it’s better not to vote 🤭,OpenAI,2,0,2024-12-24 08:52:09,Legitimate-Pumpkin
+1hl71or,m3k9bpl,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"Meh, okay",OpenAI,3,0,2024-12-24 07:15:42,Wild_Juggernaut_7560
+1hl71or,m3loeaw,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"Thanks for sharing can i request something, can you feed this back to o1 pro and ask it to explain each step of the advice from a neuroscience perspective and explain why these steps would work from a scientific pov. I too ask these models these kind of questions but do not have access to o1 pro. This essay in itself exceeds the quality of answers i have recieved so far from other models",OpenAI,1,0,2024-12-24 15:09:17,Lucky_Yam_1581
+1hl71or,m3mqh8t,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"This is quite an interesting compilation that resonates with lessons I've learned through life experience. However, it's missing a crucial element: the rhythm and evolution of self-destructive behaviors - what the Bible calls sin, and what manifests today primarily as non-substance addictions. I'm specifically referring to dopamine-driven addictions that distract from living a disciplined life.
+
+For men especially, this spans a wide spectrum - from internet pornography to spending excessive time on Reddit. Yes, even that counts.   
+  
+Actually, I fed the entire text into ChatGPT and asked it to rewrite it based on its ""memory"" of me and everything it knows about my profile. The result was absolutely fascinating - something I couldn't have achieved with my own prompt. So thanks again for putting this together.",OpenAI,1,0,2024-12-24 18:49:09,Odd_Category_1038
+1hl71or,m3nuce8,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"Great, now please give sources so we can continue the explanation and check for possible misinterpretations, copy-pastings and biases in your claims. Thank you!",OpenAI,1,0,2024-12-24 22:58:51,OvdjeZaBolesti
+1hl71or,m3kjr60,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,Great read so far. I’ll finish it up in the morning. I’m definitely going to start practicing some of these techniques.,OpenAI,0,0,2024-12-24 09:11:37,ToasterBreadz
+1hl71or,m3kat7c,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,Essays has been top notch for a while. Never needed anything better other than better prompts,OpenAI,0,0,2024-12-24 07:31:40,guaranteednotabot
+1hl71or,m3ogmh2,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,Literal slop. At least use [Google's Deep Research](https://blog.google/products/gemini/google-gemini-deep-research/) and plug the results into [GoogleLLM's podcast generator](https://notebooklm.google.com/) to produce something palatable to the masses from your thoughts.,OpenAI,0,0,2024-12-25 01:46:01,Shinobi_Sanin33
+1hl71or,m3k0tu8,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"I think we’re at a point where every response from o1 could essential be research paper worthy. The information it gives and its structure is legitimately very valuable, im curious how o3 would write this prompt, it might actually be able to stricture things in an easily digestible way that could be a blueprint for changing lives. One question and each response being nobel prize grade genius.",OpenAI,-13,0,2024-12-24 05:51:58,BrandonLang
+1hl71or,m3kcymf,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,NLP no thanks,OpenAI,-1,0,2024-12-24 07:54:59,Sound_and_the_fury
+1hl71or,m3kl6dq,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"Didnt know 27 was boomer age, guess i have to readjust ",OpenAI,-3,0,2024-12-24 09:27:52,BrandonLang
+1hl71or,m3klctw,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"Absolutely, same here, finding the right start and use some of these practices starting now. They could create a much better daily life for me by mid to late january if i can remain consistant. 
+
+And yeah i feel like when ai finds the cure for cancer its gonna get downvoted on reddit 😂😂",OpenAI,2,0,2024-12-24 09:29:58,BrandonLang
+1hl71or,m3l2exv,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"Ask and you shall receive: 
+
+# Exiting the Matrix and Breaking the Chain of Reincarnations
+
+In many philosophical and spiritual traditions, “the Matrix” can be seen as a symbol of the illusions and habits that keep us trapped in cycles of repetitive thought patterns—and, on a grander scale, in the cycle of birth, death, and rebirth. To exit the Matrix means to recognize these illusions for what they are: mental constructs that narrow our perception and limit our autonomy. By cultivating deep self-awareness (through meditation or mindful self‑reflection), and by constantly questioning inherited beliefs and assumptions, we gradually weaken the hold these illusions have on us.
+
+**Key Practices for “Breaking Out”:**
+
+* **Develop Radical Self-Inquiry:** Regularly ask, “Why do I think this? Whose belief is it? Does it actually serve me?” This type of interrogation helps dismantle rigid mental barriers that can fuel self-limiting behavior.
+* **Seek Stillness and Insight:** Whether through contemplative practice (e.g., Zen sitting, silent retreats) or intentional solitude (quiet walks without devices), moments of deep silence often reveal the deeper layers of consciousness beyond the everyday mental chatter.
+* **Live Deliberately and Ethically:** Aligning your actions with higher principles—such as compassion, gratitude, or service—can help you see beyond personal gain or societal “scripts,” loosening the grip of a purely ego-based existence.
+* **Embrace Continuous Learning:** Spiritual frameworks (e.g., the concept of karma in Eastern traditions) and modern psychological methods (cognitive reappraisal, neuro-linguistic tools) can both shine light on how we get trapped in behavioral loops. Understanding these mechanisms allows for real inner freedom.
+
+Ultimately, breaking out of the Matrix—or transcending the cycle of rebirth—demands consistent effort to see beyond ingrained thought forms and cultural programming. By refining your perception, deepening self‑awareness, and aligning with principles that foster genuine growth, you can move closer to a state of freedom from the illusions that perpetuate suffering—and step into a life of greater clarity and self-determination.",OpenAI,2,0,2024-12-24 12:32:04,BrandonLang
+1hl71or,m3ldwzl,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"Okay Bro ,  nevertheless this is spam",OpenAI,2,0,2024-12-24 14:00:40,prandtlmach
+1hl71or,m3ksk7a,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,Is this some unique content? Why would I be reading this instead of any specialized source if I was interested in the topic?,OpenAI,1,0,2024-12-24 10:51:15,stellar_opossum
+1hl71or,m3lq5dg,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"alright its a long answer and its going to take alot of replie,s but i apprecaite you asking this because its very interesting (also this could be a reason why Openai should create a family plan so people can share access to the more advanced tools with private profiles with family or friends and split costs: 
+
+Below is a step-by-step discussion of the **original essay’s core strategies** (on mental self-control, structured thinking, motivation, and focus) from a **neuroscience perspective**, along with **why** these methods tend to work scientifically.
+
+# I. Foundational Principles of Mental Architecture
+
+# 1. Meta-Awareness
+
+**Original Advice**: Practice becoming the observer of your thoughts (daily “check‑in” intervals, labeling emotions and impulses).
+
+**Neuroscience Perspective**:
+
+* **Prefrontal Cortex Activation**: Meta-awareness involves recruiting the dorsolateral prefrontal cortex (dlPFC)—part of the brain linked to self-monitoring and executive control. When you label a thought or emotion, you engage higher-order cognitive networks, temporarily reducing the activity of more reactive regions (e.g., the amygdala).
+* **Cognitive Reappraisal**: Studies show that simply naming an emotion can decrease its intensity by dampening activity in the limbic system (especially the amygdala). This process is sometimes called “affect labeling,” and it helps the brain shift from an emotional or habitual mode to a more reflective one.
+
+# 2. The Principle of Progression
+
+**Original Advice**: Build self-control incrementally through micro‑commitments, then scale up.
+
+**Neuroscience Perspective**:
+
+* **Dopamine and Reward Pathways**: Completing small goals releases dopamine in the brain’s reward circuitry (notably the nucleus accumbens). This reinforcement encourages repetition of the behavior. Over time, the consistent “small hits” of dopamine lead to stronger habit formation.
+* **Neuroplasticity**: Each success—no matter how small—strengthens neural pathways associated with discipline and confidence. This is a core tenet of neuroplasticity: repeated behaviors reshape neural circuits, making it easier to perform the behavior in the future.
+
+#",OpenAI,2,0,2024-12-24 15:19:54,BrandonLang
+1hl71or,m3mscfd,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"Absolutely, thats why its important to share your best results, because then others can build on it. Especially with o1 pro as its really blowing my mind with how good it is right now",OpenAI,2,0,2024-12-24 18:59:59,BrandonLang
+1hl71or,m3k4e1w,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"I mean its clearly labeled what it is, if you’re interested you can read it and decide if its valuable if not, you can ignore it. Not everyone has o1 pro and seeing some of the responses it gives especially if they are useful can maybe enlighten them to get it or see if itd worth the money and honestly, this would be the place to post these responses. Its not like this is random spam about me, it does have a valuable use case. Maybe you just need a break from this sub/reddit
+
+Also i would argue that this essay is alot more useful than human written posts a out the same topics, if someone googles the topic and finds this, as reddit results are usually top of the results, they could read this and find better conclusions than a bunch of random clickbait websites.
+
+And last thing: im sick of seeing the posts of people complaining about how expensive things are or that sora sucks or blah blah blah, but instead of complaining too, im going to post the content i wanna see. And this isnt about me its about the collective tool and good uses it has. If it came up with a response that changes your life do you share it or keep it to yourself? ",OpenAI,6,0,2024-12-24 06:25:32,BrandonLang
+1hl71or,m3ohusk,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,Nope this is useful,OpenAI,1,0,2024-12-25 01:55:48,BrandonLang
+1hl71or,m3kcmil,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,This is not research paper worthy,OpenAI,5,0,2024-12-24 07:51:18,ckow
+1hl71or,m3kh6rt,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,This paper is ass lmao,OpenAI,1,0,2024-12-24 08:42:18,Wonderful_Gap1374
+1hl71or,m3lfn4o,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,27 is definitely boomer age. You probably belong to millennials or earliest genZ.,OpenAI,-1,0,2024-12-24 14:12:43,lelouchlamperouge52
+1hl71or,m3ll61z,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"Uh, thank you. I have asked similar questions to other LLMs and received similar answers. The answers differ in word order or style, but the content, the essence of the answers does not change - they are as superficial and weak as the news on TV. It is sad.",OpenAI,1,0,2024-12-24 14:49:11,Life-Screen-9923
+1hl71or,m3lei2g,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,wrong,OpenAI,1,0,2024-12-24 14:04:48,BrandonLang
+1hl71or,m3kv6fh,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"Stellar\_opossum raises a valid question: why read this instead of diving into specialized sources? Here's my take:
+
+This essay serves as a bridge, synthesizing foundational concepts from various disciplines—psychology, neuroscience, productivity science—into an accessible overview. It’s not meant to replace in-depth resources but to provide a starting point or inspire curiosity. Specialized sources are invaluable for deep dives, but sometimes a broad perspective can help you decide which rabbit hole to explore.
+
+The value lies in accessibility and practicality:
+
+1. **Synthesis of Ideas**: Not everyone has the time or inclination to sift through dense academic papers or niche texts. Summaries like this distill key principles into digestible insights.
+2. **Actionable Tips**: Many specialized works focus on theory. Essays like this aim to turn those theories into practical steps you can apply immediately.
+3. **Engagement**: It invites discussion, challenging readers to reflect, critique, and share their own approaches—something most academic sources don’t do.
+
+Ultimately, it’s not an either-or scenario. Use this as a gateway to explore specialized resources if a particular concept sparks your interest. What do you think? Can overviews like this coexist with more rigorous, specialized content? Or do they dilute the depth of the subject?",OpenAI,1,0,2024-12-24 11:19:57,TheAffiliateOrder
+1hl71or,m3lqdh1,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,Thank you!!,OpenAI,2,0,2024-12-24 15:21:15,Lucky_Yam_1581
+1hl71or,m3lq7pu,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"# 3. The Principle of Holistic Balance
+
+**Original Advice**: Integrate good sleep, proper nutrition, and exercise to support self-control.
+
+**Neuroscience Perspective**:
+
+* **Sleep and Memory Consolidation**: Adequate sleep optimizes hippocampal function (memory consolidation) and helps “reset” the prefrontal cortex for executive tasks the next day. Sleep deprivation markedly decreases impulse control and working memory capacity.
+* **Glucose and Brain Function**: The brain requires a steady supply of glucose; a balanced diet (without excessive sugar spikes) supports sustained attention and emotional regulation. Rapid blood sugar fluctuations can impair frontal-lobe function, undercutting self‑control.
+* **Exercise and Neurotrophic Factors**: Regular physical activity elevates levels of Brain-Derived Neurotrophic Factor (BDNF), which fosters neuron growth and enhances cognition. Exercise also improves blood flow, supporting better focus and stress resilience.
+
+# II. Mental Framework Construction: Laying the Bricks
+
+# 1. Goal Hierarchies (Mental “Blueprints”)
+
+**Original Advice**: Align short-term tasks with mid- and long-term visions.
+
+**Neuroscience Perspective**:
+
+* **Working Memory and Goal Maintenance**: The prefrontal cortex holds short-term goals “online” and compares them to long-term objectives. Having a clear hierarchical structure reduces cognitive load—your brain knows how each action ties into a larger blueprint.
+* **Motivational Systems**: When you perceive clear links between present tasks and future rewards, the striatum (a reward-related region) remains more active. This synergy keeps you motivated because the brain recognizes the present task as meaningful within a broader timeline.
+
+# 2. Chunking and Layering Information
+
+**Original Advice**: Break large tasks or information sets into smaller, more manageable pieces (mind mapping, categorizing).
+
+**Neuroscience Perspective**:
+
+* **Cognitive Load Theory**: The brain’s working memory is limited. Grouping information into “chunks” allows the brain to manage complexity more efficiently.
+* **Schema Formation**: Over time, repeated exposure to well-structured knowledge leads to the creation of “schemas,” or mental frameworks stored in long-term memory. Once information is “chunked” into schemas, the brain can retrieve and manipulate these chunks with fewer cognitive resources.
+
+#",OpenAI,1,0,2024-12-24 15:20:17,BrandonLang
+1hl71or,m3mt9pt,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"I can confirm the impressive capabilities of O1 Pro. Just yesterday and today, I worked on some projects where it delivered flawless output on the first prompt - something that would have taken me hours to achieve manually, even at my peak performance.   
+  
+The quality is remarkable - far beyond what I could have produced through traditional methods, no matter how much time and effort I invested. I'm often amazed by both the speed and excellence of its output.",OpenAI,2,0,2024-12-24 19:05:27,Odd_Category_1038
+1hl71or,m3kdmkn,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"Hey OP thank you for posting this. Although I’m into this sort of thing I would not have prompted this type of output/format or this angle, and I it stands to meet a need I have not been able to implement (or therefore fulfil) so thank you for sharing this. 
+
+I plan to set this up as a framework for a dedicated GPT that will act as a coach issuing me directives based on these strategies and I will report back to receive adjusted coaching. Then repeat daily, weekly, monthly, yearly.",OpenAI,2,0,2024-12-24 08:02:12,frustratedfartist
+1hl71or,m3ojjkq,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,I tried to help.,OpenAI,1,0,2024-12-25 02:09:34,Shinobi_Sanin33
+1hl71or,m3lxhb5,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,nah. Boomers is a mindset and a specific generation. So he is a gen z boomer,OpenAI,2,0,2024-12-24 16:03:06,Space_Lux
+1hl71or,m3lfxd4,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"damn, wheres my social security checks",OpenAI,1,0,2024-12-24 14:14:38,BrandonLang
+1hl71or,m3lmyvl,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"I mean its the right answer though, maybe you just need to figure out a new approach. These methods do work. But they just dont sound as exciting as you might think they’re supposed to?
+
+Ive done these before and you can start to deprogram from what american society does to you",OpenAI,1,0,2024-12-24 15:00:27,BrandonLang
+1hl71or,m3ogp38,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,No you,OpenAI,0,0,2024-12-25 01:46:37,Shinobi_Sanin33
+1hl71or,m3l35bw,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,The internet is indeed dead,OpenAI,3,0,2024-12-24 12:38:39,stellar_opossum
+1hl71or,m3mu9w7,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"Absolutely, its an incredible advantage to have as long as you can use it to the best of its advantage. Ive been spending alot of time just thinking of interesting/productive things to ask it. ",OpenAI,2,0,2024-12-24 19:11:24,BrandonLang
+1hl71or,m3kevsq,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"Absolutely and that sounds like a great idea, i'd love to see what that turns into if you have plans to share!",OpenAI,2,0,2024-12-24 08:16:11,BrandonLang
+1hl71or,m3kex2d,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,Both of you sound like you used some LLM for your replies,OpenAI,1,0,2024-12-24 08:16:35,Drainix
+1hl71or,m3ojz6t,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,Couldve written your comment nicer if you only wanted to help,OpenAI,1,0,2024-12-25 02:13:04,BrandonLang
+1hl71or,m3mrrt5,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,Still people born before 2000 have great generational gap compared to people born after 2000 even though gen z started before 2000.,OpenAI,1,0,2024-12-24 18:56:39,lelouchlamperouge52
+1hl71or,m3n1ose,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"LLMs don't mention other methods, even though there are some. Maybe they weren't included in the original training data, or maybe they're not well known (they've been cited less often). Either way, LLMs know a lot, but how do we know what they don't know?",OpenAI,1,0,2024-12-24 19:55:14,Life-Screen-9923
+1hl71or,m3ohwa5,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,No u,OpenAI,1,0,2024-12-25 01:56:09,BrandonLang
+1hl71or,m3lqee7,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"# IV. Achieving “Absolute” Mind Control: Tactics and Mindsets
+
+# 1. Single-Pointed Concentration Practices
+
+**Original Advice**: Traditional breath-focused meditation to train sustained attention.
+
+**Neuroscience Perspective**:
+
+* **Anterior Cingulate Cortex (ACC)**: Meditation, especially focus-based types, strengthens the ACC, improving the ability to detect when your mind has wandered.
+* **Neuroplastic Changes**: Long-term meditators show structural changes in brain regions associated with attention and emotional regulation (e.g., increased gray matter density in the prefrontal cortex).
+
+# 2. Active Mind Control: Self‑Talk and NLP
+
+**Original Advice**: Use positive reframing and precise language to guide your thoughts.
+
+**Neuroscience Perspective**:
+
+* **Linguistic Framing and the Brain**: How you phrase thoughts can shift neural responses in both emotional (limbic) and cognitive (frontal) areas. Positive reframing triggers a more problem-solving oriented network rather than a threat-focused network.
+* **Neuro-Linguistic Pathways**: While the specifics of “NLP” remain debated, it’s clear that intentional self-talk can modulate the brain’s response to stress, primarily through the top-down regulation of the amygdala.
+
+# 3. “Pre-Commitment” and Environment Control
+
+**Original Advice**: Alter your environment to minimize temptations and pair tasks with positive triggers.
+
+**Neuroscience Perspective**:
+
+* **Cue-Dependent Behaviors**: Environmental cues strongly affect automatic behaviors via the basal ganglia. Altering your environment reduces the presence of triggers for undesired habits while adding triggers for desired behaviors.
+* **Prefrontal Cortex “Offloading”**: By engineering an environment that naturally aligns with your goals, you minimize the need for constant inhibitory control—frees up working memory and executive resources for more complex tasks.
+
+#",OpenAI,1,0,2024-12-24 15:21:24,BrandonLang
+1hl71or,m3mv6yk,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"I initially bought the O1 Pro Plan purely out of FOMO, and I even felt a bit guilty about it because I thought I wouldn't really need it.   
+  
+But I never expected it to save me so much time and deliver such high-quality output. The reduction in mental strain has been particularly amazing - it's honestly been a game-changer for me.",OpenAI,2,0,2024-12-24 19:16:51,Odd_Category_1038
+1hl71or,m3klv15,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,Is it cause we’re being nice? Lol. People don't realize that negativity online does have real world and lasting consequences. ,OpenAI,2,0,2024-12-24 09:35:51,BrandonLang
+1hl71or,m3oknet,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,Honestly my bad man. Your heart's in the right place.,OpenAI,2,0,2024-12-25 02:18:31,Shinobi_Sanin33
+1hl71or,m3nci5g,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"nah, someone born 2001 and someone born 1997 or 98 dot have a ""great generational gap"" LMAO",OpenAI,0,0,2024-12-24 21:02:03,Space_Lux
+1hl71or,m3lqfo5,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"# V. Sustaining the Structure Long-Term
+
+# 1. Iteration and Self-Audit
+
+**Original Advice**: Regularly review and adjust goals, habits, and progress.
+
+**Neuroscience Perspective**:
+
+* **Adaptive Coding**: The brain constantly adapts to new information and demands. Regular audits help you update neural “predictions” about which actions yield success or failure. This is akin to Bayesian updating in the brain—fresh data refines existing mental models.
+* **Error Monitoring**: The ACC and related circuits use feedback about mistakes or successes to fine-tune behavior. Regular reflection creates more data points for these brain systems to adjust future actions.
+
+# 2. Adapting to New Challenges
+
+**Original Advice**: Scale your methods as tasks grow in complexity; adopt project management frameworks.
+
+**Neuroscience Perspective**:
+
+* **Cognitive Flexibility**: Shifting from smaller tasks to more complex, multi-step challenges requires the lateral prefrontal cortex to handle additional layers of planning. Gradual up-leveling ensures the neural circuits for planning and inhibition expand in tandem with the demands.
+* **Distributed Neural Networks**: Complex tasks draw upon multiple brain regions (frontal for planning, parietal for spatial/organizational tasks, temporal for memory). Introducing systematic frameworks helps orchestrate these networks without overwhelming any single system.
+
+#",OpenAI,1,0,2024-12-24 15:21:37,BrandonLang
+1hl71or,m3olpcv,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,Appreciate it!,OpenAI,1,0,2024-12-25 02:27:01,BrandonLang
+1hl71or,m3lqg2y,I asked o1 pro to write an essay about self control and how to focus your mind… it did not dissapoint,"# 3. Lifelong Learning Mindset
+
+**Original Advice**: Keep acquiring new tools and knowledge for continuous growth.
+
+**Neuroscience Perspective**:
+
+* **Brain Plasticity Continues**: Contrary to old beliefs, neurogenesis and plasticity continue well into adulthood, especially in the hippocampus. Lifelong learning keeps these processes active, enhancing cognitive reserve.
+* **Resilience and Mental Agility**: Continual learning and novelty-seeking promote dopamine release and maintain cognitive flexibility. This not only staves off mental rigidity but can protect against cognitive decline over time.
+
+# Summary of the Neuroscientific Rationale
+
+1. **Executive Control**: Many strategies rely on strengthening the prefrontal cortex (PFC) to regulate emotions, impulses, and attention.
+2. **Reward and Reinforcement**: Incremental wins and conscious reward-seeking leverage dopaminergic pathways to build new habits and sustain motivation.
+3. **Cognitive Load Management**: Techniques like chunking, mind mapping, and environment “hacking” reduce unnecessary strain on working memory, boosting overall efficiency.
+4. **Emotional Regulation**: Labeling emotions, positive reframing, and meditation help down-regulate limbic (emotion-based) reactivity, promoting calm, focused action.
+5. **Neuroplasticity**: Consistent practice of these behaviors rewires neural connections, solidifying the mental architecture for higher discipline, clarity, and adaptability.
+
+By integrating these methods, you essentially **optimize brain function** in both the short and long term—enabling greater self-control, creativity, and resilience in the face of life’s challenges.",OpenAI,1,0,2024-12-24 15:21:41,BrandonLang
+1hye961,m6h8g9p,Can anyone with o1 API access share their experience? I just got it and would love to know what's different from o1-preview.,"Context limit is the biggest one. I find the output quality for coding better than o1 preview. I get accurate one shot results much more often, and significantly less time debugging.",OpenAI,6,0,2025-01-10 22:10:25,Exotic-Sale-3003
+1hye961,m6gqvgf,Can anyone with o1 API access share their experience? I just got it and would love to know what's different from o1-preview.,"Stronger, harder, longer, pulsing, throbbing, persistent, juicier",OpenAI,12,0,2025-01-10 20:42:17,Straight_Writer2545
+1hye961,m6gzqhl,Can anyone with o1 API access share their experience? I just got it and would love to know what's different from o1-preview.,o1 is only tier 5 D:???,OpenAI,2,0,2025-01-10 21:26:10,TheoreticalClick
+1hye961,m6grsyz,Can anyone with o1 API access share their experience? I just got it and would love to know what's different from o1-preview.,"You have like 100 (or less?) requests for with a weekly (?) reset. It's pretty low for an active development to be honest. 
+
+For the actual usage - it''s 100% better then 4o and preview.",OpenAI,1,0,2025-01-10 20:46:51,Kenshiken
+1hye961,m6hd6b6,Can anyone with o1 API access share their experience? I just got it and would love to know what's different from o1-preview.,How it's different it right there in the email...,OpenAI,-1,0,2025-01-10 22:35:17,Jdonavan
+1hye961,m6h8mrx,Can anyone with o1 API access share their experience? I just got it and would love to know what's different from o1-preview.,That's so good to hear,OpenAI,1,0,2025-01-10 22:11:21,Synyster328
+1hye961,m6h04nq,Can anyone with o1 API access share their experience? I just got it and would love to know what's different from o1-preview.,... go on...,OpenAI,4,0,2025-01-10 21:28:08,torb
+1hye961,m6hjp8k,Can anyone with o1 API access share their experience? I just got it and would love to know what's different from o1-preview.,yeah it’s been like that for a while,OpenAI,1,0,2025-01-10 23:10:41,hellofriend19
+1hye961,m6hqdh3,Can anyone with o1 API access share their experience? I just got it and would love to know what's different from o1-preview.,You can get preview on lower tiers I believe,OpenAI,1,0,2025-01-10 23:48:29,novexion
+1hye961,m6h8ja9,Can anyone with o1 API access share their experience? I just got it and would love to know what's different from o1-preview.,Isn't that only through ChatGPT? I didn't see limits mentioned with the API,OpenAI,2,0,2025-01-10 22:10:51,Synyster328
+1hye961,m6hph8k,Can anyone with o1 API access share their experience? I just got it and would love to know what's different from o1-preview.,Thanks but I meant the behavior and from people with experience not the company selling it to me 👍,OpenAI,4,0,2025-01-10 23:43:18,Synyster328
+1hye961,m6j4s3k,Can anyone with o1 API access share their experience? I just got it and would love to know what's different from o1-preview.,"It's not clear what are they gaining by serving o1-preview and not full o1 on lower tiers; If they are priced the same, I suppose the compute costs are similar too (?)",OpenAI,1,0,2025-01-11 04:52:59,spgremlin
+1hye961,m6hgwis,Can anyone with o1 API access share their experience? I just got it and would love to know what's different from o1-preview.,"Yes, o1 API would definitely be billed as you go and not behind any weekly limits.",OpenAI,3,0,2025-01-10 22:55:14,RenoHadreas
+1hye961,m6j6w9i,Can anyone with o1 API access share their experience? I just got it and would love to know what's different from o1-preview.,O1 preview is better in some tasks. I think o1 actually uses less compute and is trained to “think” less but yeah same compute costs per output I believe. So yeah it’s perplexing,OpenAI,1,0,2025-01-11 05:09:17,novexion
+1hye961,m6hpdej,Can anyone with o1 API access share their experience? I just got it and would love to know what's different from o1-preview.,I paid for the chatGPT pro or whatever to get Sora and was pretty sure I saw something about regular limits on the o1 models. No thanks lol,OpenAI,1,0,2025-01-10 23:42:41,Synyster328
+1hye961,m6ht47c,Can anyone with o1 API access share their experience? I just got it and would love to know what's different from o1-preview.,"o1 and o1 pro *should* be unlimited on ChatGPT Pro, but you’re right, I’ve also seen some posts here and there of ChatGPT Pro users being temporarily restricted from o1. Regardless, I’m pretty sure whatever they’re offering ChatGPT Pro subscribers is much more lenient than the 50 a week limit for Plus users",OpenAI,1,0,2025-01-11 00:04:03,RenoHadreas
+1h59q76,m04gy06,Confused About Custom GPTs and Updates. Need clarity for following 6 questions. ,All custom GPTs use 4o currently.,OpenAI,1,0,2024-12-03 00:28:19,m0nkeypantz
+1h59q76,m099an6,Confused About Custom GPTs and Updates. Need clarity for following 6 questions. ,you're essentially just looking for the system prompt for the regular chat gpt. there is nothing special or magic about custom gpt's they are just system prompts + being able to access files whenever + being able to use basic api's,OpenAI,1,0,2024-12-03 20:30:37,Sweet_Ad1847
+1h59q76,m04f2n8,Confused About Custom GPTs and Updates. Need clarity for following 6 questions. ,RemindMe! 3 days,OpenAI,0,0,2024-12-03 00:17:06,sushibait
+1h59q76,m04iv9p,Confused About Custom GPTs and Updates. Need clarity for following 6 questions. ,"Hi. For some reason, your response gave me the groundbreaking and mindblowing idea of just asking the GPT again lol. Please read the edit at the bottom of my post to see the GPT's full response. Basically, it still claims to use GPT-4.",OpenAI,1,0,2024-12-03 00:39:47,Raza2148
+1h59q76,m04f5xf,Confused About Custom GPTs and Updates. Need clarity for following 6 questions. ,"I will be messaging you in 3 days on [**2024-12-06 00:17:06 UTC**](http://www.wolframalpha.com/input/?i=2024-12-06%2000:17:06%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/OpenAI/comments/1h59q76/confused_about_custom_gpts_and_updates_need/m04f2n8/?context=3)
+
+[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2FOpenAI%2Fcomments%2F1h59q76%2Fconfused_about_custom_gpts_and_updates_need%2Fm04f2n8%2F%5D%0A%0ARemindMe%21%202024-12-06%2000%3A17%3A06%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201h59q76)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|",OpenAI,0,0,2024-12-03 00:17:39,RemindMeBot
+1h59q76,m04j6pi,Confused About Custom GPTs and Updates. Need clarity for following 6 questions. ,"It doesn't know what version it is. You can ask 4o and it will say 4. 
+
+This faq page confirms gpts all use 4o.
+https://help.openai.com/en/articles/8554407-gpts-faq#h_1fd8169072",OpenAI,1,0,2024-12-03 00:41:41,m0nkeypantz
+1h59q76,m04qfue,Confused About Custom GPTs and Updates. Need clarity for following 6 questions. ,"ChatGPT blatantly lying to my face was not on my bucketlist this year. Wow. Anyways, thanks. Much appreciated. 
+
+Any opinion on my other queries btw?",OpenAI,1,0,2024-12-03 01:25:23,Raza2148
+1h59q76,m0991t2,Confused About Custom GPTs and Updates. Need clarity for following 6 questions. ,bro you have a lot to learn,OpenAI,2,0,2024-12-03 20:29:22,Sweet_Ad1847
+1geecym,lueumm8,I created a reasoning model that uses both OpenAI and Anthropic models.  When asked which company to subscribe to Claude 3.5 recommends OpenAI both in the reasoning and the final answer.,"This is interesting, but it seems like claude gets one step in the process versus two steps for gpt (4o and 4o mini, respectively).  If the roles were reversed, I'm not sure that the outcome would still pick ChatGPT -- but even then, it is unclear whether that is a function of model bias (i.e., claude being more charitable, less biased than gpt -- or not).",OpenAI,1,0,2024-10-29 20:50:06,Careful_Meaning2022
+1fg3yo0,ln4kewe,I asked o1 to come up with a 6 month growth plan for our language learning app - blown away by the result,Does anyone know something similar but with Japanese ? ,OpenAI,1,0,2024-09-14 18:57:34,xGamerG7
+1fg3yo0,lnf2981,I asked o1 to come up with a 6 month growth plan for our language learning app - blown away by the result,"That's amazing, I'm going to do that this morning for my startup too! 
+
+Your app sounds very cool as well ignore the haters.",OpenAI,1,0,2024-09-16 15:00:50,Reflectioneer
+1fg3yo0,ln4l8fc,I asked o1 to come up with a 6 month growth plan for our language learning app - blown away by the result,"I’ve heard good things about Miraa for Japanese. There’s also Umi, which is slightly different (learning individual words through very short tv show clips) but along the same track of learning through content.",OpenAI,2,0,2024-09-14 19:01:52,immersi_language
+1fg3yo0,lmzdbvr,I asked o1 to come up with a 6 month growth plan for our language learning app - blown away by the result,Man....,OpenAI,2,0,2024-09-13 20:11:42,LimTimLmao
+1fg3yo0,lne8wvp,I asked o1 to come up with a 6 month growth plan for our language learning app - blown away by the result,"Thanks, I'll take a look",OpenAI,1,0,2024-09-16 11:50:09,xGamerG7
+1fg3yo0,lmzruu1,I asked o1 to come up with a 6 month growth plan for our language learning app - blown away by the result,"Forget about this dude. No need to be this way. If he wants to continue its easy to ignore.
+
+On topic: what OP wrote was actually refreshing to read, that it can create a better plan then ever before.
+
+I rememeber when i tried making an app and it proposed how i would do it. This is lightyears better",OpenAI,1,0,2024-09-13 21:33:17,Fine-Improvement6254
+1fg3yo0,ln00a8p,I asked o1 to come up with a 6 month growth plan for our language learning app - blown away by the result,"I dont see it as an ad. But at the same time i might be slow due to stoned. So you may be right, this maybe an ad.. For god sake!
+
+But it was atleast nice to see gpt get to work :)",OpenAI,2,0,2024-09-13 22:24:31,Fine-Improvement6254
+1fha6a2,lo41fmv,Hallucinations / Spurious Tokens in Reasoning Summaries.,"This is a really cool breakdown, thanks for putting this together. I referred to it in the recent blog [post](https://www.prompthub.us/blog/faithful-chain-of-thought-reasoning-guide) I just finished up about faithful reasoning",OpenAI,1,0,2024-09-20 20:59:59,dancleary544
