@@ -33,7 +33,7 @@ def main():
                 query_text = txt_file.read().strip()
 
             # Read the CSV into a DataFrame
-            df = pd.read_csv(csv_path)
+            df = pd.read_csv(csv_path, on_bad_lines='warn')
 
             # Append the query text as a new column
             df["query"] = query_text
