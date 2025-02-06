@@ -5,3 +5,6 @@
 data_reddit_*
 reddit_data_*
 data_*
+
+# Ignore data files
+*.csv
