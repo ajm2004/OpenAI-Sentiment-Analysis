@@ -27,9 +27,16 @@ SIDDH: r/ChatGPT
 
 We collectively collected over 600k records from Reddit by providing queries related to OpenAI and its products
 
-
 ## WEEK 4
 
 We realized that there was too much low quality data in our dataset. A lot of the records were replies to previous comments on a post, so a sentiment analysis model would not have the adequate context to make a decision on the company,
 
 Therefore, we decided to repeat our data collection, this time, only collecting posts and their top-level comments. These would be processed, converted to TFIDF vectors and used to calculate cosine similarity to a query, in order to retrieve only relevant records.
+
+AJAY: Repeated the data collection and restricted to top-level comments
+
+ANSON: Conducted the text preprocessing, vectorized the text using TF-IDF and calculated cosine similarity to a query, in order to select the relevant rows.
+
+JONATHAN: Labelled the data using a Sentiment Analysis Transformer model from Hugging Face (Part 1 of the labelling pipeline)
+
+SIDDH: Heuristically filtered the data to remove too short/too long records, etc.
