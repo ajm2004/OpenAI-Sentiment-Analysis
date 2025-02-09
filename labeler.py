@@ -7,7 +7,7 @@ st.set_page_config(page_title="Data Labelling Application", layout="wide")
 
 # Hardcoded password and file path
 PASSWORD = "f20aa5"
-FILE = "similarity_scores.csv"
+FILE = "Data/labelled_data_1.csv"
 
 def update_label(label):
     """Callback to update the manual label, advance the index, and write to CSV."""
@@ -140,8 +140,8 @@ def main():
             raw_label = df.iloc[index]["label_1"]
             automated_label = label_mapping.get(raw_label, str(raw_label))
         st.markdown(f"##### Label: {automated_label}")
-        if "scores_1" in df.columns:
-            score = df.iloc[index]["scores_1"]
+        if "score_1" in df.columns:
+            score = df.iloc[index]["score_1"]
             if pd.notna(score):
                 st.markdown(f"##### Score: {score:.3f}")
             else:
