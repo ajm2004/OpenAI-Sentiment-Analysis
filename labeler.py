@@ -133,14 +133,14 @@ def main_screen():
         st.markdown("##### Manual Label:")
         manual = df.iloc[index]["m_label_1"]
         manual_label_text = manual if pd.notna(manual) and manual != "" else "None"
-        emoji_map = {
-            "Positive": "😊",
-            "Neutral": "😐", 
-            "Negative": "😞",
-            "Irrelevant": "❌",
-            "None": "❓"
+        number_map = {
+            1: "Positive 😊",
+            0: "Neutral 😐",
+            -1: "Negative 😞",
+            4: "Irrelevant ❌",
+            "None": "No label"
         }
-        st.markdown(f"{manual_label_text} {emoji_map.get(manual_label_text, '❓')}")
+        st.markdown(f"{number_map.get(manual_label_text, 'No label')}")
 
     # --- Label Selection Buttons ---
     st.markdown("### Select a label:")
