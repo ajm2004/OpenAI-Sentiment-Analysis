@@ -39,4 +39,10 @@ ANSON: Conducted the text preprocessing, vectorized the text using TF-IDF and ca
 
 JONATHAN: Labelled the data using a Sentiment Analysis Transformer model from Hugging Face (Part 1 of the labelling pipeline)
 
-SIDDH: Heuristically filtered the data to remove too short/too long records, etc.
+SIDDH: Heuristically filtered the data to remove too short/too long records, etc. Built the UI for manually labelling the data
+
+## WEEK 5
+
+Upon manually labelling the data, we realized that ~40% of the 450 labelled claims were irrelevant, indicating that tdidf performed poorly. Therefore, we are going ahead for an updated round of retrieval using embeddings similarity:
+
+JONATHAN: Retrieving the most semantically relevant data with an embedding model, Labelling data with TextBlob/Vader
