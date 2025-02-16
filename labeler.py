@@ -30,7 +30,7 @@ def update_label(label):
     """Callback to update the manual label, advance the index, and write to CSV."""
     idx = st.session_state.index  # current record index
     original_idx = st.session_state.df.index[idx]  # get the original index
-    label_map = {"Positive": 1, "Neutral": 0, "Negative": -1, "Irrelevant": 4}
+    label_map = {"Positive": 1, "Neutral": 0, "Negative": -1, "Irrelevant": 2}
     
     # Read the complete original file
     full_df = pd.read_csv(FILE, engine='pyarrow')
@@ -49,7 +49,7 @@ def update_label(label):
             st.success("All contradictions reviewed!")
         st.session_state.index = next_idx
     else:
-        st.session_state.index = idx + 1
+        st.session_state.index = idx + 1 if idx + 1 < len(st.session_state.df) else len(st.session_state.df)
 
 def sidebar_controls():
     global FILE
@@ -82,8 +82,8 @@ def sidebar_controls():
         except Exception as e:
             st.error(f"Error reading CSV file '{FILE}': {e}")
             st.stop()
-        if "Cleaned Text" not in df_new.columns:
-            st.error("CSV file must contain a 'Cleaned Text' column.")
+        if "text" not in df_new.columns:
+            st.error("CSV file must contain a 'text' column.")
             st.stop()
         if "m_label_1" not in df_new.columns:
             df_new["m_label_1"] = ""
@@ -133,7 +133,7 @@ def sidebar_controls():
         "Jump to record (1-indexed)",
         min_value=1,
         max_value=total_records,
-        value=st.session_state.index + 1
+        value=st.session_state.index + 1 if st.session_state.index < total_records else total_records
     )
     if jump - 1 != st.session_state.index:
         st.session_state.index = jump - 1
@@ -174,8 +174,9 @@ def display_full_labeling():
     # --- Grid Layout: Left (Text Areas) & Right (Labels) ---
     col_left, col_right = st.columns(2)
     with col_left:
-        st.markdown("### Cleaned Text:")
-        st.text_area("Cleaned Text", value=str(df.iloc[index]["Cleaned Text"]), height=150, disabled=True)
+        if "Cleaned Text" in df.columns:
+            st.markdown("### Cleaned Text:")
+            st.text_area("Cleaned Text", value=str(df.iloc[index]["Cleaned Text"]), height=150, disabled=True)
         st.markdown("### Original Text:")
         if "text" in df.columns:
             st.text_area("Original Text", value=str(df.iloc[index]["text"]), height=150, disabled=True)
@@ -184,14 +185,16 @@ def display_full_labeling():
     
     with col_right:
         st.markdown("##### Automated Label:")
-        label_mapping = {1: "Positive", 0: "Neutral", -1: "Negative"}
+        label_mapping = {1: "Positive", 0: "Neutral", -1: "Negative", 2: "Irrelevant"}
         raw = df.iloc[index].get("label_1", None)
         automated_label = label_mapping.get(raw, str(raw)) if pd.notna(raw) and raw != "" else "None"
         st.markdown(f"Label: {automated_label}")
         if "score_1" in df.columns:
             score = df.iloc[index]["score_1"]
             st.markdown(f"Score: {score:.3f}" if pd.notna(score) else "##### Score: None")
+
         st.markdown("---")
+
         st.markdown("##### Manual Label:")
         manual = df.iloc[index]["m_label_1"]
         manual_label_text = manual if pd.notna(manual) and manual != "" else "None"
@@ -199,7 +202,7 @@ def display_full_labeling():
             1: "Positive 😊",
             0: "Neutral 😐",
             -1: "Negative 😞",
-            4: "Irrelevant ❌",
+            2: "Irrelevant ❌",
             "None": "No label"
         }
         st.markdown(f"{number_map.get(manual_label_text, 'No label')}")
@@ -273,7 +276,7 @@ def display_contradiction_resolution():
         
         # Automated Label (label_1)
         st.markdown("##### Automated Label 1:")
-        label_mapping = {1: "Positive", 0: "Neutral", -1: "Negative"}
+        label_mapping = {1: "Positive", 0: "Neutral", -1: "Negative", 2: "Irrelevant"}
         raw_label = df.iloc[index].get("label_1", None)
         automated_label = label_mapping.get(raw_label, str(raw_label)) if pd.notna(raw_label) else "Not available"
         st.markdown(f"Label: {automated_label}")
@@ -306,7 +309,7 @@ def display_contradiction_resolution():
             1: "Positive 😊",
             0: "Neutral 😐",
             -1: "Negative 😞",
-            4: "Irrelevant ❌",
+            2: "Irrelevant ❌",
             "None": "No label"
         }
         manual_label = number_map.get(manual, "Not available") if pd.notna(manual) else "Not available"
@@ -376,8 +379,8 @@ def main():
     except Exception as e:
         st.error(f"Error reading CSV file '{FILE}': {e}")
         st.stop()
-    if "Cleaned Text" not in df.columns:
-        st.error("CSV file must contain a 'Cleaned Text' column.")
+    if "text" not in df.columns:
+        st.error("CSV file must contain a 'text' column.")
         st.stop()
     if "m_label_1" not in df.columns:
         df["m_label_1"] = ""
