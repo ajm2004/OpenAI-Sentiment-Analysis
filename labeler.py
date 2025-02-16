@@ -138,6 +138,21 @@ def sidebar_controls():
     if jump - 1 != st.session_state.index:
         st.session_state.index = jump - 1
 
+    # Export all the data combined
+    if st.sidebar.button("Export All Data"):
+        # select all the files in the Data folder
+        csv_files = glob.glob(os.path.join("Data", "*.csv"))
+        # read all the files and concatenate them
+        df = pd.concat([pd.read_csv(file, engine='pyarrow') for file in csv_files])
+        # save the combined data to a new file
+        combined_file = os.path.join("Data", "combined_data.csv")
+        df.to_csv(combined_file, index=False)
+
+        # download the combined file
+        csv_data = df.to_csv(index=False).encode("utf-8")
+        st.sidebar.download_button(label="Download Combined CSV", data=csv_data, file_name="combined_data.csv", mime="text/csv")
+        
+
 def display_full_labeling():
     df = st.session_state.df
     index = st.session_state.index
