@@ -124,8 +124,14 @@ def sidebar_controls():
 
     # --- Sidebar: Export Option ---
     if "df" in st.session_state:
-        csv_data = st.session_state.df.to_csv(index=False).encode("utf-8")
-        st.sidebar.download_button(label="Export CSV", data=csv_data, file_name="exported_data.csv", mime="text/csv")
+        df = st.session_state.df.rename(columns={
+            'label_1': 'roberta_label',
+            'score_1': 'roberta_score',
+            'm_label_1': 'manual_label'
+        })
+        csv_data = df.to_csv(index=False).encode("utf-8")
+        export_filename = os.path.basename(FILE)  # Get just the filename from the full path
+        st.sidebar.download_button(label="Export CSV", data=csv_data, file_name=export_filename, mime="text/csv")
 
     # --- Sidebar: Jump-to-Record Control (1-indexed) ---
     total_records = len(st.session_state.df)
@@ -139,19 +145,19 @@ def sidebar_controls():
         st.session_state.index = jump - 1
 
 
-    # Export all the data combined
-    if st.sidebar.button("Export All Data"):
-        # select all the files in the Data folder
-        csv_files = glob.glob(os.path.join("Data", "*.csv"))
-        # read all the files and concatenate them
-        df = pd.concat([pd.read_csv(file, engine='pyarrow') for file in csv_files])
-        # save the combined data to a new file
-        combined_file = os.path.join("Data", "combined_data.csv")
-        df.to_csv(combined_file, index=False)
+    # # Export all the data combined
+    # if st.sidebar.button("Export All Data"):
+    #     # select all the files in the Data folder
+    #     csv_files = glob.glob(os.path.join("Data", "*.csv"))
+    #     # read all the files and concatenate them
+    #     df = pd.concat([pd.read_csv(file, engine='pyarrow') for file in csv_files])
+    #     # save the combined data to a new file
+    #     combined_file = os.path.join("Data", "combined_data.csv")
+    #     df.to_csv(combined_file, index=False)
 
-        # download the combined file
-        csv_data = df.to_csv(index=False).encode("utf-8")
-        st.sidebar.download_button(label="Download Combined CSV", data=csv_data, file_name="combined_data.csv", mime="text/csv")
+    #     # download the combined file
+    #     csv_data = df.to_csv(index=False).encode("utf-8")
+    #     st.sidebar.download_button(label="Download Combined CSV", data=csv_data, file_name="combined_data.csv", mime="text/csv")
 
     # Export all the data combined
     if st.sidebar.button("Export All Data"):
