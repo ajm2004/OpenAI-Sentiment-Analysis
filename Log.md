@@ -8,10 +8,10 @@ We formed the group
 
 We researched different companies, and decided to choose OpenAI for company reputation analysis, due to the large number of data available related to the company and its products, as well as the diversity of the subreddits.
 
-* **AJAY**: Hands on electronics
-* **ANSON**: Cars
-* **JONATHAN**: AI Research Companies (OpenAI, Deepseek, Anthropic, etc.)
-* **SIDDH**: CPU and GPU
+- **AJAY**: Hands on electronics
+- **ANSON**: Cars
+- **JONATHAN**: AI Research Companies (OpenAI, Deepseek, Anthropic, etc.)
+- **SIDDH**: CPU and GPU
 
 ## WEEK 3
 
@@ -40,3 +40,9 @@ ANSON: Conducted the text preprocessing, vectorized the text using TF-IDF and ca
 JONATHAN: Labelled the data using a Sentiment Analysis Transformer model from Hugging Face (Part 1 of the labelling pipeline)
 
 SIDDH: Heuristically filtered the data to remove too short/too long records, etc.
+
+## WEEK 5
+
+Upon manually labelling the data, we realized that ~40% of the 450 labelled claims were irrelevant, indicating that tdidf performed poorly. Therefore, we are going ahead for an updated round of retrieval using embeddings similarity:
+
+JONATHAN: Retrieving the most semantically relevant data with an embedding model, Labelling data with TextBlob/Vader.

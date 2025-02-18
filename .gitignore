@@ -2,9 +2,12 @@
 .env
 
 # Ignore Data Folders
-data_reddit_*
-reddit_data_*
-data_*
+data_reddit_*/
+reddit_data_*/
+data_*/
+
+# Ignore the Models files
+Models/*finetuned_model*/
 
 # Ignore irrelevant or large files
 *.csv
