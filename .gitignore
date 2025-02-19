@@ -12,3 +12,4 @@ Models/*finetuned_model*/
 # Ignore irrelevant or large files
 *.csv
 *.json
+*.txt
