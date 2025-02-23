@@ -13,3 +13,4 @@ Models/*finetuned_model*/
 *.csv
 *.json
 *.txt
+*.jpg
